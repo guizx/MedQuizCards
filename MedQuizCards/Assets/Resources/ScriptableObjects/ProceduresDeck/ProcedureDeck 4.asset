@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a12151c0ab785fc48accd5dac700db6d, type: 3}
+  m_Name: ProcedureDeck 4
+  m_EditorClassIdentifier: 
+  procedureName: Procedimento 4
+  procedureImage: {fileID: 0}
+  questions:
+  - {fileID: 11400000, guid: 5f7411539e9883b49ad5c17a8c142d0c, type: 2}
+  - {fileID: 11400000, guid: ef971a9f5d5954740a67543dd9aa3264, type: 2}
+  - {fileID: 11400000, guid: a9f5002a255daf94d82ccae272c2493d, type: 2}
+  - {fileID: 11400000, guid: 8dc97f2e1687dad439d466f15411e3ed, type: 2}
+  - {fileID: 11400000, guid: a716aef4c4062254aa547595a60c3ac0, type: 2}
+  - {fileID: 11400000, guid: a6b441f30a4ca884f8d53dd4a23d611b, type: 2}
+  - {fileID: 11400000, guid: 4dc0248ce9b1dd94ab49e38bbb0ddf4c, type: 2}
+  - {fileID: 11400000, guid: 3c8c0e4d990a82e429f199541202b1a9, type: 2}
