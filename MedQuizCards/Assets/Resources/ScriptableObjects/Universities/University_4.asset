@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: University_4
   m_EditorClassIdentifier: 
   Name: Universidade 4
-  Icon: {fileID: 0}
+  Icon: {fileID: 21300000, guid: 29f77b163e361b24680b9d6cb9f66fc7, type: 3}
   Background: {fileID: 0}
   Color: {r: 1, g: 0.36320752, b: 0.36320752, a: 1}
