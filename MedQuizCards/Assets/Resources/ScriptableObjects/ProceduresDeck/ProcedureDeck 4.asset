@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12151c0ab785fc48accd5dac700db6d, type: 3}
   m_Name: ProcedureDeck 4
   m_EditorClassIdentifier: 
-  procedureName: Procedimento 4
+  procedureName: ATLS
   procedureImage: {fileID: 0}
   questions:
   - {fileID: 11400000, guid: 5f7411539e9883b49ad5c17a8c142d0c, type: 2}

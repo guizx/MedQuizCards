@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 4
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual o tempo m\xE9dio para retirada de pontos no rosto?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: 3 dias
+    isCorrect: 0
+  - answerText: 5 a 7 dias
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: 10 a 14 dias
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: 21 dias
     isCorrect: 0

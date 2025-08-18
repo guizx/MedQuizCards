@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 4
   m_EditorClassIdentifier: 
-  questionText: Pergunta 4
+  questionText: "Onde \xE9 feita a pun\xE7\xE3o da cricotireoidostomia?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Entre as cartilagens aritenoides e a epiglote\L"
+    isCorrect: 0
+  - answerText: Entre a cartilagem tireoide e o osso hioide
+    isCorrect: 0
+  - answerText: Membrana cricotireoidea
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Entre os an\xE9is traqueais inferiores"
     isCorrect: 0

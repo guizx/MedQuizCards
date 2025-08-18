@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P4_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Paciente com fratura de base cr\xE2nio, como abordar a via a\xE9rea
+    de forma emergencial? "
   options:
-  - answerText: Resposta 1
+  - answerText: IOT
+    isCorrect: 0
+  - answerText: "Cricotireoidostomia por pun\xE7\xE3o"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Traquiostomia
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Cricotireoidostomia cir\xFArgica"
     isCorrect: 0

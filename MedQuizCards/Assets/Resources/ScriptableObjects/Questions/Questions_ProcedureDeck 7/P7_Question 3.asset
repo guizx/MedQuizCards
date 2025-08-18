@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P7_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual a posi\xE7\xE3o correta do colo do \xFAtero para inser\xE7\xE3o
+    do DIU?"
   options:
-  - answerText: Resposta 1
+  - answerText: "O colo deve estar em flex\xE3o anterior"
+    isCorrect: 0
+  - answerText: "O colo deve estar retra\xEDdo e aberto"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "O colo deve estar fechado e contra\xEDdo"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: O colo deve estar dilatado aproximadamente 3 cm
     isCorrect: 0

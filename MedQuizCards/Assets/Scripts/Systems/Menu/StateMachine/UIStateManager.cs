@@ -37,7 +37,7 @@ namespace Nato.StateMachine
 
         private void Start()
         {
-
+            StateMachine.TransitionTo(States.UniversitySelectionState);
         }
 
         private void Update()

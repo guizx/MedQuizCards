@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta 3
+  questionText: "Qual o nome da estrutura anat\xF4mica onde \xE9 posicionado o laringosc\xF3pio
+    na intuba\xE7\xE3o orotraqueal?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: Laringe
+    isCorrect: 0
+  - answerText: "Val\xE9cula"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "\xDAvula"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Adenoide
     isCorrect: 0

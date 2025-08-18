@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 1
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual a principal indica\xE7\xE3o do acesso venoso profundo?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Administra\xE7\xE3o de medica\xE7\xE3o oral"
+    isCorrect: 0
+  - answerText: "Monitoramento da press\xE3o arterial n\xE3o invasiva"
+    isCorrect: 0
+  - answerText: "Infus\xE3o de droga vasoativa"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Coleta de sangue para exames de rotina\r"
     isCorrect: 0

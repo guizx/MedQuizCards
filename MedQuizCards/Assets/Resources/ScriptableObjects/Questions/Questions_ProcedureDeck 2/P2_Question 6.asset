@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Em qual das situa\xE7\xF5es abaixo \xE9 mais indicado o uso de um
+    enxerto de pele?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Ferida profunda com exposi\xE7\xE3o \xF3ssea"
+    isCorrect: 0
+  - answerText: "\xC1rea extensa e rasa com bom leito vascular"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Regi\xE3o com tecido infectado\L"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Ferida em regi\xE3o de dobras"
     isCorrect: 0

@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P8_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual a posi\xE7\xE3o fetal mais favor\xE1vel para um parto vaginal?"
   options:
-  - answerText: Resposta 1
+  - answerText: "P\xE9lvica"
+    isCorrect: 0
+  - answerText: Transversa
+    isCorrect: 0
+  - answerText: Occipital anterior
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Occipital posterior
     isCorrect: 0

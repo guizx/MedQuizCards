@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P7_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: O DIU de cobre tem validade de quantos anos?
   options:
-  - answerText: Resposta 1
+  - answerText: 10 anos
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: 5 anos
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: 8 anos
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: 3 anos
     isCorrect: 0

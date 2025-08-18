@@ -1,20 +1,56 @@
 using Nato.Singleton;
+using Nato.StateMachine;
+using System;
 using UnityEngine;
 
 namespace MedQuizCards
 {
     public class QuizManager : Singleton<QuizManager>
     {
-        // Start is called once before the first execution of Update after the MonoBehaviour is created
-        void Start()
+        [SerializeField] private GameObject decksParent;
+
+        private ProcedureDeckData currentProcedureDeck;
+        private QuizQuestionData currentQuestion;
+
+        [field: SerializeField] public UniversityRanking CurrentUniversity { get; private set; }
+
+        [field: SerializeField] public UniversityRanking[] UniversityRankings { get; private set; }
+
+        public void SetCurrentQuestion(ProcedureDeckData deck, QuizQuestionData question)
         {
-        
+            currentProcedureDeck = deck;
+            currentQuestion = question;
+
+            UIQuestionState questionState = UIStates.Instance.QuestionState;
+            UIStateManager.Instance.StateMachine.TransitionTo(questionState);
+            questionState.Manager.UIPanels.QuestionUI?.Setup(deck, question);
         }
 
-        // Update is called once per frame
-        void Update()
+        public void DisableDecks()
         {
-        
+            decksParent.SetActive(false);
         }
+
+        public void EnableDecks()
+        {
+            decksParent.SetActive(true);
+        }
+
+        public void SetCurrentUniversity(UniversityRanking universityRanking)
+        {
+            CurrentUniversity = universityRanking;
+        }
+
+        public void AddScoreToCurrentUniversity()
+        {
+            CurrentUniversity.Score++;
+        }
+    }
+
+    [System.Serializable]
+    public class UniversityRanking
+    {
+        public UniversityData UniversityData;
+        public int Score;
     }
 }

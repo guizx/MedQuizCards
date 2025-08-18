@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12151c0ab785fc48accd5dac700db6d, type: 3}
   m_Name: ProcedureDeck 3
   m_EditorClassIdentifier: 
-  procedureName: Procedimento 3
+  procedureName: "ACLS \u2013 Suporte Avan\xE7ado de Vida Cardiovascular"
   procedureImage: {fileID: 0}
   questions:
   - {fileID: 11400000, guid: f8b01acfc8bb5084f99d31ae54eafdfd, type: 2}

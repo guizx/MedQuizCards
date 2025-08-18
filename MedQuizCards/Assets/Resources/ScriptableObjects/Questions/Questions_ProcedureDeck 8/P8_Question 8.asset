@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P8_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 a primeira fase do trabalho de parto?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Per\xEDodo expulsivo"
+    isCorrect: 0
+  - answerText: "Dilata\xE7\xE3o"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Dequita\xE7\xE3o\r"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Puerp\xE9rio"
     isCorrect: 0

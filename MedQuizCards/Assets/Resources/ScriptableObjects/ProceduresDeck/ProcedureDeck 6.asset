@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12151c0ab785fc48accd5dac700db6d, type: 3}
   m_Name: ProcedureDeck 6
   m_EditorClassIdentifier: 
-  procedureName: Procedimento 6
+  procedureName: "PUNC\xC3O VENOSA ARTERIAL M\xC9DIA"
   procedureImage: {fileID: 0}
   questions:
   - {fileID: 11400000, guid: 8c30841d373714a429231e796e4d5ef9, type: 2}

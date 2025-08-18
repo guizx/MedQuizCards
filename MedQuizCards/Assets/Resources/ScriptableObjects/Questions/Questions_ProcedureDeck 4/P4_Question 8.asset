@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P4_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "A tr\xEDade de Beck est\xE1 associada a qual condi\xE7\xE3o?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Tamponamento card\xEDaco"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Choque s\xE9ptico"
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: "Pneumot\xF3rax aberto"
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Hemot\xF3rax maci\xE7o"
     isCorrect: 0

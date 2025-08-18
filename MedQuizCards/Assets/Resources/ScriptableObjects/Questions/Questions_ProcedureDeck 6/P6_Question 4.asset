@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 4
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 a principal contraindica\xE7\xE3o para a realiza\xE7\xE3o
+    da pun\xE7\xE3o arterial m\xE9dia na art\xE9ria radial?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Infec\xE7\xE3o no local da pun\xE7\xE3o"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Crise hipertensiva
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: "Circula\xE7\xE3o colateral adequada confirmada pelo teste de Allen"
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Choque hemorr\xE1gico"
     isCorrect: 0

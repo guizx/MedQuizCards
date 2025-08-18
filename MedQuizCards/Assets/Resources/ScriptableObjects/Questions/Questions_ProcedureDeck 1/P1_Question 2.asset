@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 2
   m_EditorClassIdentifier: 
-  questionText: Pergunta 2
+  questionText: "Qual a ordem correta das drogas na sequ\xEAncia r\xE1pida?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "ANALGESIA, SEDA\xC7\xC3O E BLOQUEADOR NEUROMUSCULAR"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "SEDA\xC7\xC3O, ANALGESIA, BLOQUEADOR NEUROMUSCULAR"
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: "BLOQUEADOR NEUROMUSCULAR, SEDA\xC7\xC3O, ANALGESIA"
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "BLOQUEADOR NEUROMUSCULAR, ANALGESIA, SEDA\xC7\xC3O"
     isCorrect: 0

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Durante a pun\xE7\xE3o da veia jugular interna, qual \xE9 o ponto
+    anat\xF4mico de refer\xEAncia mais usado?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Borda inferior da clav\xEDcula"
+    isCorrect: 0
+  - answerText: "Tri\xE2ngulo formado pelo m\xFAsculo esternocleidomastoideo"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Margem esternal\r"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Linha axilar m\xE9dia"
     isCorrect: 0

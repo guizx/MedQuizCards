@@ -12,13 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P4_Question 4
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Como sabe que a via a\xE9rea do paciente est\xE1 p\xE9rvia?"
   options:
-  - answerText: Resposta 1
+  - answerText: "O paciente est\xE1 cian\xF3tico, mas apresenta movimentos respirat\xF3rios
+      vis\xEDveis."
+    isCorrect: 0
+  - answerText: "Fona\xE7\xE3o preservada"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "O paciente apresenta ru\xEDdos como estridor e roncos durante a
+      respira\xE7\xE3o"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "O paciente n\xE3o apresenta movimento tor\xE1cico, mas h\xE1 ru\xEDdo
+      fraco ao auscultar o pesco\xE7o.\r\n"
     isCorrect: 0

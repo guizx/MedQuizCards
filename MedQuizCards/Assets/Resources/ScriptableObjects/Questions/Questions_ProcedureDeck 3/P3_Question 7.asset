@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P3_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Na assistolia, qual \xE9 a conduta inicial correta?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Desfibrila\xE7\xE3o imediata"
+    isCorrect: 0
+  - answerText: "Compress\xF5es tor\xE1cicas e administra\xE7\xE3o de adrenalina"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Administra\xE7\xE3o de amiodarona"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Cardiovers\xE3o sincronizada"
     isCorrect: 0

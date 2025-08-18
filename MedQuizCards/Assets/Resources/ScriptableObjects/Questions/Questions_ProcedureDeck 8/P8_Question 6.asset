@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P8_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "O que caracteriza o per\xEDodo expulsivo?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Sa\xEDda da placenta"
+    isCorrect: 0
+  - answerText: "Dilata\xE7\xE3o total do colo e descida do feto"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "In\xEDcio das contra\xE7\xF5es"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Ruptura da bolsa amni\xF3tica"
     isCorrect: 0

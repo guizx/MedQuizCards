@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 5
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "O que deve ser monitorado ap\xF3s a inser\xE7\xE3o do cateter venoso
+    profundo?"
   options:
-  - answerText: Resposta 1
+  - answerText: "N\xEDvel de glicose no sangue"
+    isCorrect: 0
+  - answerText: "Presen\xE7a de edema, dor ou sinais de infec\xE7\xE3o no local"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Frequ\xEAncia respirat\xF3ria "
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Reflexo pupilar
     isCorrect: 0

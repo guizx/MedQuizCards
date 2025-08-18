@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 1
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o principal objetivo da pun\xE7\xE3o arterial m\xE9dia?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Medir a press\xE3o venosa central"
+    isCorrect: 0
+  - answerText: "Obter uma amostra de sangue arterial para an\xE1lise gasom\xE9trica"
+    isCorrect: 0
+  - answerText: "Monitorar a press\xE3o arterial sist\xEAmica n\xE3o invasivamente"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Monitorar a press\xE3o arterial sist\xEAmica n\xE3o invasivamente"
     isCorrect: 0

@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,28 +8,29 @@ namespace MedQuizCards
 {
     public class Deck : MonoBehaviour
     {
+        private QuizConfigData config;
         public ProcedureDeckData ProcedureDeck;
-
         public List<QuizQuestionData> Questions = new List<QuizQuestionData>();
-
-        private QuestionUI questionUI;
-
-        [SerializeField] private TextMeshProUGUI procedureTitleText;
-        [SerializeField] private Button procedureButton;
-
         public static bool IsClicklable = true;
 
         public void Start()
         {
             IsClicklable = true;
-            questionUI = FindObjectOfType<QuestionUI>();
+            config = Resources.Load<QuizConfigData>("ScriptableObjects/QuizConfig");
+
             Questions.Clear();
             Questions.AddRange(ProcedureDeck.questions);
-            Questions = ShuffleList(Questions);
 
-            procedureTitleText.SetText(ProcedureDeck.procedureName);
+            if(config.ShuffleQuestions)
+                Questions = ShuffleList(Questions);
+            if (config.ShuffleAnswers)
+            {
+                for(int i = 0; i < Questions.Count; i++)
+                {
+                    Questions[i].options = ShuffleList(Questions[i].options.ToList()).ToArray();
+                }
+            }
 
-            transform.localEulerAngles = new Vector3(0, 0, Random.Range(-10f, 10f));
         }
 
         private List<T> ShuffleList<T>(List<T> list)
@@ -44,7 +46,17 @@ namespace MedQuizCards
 
         public QuizQuestionData GetQuestion()
         {
-            return Questions[Random.Range(0, Questions.Count)];
+            if (config.GetRandomQuestion)
+            {
+                return Questions[Random.Range(0, Questions.Count)];
+            }
+            else 
+            {
+                QuizQuestionData firstQuestion = Questions.FirstOrDefault();
+                Questions.Remove(firstQuestion);
+                Questions.Add(firstQuestion);
+                return firstQuestion;
+            }
         }
 
         private void OnMouseDown()
@@ -52,7 +64,7 @@ namespace MedQuizCards
             if (!IsClicklable)
                 return;
 
-            questionUI.Setup(ProcedureDeck, GetQuestion());
+            QuizManager.Instance?.SetCurrentQuestion(ProcedureDeck, GetQuestion());
         }
     }
 }

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 4
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "O que deve ser feito para minimizar infec\xE7\xF5es no acesso venoso
+    profundo?"
   options:
-  - answerText: Resposta 1
+  - answerText: Trocar o curativo apenas uma vez por semana
+    isCorrect: 0
+  - answerText: Manter o cateter seco e trocar o curativo regularmente
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Aplicar pomada antibi\xF3tica diretamente na pele ao redor"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Nunca realizar higieniza\xE7\xE3o das m\xE3os antes do procedimento\r\n"
     isCorrect: 0

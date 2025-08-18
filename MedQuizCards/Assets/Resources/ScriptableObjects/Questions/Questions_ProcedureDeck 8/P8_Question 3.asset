@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P8_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o nome da fase do parto em que ocorre a sa\xEDda do beb\xEA?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Per\xEDodo de dilata\xE7\xE3o"
+    isCorrect: 0
+  - answerText: "Per\xEDodo de dequita\xE7\xE3o"
+    isCorrect: 0
+  - answerText: "Per\xEDodo expulsivo"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Per\xEDodo"
     isCorrect: 0

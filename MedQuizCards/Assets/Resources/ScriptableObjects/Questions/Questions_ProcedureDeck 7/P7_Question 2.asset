@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P7_Question 2
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual exame \xE9 importante realizar antes da inser\xE7\xE3o do DIU
+    para garantir seguran\xE7a?"
   options:
-  - answerText: Resposta 1
+  - answerText: Ultrassonografia transvaginal
+    isCorrect: 0
+  - answerText: Papanicolau recente
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Hemograma completo
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Radiografia do abd\xF4men\r"
     isCorrect: 0

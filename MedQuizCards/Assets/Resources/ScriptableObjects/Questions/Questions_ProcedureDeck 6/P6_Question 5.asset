@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 5
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Quais complica\xE7\xF5es podem ocorrer ap\xF3s a pun\xE7\xE3o arterial
+    m\xE9dia?"
   options:
-  - answerText: Resposta 1
+  - answerText: Hematoma, trombose e isquemia distal
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Infec\xE7\xE3o pulmonar"
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: "Hipotens\xE3o arterial grave imediata"
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Edema generalizado
     isCorrect: 0

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta 7
+  questionText: "Qual \xE9 o ant\xEDdoto espec\xEDfico para o bloqueio neuromuscular
+    causado pelo rocur\xF4nio?"
   options:
-  - answerText: Resposta 1
+  - answerText: Neostigmina
+    isCorrect: 0
+  - answerText: Naloxona
+    isCorrect: 0
+  - answerText: Sugamadex
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Flumazenil
     isCorrect: 0

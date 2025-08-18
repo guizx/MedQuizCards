@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P7_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o risco mais comum ap\xF3s a inser\xE7\xE3o do DIU?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Perfura\xE7\xE3o uterina"
+    isCorrect: 0
+  - answerText: "Expuls\xE3o do dispositivo"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "C\xE2ncer cervical"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "S\xEDndrome do choque t\xF3xico"
     isCorrect: 0

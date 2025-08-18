@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 5
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual a principal vantagem dos retalhos em rela\xE7\xE3o aos enxertos?"
   options:
-  - answerText: Resposta 1
+  - answerText: Maior risco de necrose
+    isCorrect: 0
+  - answerText: "Menor tempo cir\xFArgico"
+    isCorrect: 0
+  - answerText: "Manuten\xE7\xE3o da vasculariza\xE7\xE3o pr\xF3pria"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Menor complexidade t\xE9cnica"
     isCorrect: 0

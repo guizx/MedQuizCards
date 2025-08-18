@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "O c\xE1lculo da PAM \xE9 feito por:\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "(PAS + PAD) \xF7 2\r"
+    isCorrect: 0
+  - answerText: "(PAS \u2212 PAD) \xF7 3"
+    isCorrect: 0
+  - answerText: "(PAS \xD7 PAD) \xF7 2"
+    isCorrect: 0
+  - answerText: "(PAS + 2\xD7PAD) \xF7 3"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
-    isCorrect: 0

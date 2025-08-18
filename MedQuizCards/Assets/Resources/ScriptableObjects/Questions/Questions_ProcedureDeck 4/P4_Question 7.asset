@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P4_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 a primeira prioridade no atendimento segundo o ATLS?"
   options:
-  - answerText: Resposta 1
+  - answerText: Controle de hemorragias externas
+    isCorrect: 0
+  - answerText: "Avalia\xE7\xE3o da via a\xE9rea com prote\xE7\xE3o da coluna cervical"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Administra\xE7\xE3o de oxig\xEAnio suplementar"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Avalia\xE7\xE3o neurol\xF3gica detalhada"
     isCorrect: 0

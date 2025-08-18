@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o s\xEDtio de pun\xE7\xE3o central com menor risco de
+    infec\xE7\xE3o?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Veia subcl\xE1via"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Veia jugular interna
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: Veia femoral
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Veia bas\xEDlica"
     isCorrect: 0

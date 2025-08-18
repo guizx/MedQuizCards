@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P3_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Na bradicardia sintom\xE1tica, ap\xF3s atropina sem resposta, a
+    pr\xF3xima conduta \xE9:\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "Iniciar infus\xE3o de amiodarona"
+    isCorrect: 0
+  - answerText: "Marcapasso transcut\xE2neo"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Administrar adrenalina em bolus\r"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Cardiovers\xE3o sincronizada\r"
     isCorrect: 0

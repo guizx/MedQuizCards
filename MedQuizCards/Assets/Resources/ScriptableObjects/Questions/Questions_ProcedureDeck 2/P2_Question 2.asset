@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 2
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual anest\xE9sico local \xE9 mais cardiot\xF3xico e deve ser usado
+    com cautela?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Lidoca\xEDna"
+    isCorrect: 0
+  - answerText: "Ropivaca\xEDna\L"
+    isCorrect: 0
+  - answerText: "Bupivaca\xEDna "
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Proca\xEDna"
     isCorrect: 0

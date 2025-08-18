@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 1
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual o principal mecanismo de a\xE7\xE3o dos anest\xE9sicos locais?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "Estimula\xE7\xE3o dos receptores opioides"
+    isCorrect: 0
+  - answerText: "Bloqueio dos canais de c\xE1lcio"
+    isCorrect: 0
+  - answerText: "Inibi\xE7\xE3o da libera\xE7\xE3o de noradrenalina\L\r\n"
+    isCorrect: 0
+  - answerText: "Bloqueio dos canais de s\xF3dio voltagem-dependentes"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
-    isCorrect: 0

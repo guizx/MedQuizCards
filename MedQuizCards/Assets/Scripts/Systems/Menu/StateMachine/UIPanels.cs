@@ -1,4 +1,4 @@
-using Nato.UI;
+using MedQuizCards;
 using UnityEngine;
 
 namespace Nato.StateMachine
@@ -6,6 +6,9 @@ namespace Nato.StateMachine
     public class UIPanels : MonoBehaviour
     {
         [field: Header("Global UI")]
-        [field: SerializeField] public AudioUI AudioUI {get; private set;}
+        [field: SerializeField] public UniversitySelectionUI UniversitySelectionUI { get; private set; }
+        [field: SerializeField] public MainScreenUI MainScreenUI { get; private set; }
+        [field: SerializeField] public QuestionUI QuestionUI {get; private set;}
+        [field: SerializeField] public RankingUI RankingUI { get; private set; }
     }
 }

@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual das seguintes precau\xE7\xF5es \xE9 mais importante antes de
+    realizar a pun\xE7\xE3o arterial m\xE9dia?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Verificar se o paciente est\xE1 em jejum"
+    isCorrect: 0
+  - answerText: "Teste de Allen para avaliar a circula\xE7\xE3o colateral"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Aplicar calor local para dilatar a art\xE9ria"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Administrar sedativo para reduzir a dor
     isCorrect: 0

@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta 6
+  questionText: "Droga mais cardioest\xE1vel da sequ\xEAncia r\xE1pida?"
   options:
-  - answerText: Resposta 1
+  - answerText: Midazolam
+    isCorrect: 0
+  - answerText: Quetamina
+    isCorrect: 0
+  - answerText: Propofol
+    isCorrect: 0
+  - answerText: Etomidado
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
-    isCorrect: 0

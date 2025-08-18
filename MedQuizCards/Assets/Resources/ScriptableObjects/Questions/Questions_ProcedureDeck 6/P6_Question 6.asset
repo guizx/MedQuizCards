@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o motivo principal para escolher a art\xE9ria radial para
+    pun\xE7\xE3o arterial?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "Presen\xE7a de circula\xE7\xE3o colateral confi\xE1vel"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Maior calibre da art\xE9ria"
     isCorrect: 0
-  - answerText: Resposta 3
+  - answerText: Proximidade com veias superficiais
     isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Menor risco de infec\xE7\xE3o"
     isCorrect: 0

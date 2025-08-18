@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P2_Question 8
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual a fun\xE7\xE3o da adrenalina associada ao anest\xE9sico local?\r"
   options:
-  - answerText: Resposta 1
+  - answerText: "Aumentar a velocidade de absor\xE7\xE3o"
+    isCorrect: 0
+  - answerText: "Reduzir a a\xE7\xE3o do anest\xE9sico"
+    isCorrect: 0
+  - answerText: "Prolongar o tempo de a\xE7\xE3o e reduzir o sangramento"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Estimular o sistema imunol\xF3gico"
     isCorrect: 0

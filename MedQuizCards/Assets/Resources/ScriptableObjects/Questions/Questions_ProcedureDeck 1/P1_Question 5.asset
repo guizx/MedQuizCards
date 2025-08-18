@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 5
   m_EditorClassIdentifier: 
-  questionText: Pergunta 5
+  questionText: "Qual \xE9 a primeira manobra indicada para desobstru\xE7\xE3o da
+    via a\xE9rea em paciente inconsciente?"
   options:
-  - answerText: Resposta 1
+  - answerText: Manobra de Piparote
+    isCorrect: 0
+  - answerText: Manobra de Chin lift e Jaw thrust
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Manobra de Leopold
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Manobra de Heimlich
     isCorrect: 0

@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P5_Question 3
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Qual \xE9 o risco mais comum associado ao acesso venoso profundo?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Hipotens\xE3o"
+    isCorrect: 0
+  - answerText: "Pneumot\xF3rax "
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: Hiperglicemia
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Constipa\xE7\xE3o intestinal\r"
     isCorrect: 0

@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P1_Question 1
   m_EditorClassIdentifier: 
-  questionText: Pergunta 1
+  questionText: "No neonato, qual cuidado temos que ter ao fazer intuba\xE7\xE3o?"
   options:
-  - answerText: Resposta 1
+  - answerText: "Intubar com l\xE2mina curva e insuflar o cuff do tubo endotraqueal\r"
+    isCorrect: 0
+  - answerText: "Intubar com l\xE2mina reta e n\xE3o insuflar o cuff do tubo endotraqueal"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Intubar com l\xE2mina curva e n\xE3o insuflar o cuff do tubo endotraqueal"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "Intubar com l\xE2mina reta e  insuflar o cuff do tubo endotraqueal"
     isCorrect: 0

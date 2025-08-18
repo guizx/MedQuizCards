@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P3_Question 6
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "A adenosina \xE9 mais indicada para tratar:"
   options:
-  - answerText: Resposta 1
+  - answerText: "Fibrila\xE7\xE3o atrial"
+    isCorrect: 0
+  - answerText: Taquicardia ventricular com pulso
+    isCorrect: 0
+  - answerText: "Taquicardia supraventricular parox\xEDstica"
     isCorrect: 1
-  - answerText: Resposta 2
-    isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Bradicardia sinusal
     isCorrect: 0

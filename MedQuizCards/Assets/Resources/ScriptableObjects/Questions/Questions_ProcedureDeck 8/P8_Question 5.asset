@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P8_Question 5
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "O que acontece no per\xEDodo dequita\xE7\xE3o do parto?"
   options:
-  - answerText: Resposta 1
+  - answerText: "O beb\xEA \xE9 retirado por via cir\xFArgica"
+    isCorrect: 0
+  - answerText: "A placenta \xE9 expulsa do \xFAtero"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "O \xFAtero se contrai para expulsar o feto"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: "\xC9 administrada anestesia\r"
     isCorrect: 0

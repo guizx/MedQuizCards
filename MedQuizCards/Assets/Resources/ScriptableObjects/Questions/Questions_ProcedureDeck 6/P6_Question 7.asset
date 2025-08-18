@@ -12,13 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c3f70688e00330438ad38c8f1474137, type: 3}
   m_Name: P6_Question 7
   m_EditorClassIdentifier: 
-  questionText: Pergunta
+  questionText: "Na montagem do sistema de press\xE3o invasiva, o transdutor deve
+    ser zerado no n\xEDvel:"
   options:
-  - answerText: Resposta 1
+  - answerText: "Do topo da cabe\xE7a\r\n"
+    isCorrect: 0
+  - answerText: "Do \xE1trio direito"
     isCorrect: 1
-  - answerText: Resposta 2
+  - answerText: "Da ponta do dedo m\xE9dio"
     isCorrect: 0
-  - answerText: Resposta 3
-    isCorrect: 0
-  - answerText: Resposta 4
+  - answerText: Da linha axilar posterior
     isCorrect: 0
