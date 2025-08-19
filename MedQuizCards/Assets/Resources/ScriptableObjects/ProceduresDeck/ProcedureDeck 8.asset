@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 8
   m_EditorClassIdentifier: 
   procedureName: PARTO
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: -2024892535, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: 0f52c028deed5b0439ece2755e0ecbfc, type: 2}
   - {fileID: 11400000, guid: 9ee8a0100315c174f9b3b2592539049d, type: 2}

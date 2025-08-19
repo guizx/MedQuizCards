@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 5
   m_EditorClassIdentifier: 
   procedureName: 'ACESSO VENOSO PROFUNDO '
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: -1118193554, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: a952215a178979c4d95e29915e7cb0d7, type: 2}
   - {fileID: 11400000, guid: 33eda272426e23f4188ec1a368b45111, type: 2}

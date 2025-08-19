@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 1
   m_EditorClassIdentifier: 
   procedureName: "Intuba\xE7\xE3o/via a\xE9rea"
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: -62521360, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: dae87f32d10b6764e8d8b9cca3e9e49a, type: 2}
   - {fileID: 11400000, guid: 2603b12273864d246a17abdffca200c7, type: 2}

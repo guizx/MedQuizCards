@@ -1,0 +1,10 @@
+# ninja log v5
+21	1808	7773140303072974	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c3bcf3f109387545
+28	1843	7773140303149324	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c17558649c8408e5
+1	1862	7773140303635508	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	37ce88194b404c70
+57	1937	7773140304276757	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	37a75ab781f55746
+14	1948	7773140304504940	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	135f15f7a35ea316
+47	1958	7773140304652087	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a90d2a60f8dc4b86
+37	2144	7773140306541272	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	fb111d246c9088c9
+7	2325	7773140307674249	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ad75e1d365dd7d23
+2325	2511	7773140310220582	C:/Users/USER/Documents/Github/MedQuizCards/MedQuizCards/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5w34q3a5/obj/armeabi-v7a/libgame.so	3959aa2f489fc54d

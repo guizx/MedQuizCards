@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 3
   m_EditorClassIdentifier: 
   procedureName: "ACLS \u2013 Suporte Avan\xE7ado de Vida Cardiovascular"
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: -464316458, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: f8b01acfc8bb5084f99d31ae54eafdfd, type: 2}
   - {fileID: 11400000, guid: 6555b77f64898944d80c433a9788f4b4, type: 2}

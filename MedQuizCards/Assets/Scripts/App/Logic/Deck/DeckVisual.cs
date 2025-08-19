@@ -12,6 +12,7 @@ namespace MedQuizCards
 
         [field: Header("Texts")]
         [field: SerializeField] public TextMeshProUGUI DeckTitleText { get; private set; }
+        [field: SerializeField] public Image DeckImage { get; private set; }
 
         [SerializeField] private GameObject[] cards;
         [SerializeField] private float deckMountPeriod = 0.1f;
@@ -48,6 +49,7 @@ namespace MedQuizCards
         public void Setup()
         {
             DeckTitleText.SetText(deck.ProcedureDeck.procedureName);
+            DeckImage.sprite = deck.ProcedureDeck.procedureImage;
         }
     }
 }

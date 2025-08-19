@@ -17,13 +17,15 @@ namespace MedQuizCards
         public TextMeshProUGUI ProcedureTitleText;
         public TextMeshProUGUI QuestionText;
 
-        public Button[] AnswerButtons;
+        public AnswerButton[] AnswerButtons;
 
         public GameObject ResultPopUp;
         public TextMeshProUGUI ResultText;
         public Button ResultButton;
 
         public GameObject SuccessVFX;
+
+        public Image ProcedureIconImage;
 
         private void OnEnable()
         {
@@ -41,7 +43,7 @@ namespace MedQuizCards
             base.Enable();
             for(int i = 0; i < AnswerButtons.Length; i++)
             {
-                AnswerButtons[i].onClick.RemoveAllListeners();
+                AnswerButtons[i].Button.onClick.RemoveAllListeners();
             }
         }
 
@@ -54,6 +56,7 @@ namespace MedQuizCards
 
         public void Setup(ProcedureDeckData procedureDeck, QuizQuestionData question)
         {
+            ProcedureIconImage.sprite = procedureDeck.procedureImage;
             Deck.IsClicklable = false;
             ProcedureTitleText.SetText(procedureDeck.procedureName);
             QuestionText.SetText(question.questionText);
@@ -67,9 +70,9 @@ namespace MedQuizCards
                 if (question.options[i].isCorrect)
                     answer += " [C]";
 
-                AnswerButtons[i].GetComponentInChildren<TextMeshProUGUI>().SetText(answer);
+                AnswerButtons[i].Setup(answer, i);
                 AnswerOption answerOption = question.options[i];
-                AnswerButtons[i].onClick.AddListener(delegate { OnClickAnswerButton(answerOption); }); 
+                AnswerButtons[i].Button.onClick.AddListener(delegate { OnClickAnswerButton(answerOption); }); 
             }
 
             CardFront.transform.localScale = Vector3.zero;

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 4
   m_EditorClassIdentifier: 
   procedureName: ATLS
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: -1971645792, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: 5f7411539e9883b49ad5c17a8c142d0c, type: 2}
   - {fileID: 11400000, guid: ef971a9f5d5954740a67543dd9aa3264, type: 2}

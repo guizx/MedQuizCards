@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 7
   m_EditorClassIdentifier: 
   procedureName: "Inser\xE7\xE3o do diu"
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: 1991406382, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: 2c31e1fe6724ae2468bbcfdc8f98d5ee, type: 2}
   - {fileID: 11400000, guid: b682b01104461604182d9f858ad6009d, type: 2}

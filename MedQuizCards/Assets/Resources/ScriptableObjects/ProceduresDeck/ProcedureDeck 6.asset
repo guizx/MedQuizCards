@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 6
   m_EditorClassIdentifier: 
   procedureName: "PUNC\xC3O VENOSA ARTERIAL M\xC9DIA"
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: 2028576558, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: 8c30841d373714a429231e796e4d5ef9, type: 2}
   - {fileID: 11400000, guid: 53e8c498ab1845d40b2aa889ddd86b15, type: 2}

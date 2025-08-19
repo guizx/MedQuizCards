@@ -21,8 +21,8 @@ namespace Nato.StateMachine
         {
             base.Awake();
             StateMachine = new(this);
-            MasterSound.NormalLowpassMusicEffect();
             EventManager<UIStateChangedEvent>.Subscribe(HandleMenuStateChanged);
+            Application.targetFrameRate = 60;
         }
 
         private void OnDestroy()
@@ -35,8 +35,9 @@ namespace Nato.StateMachine
             StateMachine.TransitionTo(@event.NewState);
         }
 
-        private void Start()
+        private IEnumerator Start()
         {
+            yield return new WaitForSeconds(0.1f);
             StateMachine.TransitionTo(States.UniversitySelectionState);
         }
 

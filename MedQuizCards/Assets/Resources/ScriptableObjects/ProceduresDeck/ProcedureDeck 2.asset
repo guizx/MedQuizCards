@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ProcedureDeck 2
   m_EditorClassIdentifier: 
   procedureName: Sutura
-  procedureImage: {fileID: 0}
+  procedureImage: {fileID: 1290418513, guid: ec37f11450c6ea449bf8c9739103d0e7, type: 3}
   questions:
   - {fileID: 11400000, guid: 8d4a871ced1afe8488534b5a82f65312, type: 2}
   - {fileID: 11400000, guid: e52102ca1db15cd4b95a422e31432838, type: 2}
