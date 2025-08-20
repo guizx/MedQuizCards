@@ -38,8 +38,8 @@ namespace MedQuizCards
         public void Setup(UniversityRanking university)
         {
             UniversityRanking = university;
-            UniversityNameText.SetText(university.UniversityData.Name);
-            UniversityIconImage.sprite = university.UniversityData.Icon;
+            UniversityNameText.SetText(university.UniversityName);
+            //UniversityIconImage.sprite = university.UniversityData.Icon;
         }
     }
 }

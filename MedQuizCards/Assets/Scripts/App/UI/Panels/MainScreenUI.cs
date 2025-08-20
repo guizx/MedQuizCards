@@ -19,8 +19,8 @@ namespace MedQuizCards
         public override void Enable()
         {
             base.Enable();
-            UniversityIconImage.sprite = QuizManager.Instance.CurrentUniversity.UniversityData.Icon;
-            UniversityNameText.text = QuizManager.Instance.CurrentUniversity.UniversityData.Name;
+            //UniversityIconImage.sprite = QuizManager.Instance.CurrentUniversity.UniversityData.Icon;
+            UniversityNameText.text = QuizManager.Instance.CurrentUniversity.UniversityName;
 
             RankingButton.onClick.AddListener(OnClickRankingButton);
             BackButton.onClick.AddListener(OnClickBackButton);

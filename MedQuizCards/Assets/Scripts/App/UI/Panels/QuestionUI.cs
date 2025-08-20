@@ -1,6 +1,7 @@
 using DG.Tweening;
 using Nato.StateMachine;
 using Nato.UI;
+using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -22,6 +23,7 @@ namespace MedQuizCards
         public GameObject ResultPopUp;
         public TextMeshProUGUI ResultText;
         public Button ResultButton;
+        public Button BackButton;
 
         public GameObject SuccessVFX;
 
@@ -30,12 +32,21 @@ namespace MedQuizCards
         private void OnEnable()
         {
             ResultButton.onClick.AddListener(OnClickResultButton);
+            BackButton.onClick.AddListener(OnClickBackButton);
             DisableResultPopUp();
         }
 
         private void OnDisable()
         {
             ResultButton.onClick.RemoveListener(OnClickResultButton);
+            BackButton.onClick.RemoveListener(OnClickBackButton);
+        }
+
+        private void OnClickBackButton()
+        {
+            UIMainScreenState mainScreenState = UIStates.Instance.MainScreenState;
+            UIStateManager.Instance.StateMachine.TransitionTo(mainScreenState);
+            StartCoroutine(EnableClickCoroutine());
         }
 
         public override void Enable()

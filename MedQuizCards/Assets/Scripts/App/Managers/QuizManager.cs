@@ -1,6 +1,8 @@
 using Nato.Singleton;
 using Nato.StateMachine;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 namespace MedQuizCards
@@ -14,7 +16,46 @@ namespace MedQuizCards
 
         [field: SerializeField] public UniversityRanking CurrentUniversity { get; private set; }
 
-        [field: SerializeField] public UniversityRanking[] UniversityRankings { get; private set; }
+        [field: SerializeField] public List<UniversityRanking> UniversityRankings { get; private set; } = new List<UniversityRanking>();
+
+        public List<string> UniversitiesNames = new List<string>();
+        public List<string> UniversitiesCities = new List<string>();
+        public List<string> UniversitiesUFs = new List<string>();
+        public CSVReader CSVReader;
+
+        public string CurrentUF;
+
+
+        protected override void Awake()
+        {
+            base.Awake();
+            UniversitiesNames = CSVReader.GetColumn(4); // Nome
+            UniversitiesCities = CSVReader.GetColumn(5); // Cidade
+            UniversitiesUFs = CSVReader.GetColumn(0); // Estado
+            for (int i = 0;  i < UniversitiesNames.Count; i++)
+            {
+                UniversityRanking university = new UniversityRanking();
+                university.Index = i;
+                university.UniversityName = UniversitiesNames[i];
+                university.City = UniversitiesCities[i];
+                university.UF = UniversitiesUFs[i];
+                university.Score = 0;
+
+                UniversityRankings.Add(university); 
+            }
+
+            UniversityRankings = UniversityRankings.OrderBy(n => n.UniversityName).ToList();
+        }
+
+        public List<UniversityRanking>  GetUniversitiesByUF(string uf)
+        {
+            string ufNormalized = uf.Trim().ToUpper();
+
+            return UniversityRankings
+                .Where(u => u.UF != null && u.UF.Trim().ToUpper() == ufNormalized)
+                .ToList();
+        }
+
 
         public void SetCurrentQuestion(ProcedureDeckData deck, QuizQuestionData question)
         {
@@ -50,7 +91,10 @@ namespace MedQuizCards
     [System.Serializable]
     public class UniversityRanking
     {
-        public UniversityData UniversityData;
+        public int Index;
+        public string UniversityName;
+        public string City;
+        public string UF;
         public int Score;
     }
 }

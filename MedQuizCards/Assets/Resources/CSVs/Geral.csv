@@ -1,0 +1,450 @@
+UF,Municipio,Sigla no MGE,Sigla da IES,Nome da IES,Nome do Campus,Categoria Administrativa,Organização Acadêmica,Situação ,Qt. Vagas Autorizadas,Tipo de Periodicidade,Inicio do Funcionamento
+AC,Rio Branco,UNINORTE,UNINORTE,CENTRO UNIVERSITÁRIO UNINORTE,Campus Rio Branco,Privada com fins lucrativos,Centro Universitário,Ativa,120,Semestral,10/11/2014
+AC,Cruzeiro do Sul,AFYA_CZS,AFYA CRUZEIRO DO SUL,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE CRUZEIRO DO SUL,Campus Principal,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,01/03/2021
+AC,Rio Branco,UFAC,UFAC,UNIVERSIDADE FEDERAL DO ACRE,Campus Universitário,Pública Federal,Universidade,Ativa,80,Semestral,29/11/2001
+AL,Maceió,CESMAC,CESMAC,CENTRO UNIVERSITÁRIO CESMAC,Campus I,Privada sem fins lucrativos,Centro Universitário,Ativa,145,Semestral,13/03/2014
+AL,Maceió,UNIMA,UNIMA,CENTRO UNIVERSITÁRIO DE MACEIÓ,Campus Maceió,Privada com fins lucrativos,Centro Universitário,Ativa,220,Semestral,18/08/2014
+AL,Maceió,UNCISAL,UNCISAL,UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SÁUDE DE ALAGOAS - UNCISAL,Campus Maceió,Pública Estadual,Universidade,Ativa,50,Anual,16/03/1970
+AL,Maceió,UFAL,UFAL,UNIVERSIDADE FEDERAL DE ALAGOAS,Campus A. C. Simões,Pública Federal,Universidade,Ativa,100,Semestral,10/03/1951
+AL,Arapiraca,UFAL_ARAPIRACA,UFAL,UNIVERSIDADE FEDERAL DE ALAGOAS,Campus Arapiraca,Pública Federal,Universidade,Ativa,60,Semestral,11/01/2016
+AM,Manaus,FAMETRO,FAMETRO,CENTRO UNIVERSITÁRIO CEUNI - FAMETRO,Campus Manaus,Privada com fins lucrativos,Centro Universitário,Ativa,150,Semestral,19/12/2017
+AM,Manaus,,FST,FACULDADE SANTA TERESA,Campus Manaus,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,Não iniciado
+AM,Itacoatiara,,AFYA ITACOATIARA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ITACOATIARA,Campus Itacoatiara,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,08/06/2022
+AM,Manacapuru,,AFYA MANACAPURU,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE MANACAPURU,Campus Manacapuru,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,08/06/2022
+AM,Manaus,UEA,UEA,UNIVERSIDADE DO ESTADO DO AMAZONAS,Campus Manaus,Pública Estadual,Universidade,Ativa,130,Semestral,01/08/2001
+AM,Coari,UFAM,UFAM,UNIVERSIDADE FEDERAL DO AMAZONAS,Campus Coari,Pública Federal,Universidade,Ativa,48,Semestral,04/09/2017
+AM,Manaus,UFAM,UFAM,UNIVERSIDADE FEDERAL DO AMAZONAS,Campus Manaus,Pública Federal,Universidade,Ativa,112,Semestral,20/01/1966
+AM,Manaus,UNINILTONLINS,UNINILTONLINS,UNIVERSIDADE NILTON LINS,Campus Manaus,Privada sem fins lucrativos,Universidade,Ativa,145,Semestral,01/02/2002
+AP,Macapá,UNIFAP,UNIFAP,UNIVERSIDADE FEDERAL DO AMAPÁ,Campus Macapá,Pública Federal,Universidade,Ativa,60,Semestral,08/02/2010
+BA,Itabuna,AFYA_ITABUNA,AFYA ITABUNA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ITABUNA,Campus Itabuna,Privada com fins lucrativos,Faculdade,Ativa,149,Semestral,24/08/2018
+BA,Santo Antônio de Jesus,,UNIFACEMP,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO,Campus Santo Antônio de Jesus,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,Não iniciado
+BA,Feira de Santana,UNEX-FEIRA_SANTANA,UNEX,CENTRO UNIVERSITÁRIO DE EXCELÊNCIA,Campus Feira de Santana,Privada com fins lucrativos,Centro Universitário,Ativa,199,Semestral,07/06/2022
+BA,Vitória da Conquista,,UNEX Conquista,CENTRO UNIVERSITÁRIO DE EXCELÊNCIA DE VITÓRIA DA CONQUISTA,Campus Vitória da Conquista,Privada com fins lucrativos,Centro Universitário,Ativa,48,Semestral,Não iniciado
+BA,Salvador,UNIDOMPEDRO,UNIDOMPEDRO,CENTRO UNIVERSITÁRIO DOM PEDRO II,Campus Salvador,Privada com fins lucrativos,Centro Universitário,Ativa,300,Semestral,01/03/2021
+BA,Camaçari,,UNIFAMEC,CENTRO UNIVERSITÁRIO FAMEC,Campus Camaçari,Privada com fins lucrativos,Centro Universitário,Ativa,60,,Não iniciado
+BA,Brumado,UNIFG_BRUMADO,UNIFG,CENTRO UNIVERSITÁRIO FG,Campus Brumado,Privada com fins lucrativos,Centro Universitário,Ativa,50,Semestral,01/02/2022
+BA,Guanambi,UNIFG_GUANAMBI,UNIFG,CENTRO UNIVERSITÁRIO FG,Campus Guanambi,Privada com fins lucrativos,Centro Universitário,Ativa,50,Anual,17/11/2015
+BA,Barreiras,UNINASSAU_BARREIRAS,UNINASSAU,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE BARREIRAS,Campus Barreiras,Privada sem fins lucrativos,Centro Universitário,Ativa,80,Semestral,20/02/2017
+BA,Lauro de Freitas,UNIME,UNIME,CENTRO UNIVERSITÁRIO UNIME,Campus Lauro de Freitas,Privada com fins lucrativos,Centro Universitário,Ativa,100,Semestral,31/03/2014
+BA,Salvador,ZARNS_SALVADOR,ZARNS Salvador,CENTRO UNIVERSITÁRIO ZARNS - SALVADOR,Campus Salvador | Paralela,Privada com fins lucrativos,Centro Universitário,Ativa,300,Semestral,19/11/2004
+BA,Salvador,EBMSP,EBMSP,ESCOLA BAHIANA DE MEDICINA E SAÚDE PÚBLICA,Campus Salvador,Privada sem fins lucrativos,Faculdade,Ativa,300,Semestral,31/05/1952
+BA,Jacobina,AGES_JACOBINA,AGES Jacobina,FACULDADE AGES DE MEDICINA,Campus Jacobina,Privada com fins lucrativos,Faculdade,Ativa,85,Semestral,30/11/2017
+BA,Irecê,AGES_IRECE,AGES Irecê,FACULDADE AGES DE MEDICINA DE IRECÊ,Campus Irecê,Privada com fins lucrativos,Faculdade,Ativa,150,Semestral,04/06/2020
+BA,Porto Seguro,,ATENAS Porto Seguro,FACULDADE ATENAS PORTO SEGURO,Campus Porto Seguro,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,05/09/2022
+BA,Valença,ATENAS_VALENCA,ATENAS Valença,FACULDADE ATENAS VALENÇA,Campus Valença,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,14/06/2021
+BA,Conceição do Coité,,FARESI,FACULDADE DA REGIÃO SISALEIRA,Campus Conceição do Coité,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,01/08/2023
+BA,Itabuna,,UNEX de Itabuna,FACULDADE DE EXCELÊNCIA UNEX DE ITABUNA,Campus Itabuna,Privada com fins lucrativos,Faculdade,Ativa,64,Semestral,06/03/2023
+BA,Jequié,,UNEX de Jequié,FACULDADE DE EXCELÊNCIA UNEX DE JEQUIÉ,Campus Jequié,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,12/07/2024
+BA,Vitória da Conquista,FASA,FASA,FACULDADE DE SAÚDE SANTO AGOSTINHO DE VITÓRIA DA CONQUISTA,Campus Vitória da Conquista,Privada com fins lucrativos,Faculdade,Ativa,100,Semestral,20/02/2015
+BA,Alagoinhas,IDOMED_ALAGOINHAS,ESTÁCIO Alagoinhas,FACULDADE ESTÁCIO DE ALAGOINHAS,Campus Alagoinhas,Privada com fins lucrativos,Faculdade,Ativa,118,Semestral,09/04/2018
+BA,Juazeiro,IDOMED_JUAZEIRO,ESTÁCIO Juazeiro,FACULDADE ESTÁCIO DE JUAZEIRO,Campus Juazeiro,Privada com fins lucrativos,Faculdade,Ativa,155,Semestral,09/04/2018
+BA,Eunápolis,PITAGORAS_EUNAPOLIS,PITÁGORAS Eunápolis,FACULDADE PITÁGORAS DE MEDICINA DE EUNÁPOLIS,Campus Eunápolis,Privada com fins lucrativos,Faculdade,Ativa,75,Semestral,17/09/2018
+BA,Eunápolis,UNESULBAHIA,UNESULBAHIA,FACULDADES INTEGRADAS DO EXTREMO SUL DA BAHIA,Campus Eunápolis,Privada sem fins lucrativos,Faculdade,Ativa,120,Semestral,02/03/2020
+BA,Guanambi,AFYA_GUANAMBI,AFYA GUANAMBI,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE GUANAMBI,Campus Guanambi,Privada com fins lucrativos,Faculdade,Ativa,100,Semestral,22/08/2018
+BA,Paulo Afonso,UNIVASF-PAULO_AFONSO,UNIVASF,FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO,Campus Paulo Afonso,Pública Federal,Universidade,Ativa,40,Semestral,15/09/2014
+BA,Salvador,UNEB,UNEB,UNIVERSIDADE DO ESTADO DA BAHIA,Campus Salvador,Pública Estadual,Universidade,Ativa,60,Semestral,18/04/2012
+BA,Feira de Santana,UEFS,UEFS,UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA,Campus Feira de Santana,Pública Estadual,Universidade,Ativa,35,Anual,14/07/2003
+BA,Ilhéus,UESC,UESC,UNIVERSIDADE ESTADUAL DE SANTA CRUZ,Campus Ilhéus,Pública Estadual,Universidade,Ativa,42,Anual,29/06/2001
+BA,Vitória da Conquista,UESB_VDC,UESB,UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA,Campus Vitória da Conquista,Pública Estadual,Universidade,Ativa,30,Anual,16/03/2004
+BA,Jequié,UESB_JEQUIE,UESB,UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA,Campus Jequié,Pública Estadual,Universidade,Ativa,27,Semestral,23/12/2008
+BA,Salvador,UFBA,UFBA,UNIVERSIDADE FEDERAL DA BAHIA,Campus Salvador,Pública Federal,Universidade,Ativa,160,Semestral,08/03/1808
+BA,Vitória da Conquista,UFBA-CAT,UFBA,UNIVERSIDADE FEDERAL DA BAHIA,Campus Vitória da Conquista,Pública Federal,Universidade,Ativa,80,Semestral,04/07/2016
+BA,Barreiras,UFOB,UFOB,UNIVERSIDADE FEDERAL DO OESTE DA BAHIA,Campus Barreiras,Pública Federal,Universidade,Ativa,80,Semestral,08/09/2014
+BA,Santo Antônio de Jesus,UFRB,UFRB,UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA,Campus Santo Antônio de Jesus,Pública Federal,Universidade,Ativa,60,Semestral,11/11/2013
+BA,Teixeira de Freitas,UFSB,UFSB,UNIVERSIDADE FEDERAL DO SUL DA BAHIA,Campus Teixeira de Freitas,Pública Federal,Universidade,Ativa,80,Semestral,17/02/2018
+BA,Salvador,UNIFACS,UNIFACS,UNIVERSIDADE SALVADOR,Campus Professor Barros,Privada com fins lucrativos,Universidade,Ativa,270,Semestral,06/08/2012
+CE,Iguatu,IDOMED_IGUATU,ESTÁCIO Iguatu,CENTRO UNIVERISTÁRIO ESTÁCIO DO CEARÁ,Campus Iguatu,Privada com fins lucrativos,Centro Universitário,Ativa,50,Semestral,28/03/2022
+CE,Fortaleza,UNICHRISTUS,UNICHRISTUS,CENTRO UNIVERSITÁRIO CHRISTUS,Campus Fortaleza,Privada com fins lucrativos,Centro Universitário,Ativa,373,Semestral,01/08/2006
+CE,Quixadá,IDOMED_QUIXADA,ESTÁCIO Quixadá,CENTRO UNIVERSITÁRIO ESTÁCIO DO CEARÁ,Campus Quixadá,Privada com fins lucrativos,Centro Universitário,Ativa,150,Semestral,05/04/2021
+CE,Itapipoca,UNINTA_ITAPIPOCA,UNINTA Itapipoca,CENTRO UNIVERSITÁRIO INTA,Campus Itapipoca,Privada sem fins lucrativos,Centro Universitário,Ativa,68,Semestral,24/02/2021
+CE,Sobral,UNINTA_SOBRAL,UNINTA,CENTRO UNIVERSITÁRIO INTA,Campus Sobral,Privada sem fins lucrativos,Centro Universitário,Ativa,197,Semestral,17/03/2014
+CE,Icó,,UNIVS,CENTRO UNIVERSITÁRIO VALE DO SALGADO,Campus Icó,Privada com fins lucrativos,Centro Universitário,Ativa,62,Semestral,Não iniciado
+CE,Juazeiro do Norte,IDOMED_FMJ,ESTÁCIO FMJ,FACULDADE DE MEDICINA ESTÁCIO DE JUAZEIRO DO NORTE,Campus Juazeiro do Norte,Privada com fins lucrativos,Faculdade,Ativa,100,Semestral,25/10/2000
+CE,Canindé,IDOMED_CANINDE,ESTÁCIO Canindé,FACULDADE ESTÁCIO DE CANINDÉ,Campus Canindé,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,16/09/2020
+CE,Tianguá,,UNINTA Tianguá,FACULDADE UNINTA TIANGUA,Campus Tianguá,Privada sem fins lucrativos,Faculdade,Ativa,60,Semestral,Não iniciado
+CE,Baturité,,UNILAB,UNIVERSIDADE DA INTEGRAÇÃO INTERNACIONAL DA LUSOFONIA AFRO-BRASILEIRA,Campus Baturité,Pública Federal,Universidade,Ativa,43,Semestral,30/08/2024
+CE,Fortaleza,UNIFOR,UNIFOR,UNIVERSIDADE DE FORTALEZA,Campus Fortaleza,Privada sem fins lucrativos,Universidade,Ativa,200,Semestral,01/08/2006
+CE,Fortaleza,UECE_FORTALEZA,UECE,UNIVERSIDADE ESTADUAL DO CEARÁ,Campus Fortaleza,Pública Estadual,Universidade,Ativa,80,Anual,24/03/2003
+CE,Crateús,,UECE,UNIVERSIDADE ESTADUAL DO CEARÁ,Campus Crateús,Pública Estadual,Universidade,Ativa,40,Anual,Não iniciado
+CE,Quixeramobim,,UECE,UNIVERSIDADE ESTADUAL DO CEARÁ,Campus Quixeramobim,Pública Estadual,Universidade,Ativa,40,Anual,Não iniciado
+CE,Barbalha,UFCA,UFCA,UNIVERSIDADE FEDERAL DO CARIRI,Campus Barbalha,Pública Federal,Universidade,Ativa,80,Semestral,01/03/2001
+CE,Fortaleza,UFC_FORTALEZA,UFC,UNIVERSIDADE FEDERAL DO CEARÁ,Campus Fortaleza,Pública Federal,Universidade,Ativa,160,Semestral,13/04/1948
+CE,Sobral,UFC_SOBRAL,UFC,UNIVERSIDADE FEDERAL DO CEARÁ,Campus Sobral,Pública Federal,Universidade,Ativa,80,Semestral,01/03/2001
+CE,Crato,URCA,URCA,UNIVERSIDADE REGIONAL DO CARIRI,Campus Crato,Pública Estadual,Universidade,Ativa,60,Anual,Não iniciado
+DF,Brasília,UNICEUB,UNICEUB,CENTRO UNIVERSITÁRIO DE BRASÍLIA,Campus Brasília,Privada sem fins lucrativos,Centro Universitário,Ativa,150,Semestral,01/08/2013
+DF,Brasília,UNICEPLAC,UNICEPLAC,CENTRO UNIVERSITÁRIO DO PLANALTO CENTRAL APPARECIDO DOS SANTOS,Campus Brasília,Privada com fins lucrativos,Centro Universitário,Ativa,120,Semestral,02/04/2002
+DF,Brasília,UNIEURO,UNIEURO,CENTRO UNIVERSITÁRIO EURO-AMERICANO,Campus Brasília,Privada com fins lucrativos,Centro Universitário,Ativa,100,Semestral,18/02/2019
+DF,Brasília,UCB,UCB,UNIVERSIDADE CATÓLICA DE BRASíLIA,Campus Brasília,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,15/08/2001
+DF,Brasília,UNB,UNB,UNIVERSIDADE DE BRASÍLIA,Campus Brasília,Pública Federal,Universidade,Ativa,76,Semestral,01/03/1962
+DF,Brasília,ESCS,ESCS | UnDF,UNIVERSIDADE DO DISTRITO FEDERAL,Campus Brasília,Pública Estadual,Universidade,Ativa,80,Anual,10/08/2001
+ES,Colatina,UNESC-ES,UNESC,CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO,Campus Colatina,Privada sem fins lucrativos,Centro Universitário,Ativa,160,Semestral,14/02/2005
+ES,Vitória,MULTIVIX_VITORIA,MULTIVIX Vitória,CENTRO UNIVERSITÁRIO MULTIVIX VITÓRIA,Campus Vitória,Privada com fins lucrativos,Centro Universitário,Ativa,128,Semestral,15/08/2005
+ES,Vitória,EMESCAM,EMESCAM,ESCOLA SUPERIOR DE CIÊNCIAS DA SANTA CASA DE MISERICÓRDIA DE VITÓRIA,Campus Vitória,Privada sem fins lucrativos,Faculdade,Ativa,140,Semestral,04/03/1968
+ES,Cachoeiro de Itapemirim,MULTIVIX_CACHOEIRO,MULTIVIX Cachoeiro,FACULDADE BRASILEIRA DE CACHOEIRO,Campus Cachoeiro de Itapemirim,Privada com fins lucrativos,Faculdade,Ativa,200,Semestral,27/02/2019
+ES,Cariacica,,FAESA,FACULDADE ESPÍRITO SANTENSE,Campus Cariacica,Privada sem fins lucrativos,Faculdade,Ativa,60,,Não iniciado
+ES,Cariacica,,MULTIVIX Cariacica,FACULDADE MULTIVIX CARIACIA,Campus Cariacica,Privada com fins lucrativos,Faculdade,Ativa,60,,Não iniciado
+ES,São Mateus,,MULTIVIX São Mateus,FACULDADE MULTIVIX SÃO MATEUS,Campus São Mateus,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,22/07/2024
+ES,Serra,,MULTIVIX Serra,FACULDADE MULTIVIX SERRA,Campus Serra,Privada com fins lucrativos,Faculdade,Ativa,60,,Não iniciado
+ES,Vitória,UFES,UFES,UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO,Campus Vitória,Pública Federal,Universidade,Ativa,80,Semestral,05/01/1961
+ES,Vila Velha,UVV,UVV,UNIVERSIDADE VILA VELHA,Campus Vilha Velha,Privada com fins lucrativos,Universidade,Ativa,170,Semestral,05/02/2007
+GO,Aparecida de Goiânia,UNIFAN,UNIFAN,CENTRO UNIVERSITÁRIO ALFREDO NASSER,Campus Aparecida de Goiânia,Privada com fins lucrativos,Centro Universitário,Ativa,100,Semestral,17/11/2014
+GO,Goiatuba,UNICERRADO,UNICERRADO,CENTRO UNIVERSITÁRIO DE GOIATUBA,Campus Goiatuba,Pública Municipal,Centro Universitário,Ativa,120,Semestral,06/08/2018
+GO,Trindade,UNIFIMES_TRINDADE,UNIFIMES,CENTRO UNIVERSITÁRIO DE MINEIROS,Campus Trindade,Pública Municipal,Centro Universitário,Ativa,150,Semestral,27/08/2018
+GO,Mineiros,UNIFIMES_MINEIROS,UNIFIMES,CENTRO UNIVERSITÁRIO DE MINEIROS,Campus Mineiros,Pública Municipal,Centro Universitário,Ativa,120,Semestral,14/03/2016
+GO,Mineiros,FAMP,FAMP,FACULDADE MORGANA POTRICH,Campus Mineiros,Privada com fins lucrativos,Faculdade,Ativa,200,Semestral,17/08/2015
+GO,Itumbiara,ZARNS_ITUMBIARA,ZARNS ITUMBIARA,FACULDADE ZARNS - ITUMBIARA,Campus Itumbiara,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,24/05/2018
+GO,Goiânia,PUC-GOIAS,PUC GOIÁS,PONTIFíCIA UNIVERSIDADE CATÓLICA DE GOIÁS,Campus Goiânia,Privada sem fins lucrativos,Universidade,Ativa,124,Semestral,08/08/2005
+GO,Formosa,UNIRV_FORMOSA,FESURV,UNIVERSIDADE DE RIO VERDE,Campus Formosa,Pública Municipal,Universidade,Ativa,200,Semestral,06/02/2019
+GO,Aparecida de Goiânia,UNIRV_APARECIDA,FESURV,UNIVERSIDADE DE RIO VERDE,Campus Aparecida de Goiânia,Pública Municipal,Universidade,Ativa,200,Semestral,28/07/2014
+GO,Goianésia,UNIRV_GOIANÉSIA,FESURV,UNIVERSIDADE DE RIO VERDE,Campus Goianésia,Pública Municipal,Universidade,Ativa,200,Semestral,14/09/2015
+GO,Rio Verde,UNIRV-RIO_VERDE,FESURV,UNIVERSIDADE DE RIO VERDE,Campus Rio Verde,Pública Municipal,Universidade,Ativa,200,Semestral,03/01/2012
+GO,Luziânia,,FESURV,UNIVERSIDADE DE RIO VERDE,Campus Luziânia,Pública Municipal,Universidade,Ativa,200,Semestral,02/05/2023
+GO,Anápolis,UNIEVANGELICA,UniEVANGÉLICA,UNIVERSIDADE ENVANGÉLICA DE GOIÁS,Campus Anápolis,Privada sem fins lucrativos,Universidade,Ativa,160,Semestral,02/03/2008
+GO,Itumbiara,,UEG,UNIVERSIDADE ESTADUAL DE GOIÁS,Campus Itumbiara,Pública Estadual,Universidade,Ativa,24,Semestral,01/08/2018
+GO,Catalão,UFCAT,UFCAT,UNIVERSIDADE FEDERAL DE CATALÃO,Campus Catalão,Pública Federal,Universidade,Ativa,50,Semestral,13/03/2019
+GO,Goiânia,UFG,UFG,UNIVERSIDADE FEDERAL DE GOIÁS,Campus Goiânia,Pública Federal,Universidade,Ativa,110,Semestral,21/04/1960
+GO,Jataí,UFJ,UFJ,UNIVERSIDADE FEDERAL DE JATAÍ,Campus Jataí,Pública Federal,Universidade,Ativa,60,Semestral,16/07/2014
+MA,Santa Inês,AFYA_INÊS,AFYA SANTA INÊS,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE SANTA INÊS,Campus Santa Inês,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,26/10/2020
+MA,Caxias,,UniFacema,CENTRO UNIVERSITÁRIO DE CIÊNCIAS E TECNOLOGIA DO MARANHÃO,Campus Caxias-Centro,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,09/09/2024
+MA,São Luís,,UNINASSAU,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE SÃO LUÍS,Campus São Luís,Privada sem fins lucrativos,Centro Universitário,Ativa,60,Anual,Não iniciado
+MA,São Luís,UNDB,UNDB,CENTRO UNIVERSITÁRIO UNIDADE DE ENSINO SUPERIOR DOM BOSCO,Campus São Luís,Privada com fins lucrativos,Centro Universitário,Ativa,120,Semestral,09/05/2022
+MA,São Luís,,ANHANGUERA São Luiz,FACULDADE ANHANGUERA DE SÃO LUIZ,Campus São Luís,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,15/10/2024
+MA,Codó,PITAGORAS_CODO,PITÁGORAS CODÓ,FACULDADE DE CIÊNCIAS DA SAÚDE PITÁGORAS DE CODÓ,Campus Codó,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,27/12/2021
+MA,São Luís,,EDUFOR,FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR,Campus Turu,Privada com fins lucrativos,Faculdade,Ativa,58,Semestral,14/08/2023
+MA,Açaílândia,FAMEAC,FAMEAC,FACULDADE DE MEDICINA DE AÇAÍLÂNDIA,Campus Açaílândia,Privada com fins lucrativos,Faculdade,Ativa,90,Semestral,05/04/2021
+MA,São Luís,,EDUFOR,FACULDADE DE TECNOLOGIA E ADMINISTRAÇÃO EDUDOR,Campus Principal,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,02/09/2024
+MA,Bacabal,PITAGORAS_BACABAL,PITÁGORAS BACABAL,FACULDADE PITÁGORAS DE BACABAL,Campus Bacabal,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,28/03/2022
+MA,São Luís,,IDEA São Luiz,INSTITUTO DE DESENVOLVIMENTO E APRENDIZAGEM - IDEA SÃO LUÍS,Campus Sede,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,16/09/2024
+MA,São Luís,,IFES,INSTITUTO FLORENCE DE ENSINO SUPERIOR,Campus São Luís,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,Não iniciado
+MA,Imperatriz,UNICEUMA_IMP,UNICEUMA,UNIVERSIDADE CEUMA,Campus Imperatriz,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,09/11/2017
+MA,São Luís,UNICEUMA,UNICEUMA,UNIVERSIDADE CEUMA,Campus São Luís,Privada sem fins lucrativos,Universidade,Ativa,194,Semestral,02/02/2004
+MA,Imperatriz,UEMASUL,UEMASUL,UNIVERSIDADE ESTADUAL DA REGIÃO TOCANTINA DO MARANHÃO,Campus Imperatriz,Pública Estadual,Universidade,Ativa,80,Semestral,04/01/2021
+MA,Caxias,UEMA,UEMA,UNIVERSIDADE ESTADUAL DO MARANHÃO,Campus Caxias,Pública Estadual,Universidade,Ativa,30,Semestral,29/10/2003
+MA,Pinheiro,UFMA_PINHEIRO,UFMA,UNIVERSIDADE FEDERAL DO MARANHÃO,Campus Pinheiro,Pública Federal,Universidade,Ativa,100,Semestral,01/03/2014
+MA,São Luís,UFMA,UFMA,UNIVERSIDADE FEDERAL DO MARANHÃO,Campus São Luís,Pública Federal,Universidade,Ativa,100,Semestral,05/07/1958
+MA,Imperatriz,UFMA_IMP,UFMA,UNIVERSIDADE FEDERAL DO MARANHÃO,Campus Imperatriz,Pública Federal,Universidade,Ativa,100,Semestral,01/03/2014
+MG,Ipatinga,AFYA_IPATINGA,AFYA IPATINGA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE IPATINGA,Campus Ipatinga,Privada com fins lucrativos,Faculdade,Ativa,100,Semestral,08/03/1999
+MG,Matipó,UNIVERTIX,UNIVÉRTIX,CENTRO UNIVERSITÁRIO VÉRTICE,Campus Matipó,Privada com fins lucrativos,Centro Universitário,Ativa,120,Semestral,03/02/2020
+MG,Paracatu,UNIATENAS,UniAtenas,CENTRO UNIVERSITÁRIO ATENAS,Campus Paracatu,Privada com fins lucrativos,Centro Universitário,Ativa,140,Semestral,06/02/2006
+MG,Belo Horizonte,UNI-BH,UNI-BH,CENTRO UNIVERSITÁRIO DE BELO HORIZONTE,Campus Belo Horizonte,Privada com fins lucrativos,Centro Universitário,Ativa,160,Semestral,26/03/2007
+MG,Caratinga,UNEC,UNEC,CENTRO UNIVERSITÁRIO DE CARATINGA,Campus Caratinga,Privada sem fins lucrativos,Centro Universitário,Ativa,40,Semestral,03/03/2002
+MG,Patos de Minas,UNIPAM,UNIPAM,CENTRO UNIVERSITÁRIO DE PATOS DE MINAS,Campus Patos de Minas,Privada sem fins lucrativos,Centro Universitário,Ativa,60,Semestral,07/02/2008
+MG,Montes Claros,FUNORTE,Uninorte Minas,CENTRO UNIVERSITÁRIO DO NORTE DE MINAS,Campos Montes Claros,Privada sem fins lucrativos,Centro Universitário,Ativa,80,Semestral,01/08/2005
+MG,Muriaé,UNIFAMINAS,UNIFAMINAS,CENTRO UNIVERSITÁRIO FAMINAS,Campus Muriaé,Privada com fins lucrativos,Centro Universitário,Ativa,83,Semestral,14/07/2014
+MG,Montes Claros,UNIFIPMOC,UNIFIPMoc,CENTRO UNIVERSITÁRIO FIP-MOC,Campus Montes Claros,Privada com fins lucrativos,Centro Universitário,Ativa,100,Semestral,01/02/2008
+MG,Itabira,,UNIFUNCESI,CENTRO UNIVERSITÁRIO FUNCESI,Campus Itabira,Privada sem fins lucrativos,Centro Universitário,Ativa,66,Semestral,12/06/2023
+MG,Ubá,UNIFAGOC,UNIFAGOC,CENTRO UNIVERSITÁRIO GOVERNADOR OZANAM COELHO,Campus Ubá,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,04/08/2014
+MG,Araguari,IMEPAC_ARAGUARI,,CENTRO UNIVERSITÁRIO IMEPAC - ARAGUARI,Campus Araguari,Privada com fins lucrativos,Centro Universitário,Ativa,219,Semestral,14/02/2005
+MG,Juiz de Fora,UNIPAC,UNIPAC,CENTRO UNIVERSITÁRIO PRESIDENTE ANTÔNIO CARLOS,Campus Juiz de Fora,Privada sem fins lucrativos,Centro Universitário,Ativa,94,Semestral,04/11/2002
+MG,São João del Rei,UNIPTAN,UNIPTAN,CENTRO UNIVERSITÁRIO PRESIDENTE TANCREDO DE ALMEIDA NEVES,Campus São João del Rei,Privada com fins lucrativos,Centro Universitário,Ativa,49,Semestral,11/08/2015
+MG,Manhuaçu,UNIFACIG,,CENTRO UNIVERSITÁRIO UNIFACIG,Campus Manhuaçu,Privada com fins lucrativos,Centro Universitário,Ativa,36,Semestral,01/07/2014
+MG,Passos,ATENAS_PASSOS,,FACULDADE ATENAS PASSOS,Campus Passos,Privada com fins lucrativos,Faculdade,Ativa,118,Semestral,16/04/2018
+MG,Sete Lagoas,ATENAS_SETE-LAGOAS,,FACULDADE ATENAS SETE LAGOAS,Campus Sete Lagoas,Privada com fins lucrativos,Faculdade,Ativa,79,Semestral,05/03/2018
+MG,Vespasiano,FASEH,FASEH,FACULDADE DA SAÚDE E ECOLOGIA HUMANA,Campus Vespasiano,Privada com fins lucrativos,Faculdade,Ativa,100,Semestral,02/10/2003
+MG,Belo Horizonte,FCMMG,FCMMG,FACULDADE DE CIÊNCIAS MÉDICAS DE MINAS GERAIS,Campus Belo Horizonte,Privada sem fins lucrativos,Faculdade,Ativa,366,Semestral,02/02/1951
+MG,Juiz de Fora,SUPREMA,FCMS/JF,FACULDADE DE CIÊNCIAS MÉDICAS E DA SAÚDE DE JUIZ DE FORA,Campus Juiz de Fora,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,03/11/2004
+MG,Barbacena,FAME,FAME,FACULDADE DE MEDICINA DE BARBACENA,Campus Barbacena,Privada sem fins lucrativos,Faculdade,Ativa,120,Semestral,27/04/1971
+MG,Itajubá,FMIT,FMIT,FACULDADE DE MEDICINA DE ITAJUBÁ,Campus Itajubá,Privada sem fins lucrativos,Faculdade,Ativa,87,Semestral,01/04/1968
+MG,Belo Horizonte,FAMINAS-BH,FAMINAS-BH,FACULDADE DE MINAS BH,Campus Belo Horizonte,Privada com fins lucrativos,Faculdade,Ativa,180,Semestral,06/08/2012
+MG,Ponte Nova,FADIP,FADIP,FACULDADE DINÁMICA DO VALE DO PIRANGA,Campus Ponte Nova,Privada com fins lucrativos,Faculdade,Ativa,61,Semestral,03/08/2015
+MG,Uberlândia,,FATRA,FACULDADE DO TRABALHO,Campus Uberlândia,Privada com fins lucrativos,Faculdade,Ativa,56,Semestral,16/09/2022
+MG,Ituiutaba,,FacMais,FACULDADE MAIS DE ITUIUTABA,Campus Ituiutaba,Privada com fins lucrativos,Faculdade,Ativa,57,Semestral,17/09/2024
+MG,Contagem,,FUNIC,FACULDADE ÚNICA DE CONTAGEM,Campus Contagem,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,Não iniciado
+MG,Pouso Alegre,,INAPÓS,INSTITUTO NACIONAL DE ENSINO SUPERIOR E PÓS-GRADUAÇÃO PADRE GERVÁSIO,Campus Pouso Alegre,Privada com fins lucrativos,Faculdade,Ativa,150,Semestral,Não iniciado
+MG,Contagem,PUC_CONTAGEM,PUC MINAS,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,Campus Contagem,Privada sem fins lucrativos,Universidade,Ativa,50,Semestral,01/08/2018
+MG,Poços de Caldas,PUC_POÇOS-CALDAS,PUC MINAS,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,Campus Poços de Caldas,Privada sem fins lucrativos,Universidade,Ativa,86,Semestral,20/12/2017
+MG,Betim,PUC_BETIM,PUC MINAS,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS,Campus Betim,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,06/06/2012
+MG,Itaúna,UIT,UI,UNIVERSIDADE DE ITAÚNA,Campus Itaúna,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,03/12/2007
+MG,Uberaba,UNIUBE,UNIUBE,UNIVERSIDADE DE UBERABA,Campus Uberaba,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,01/02/2000
+MG,Passos,UEMG,UEMG,UNIVERSIDADE DO ESTADO DE MINAS GERAIS,Campus Passos,Pública Estadual,Universidade,Ativa,40,Semestral,01/03/2016
+MG,Pouso Alegre,UNIVAS,UNIVÁS,UNIVERSIDADE DO VALE DO SAPUCAÍ,Campus Pouso Alegre,Privada sem fins lucrativos,Universidade,Ativa,70,Semestral,03/03/1969
+MG,Montes Claros,UNIMONTES,UNIMONTES,UNIVERSIDADE ESTADUAL DE MONTES CLAROS,Campus Montes Claros,Pública Estadual,Universidade,Ativa,80,Semestral,04/03/1969
+MG,Alfenas,UNIFAL,UNIFAL-MG,UNIVERSIDADE FEDERAL DE ALFENAS,Campus Alfenas ,Pública Federal,Universidade,Ativa,60,Semestral,10/02/2014
+MG,Governador Valadares,UFJF-GV,UFJF,UNIVERSIDADE FEDERAL DE JUIZ DE FORA,Campus Governador Valadares,Pública Federal,Universidade,Ativa,100,Semestral,27/02/2012
+MG,Juiz de Fora,UFJF,UFJF,UNIVERSIDADE FEDERAL DE JUIZ DE FORA,Campus Juiz de Fora,Pública Federal,Universidade,Ativa,180,Semestral,01/02/1953
+MG,Lavras,UFLA,UFLA,UNIVERSIDADE FEDERAL DE LAVRAS,Campus Lavras,Pública Federal,Universidade,Ativa,60,Semestral,02/03/2015
+MG,Belo Horizonte,UFMG,UFMG,UNIVERSIDADE FEDERAL DE MINAS GERAIS,Campus Belo Horizonte,Pública Federal,Universidade,Ativa,320,Semestral,01/03/1912
+MG,Ouro Preto,UFOP,UFOP,UNIVERSIDADE FEDERAL DE OURO PRETO,Campus Ouro Preto,Pública Federal,Universidade,Ativa,80,Semestral,24/09/2007
+MG,Divinópolis,UFSJ_DIVINOPOLIS,UFSJ,UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI,Campus Divinópolis,Pública Federal,Universidade,Ativa,60,Semestral,02/04/2008
+MG,São João del Rei,UFSJ_CDB,UFSJ,UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI,Campus Dom Bosco,Pública Federal,Universidade,Ativa,40,Semestral,17/03/2014
+MG,Uberlândia,UFU,UFU,UNIVERSIDADE FEDERAL DE UBERLÂNDIA,Campus Umuarama,Pública Federal,Universidade,Ativa,120,Semestral,01/08/1968
+MG,Viçosa,UFV,UFV,UNIVERSIDADE FEDERAL DE VIÇOSA,Campus Viçosa,Pública Federal,Universidade,Ativa,50,Semestral,01/03/2010
+MG,Uberaba,UFTM,UFTM,UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO,Campus Uberaba,Pública Federal,Universidade,Ativa,95,Semestral,30/03/1954
+MG,Diamantina,UFVJM_DMT,UFVJM,UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI,Campus Diamantina,Pública Federal,Universidade,Ativa,60,Semestral,31/03/2014
+MG,Teófilo Otoni,UFVJM,UFVJM,UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI,Campus do Mucuri,Pública Federal,Universidade,Ativa,60,Semestral,25/08/2014
+MG,Alfenas,UNIFENAS,UNIFENAS,UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO,Campus Alfenas,Privada sem fins lucrativos,Universidade,Ativa,160,Semestral,01/02/1989
+MG,Belo Horizonte,UNIFENAS-BH,UNIFENAS,UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO,Campus Belo Horizonte,Privada sem fins lucrativos,Universidade,Ativa,260,Semestral,10/03/2003
+MG,Governador Valadares,UNIVALE,UNIVALE,UNIVERSIDADE VALE DO RIO DOCE,Campus Governador Valadares,Privada sem fins lucrativos,Universidade,Ativa,58,Semestral,17/05/2016
+MS,Ponta Porã,,UNIDERP Ponta Porã,FACULDADE DE MEDICINA UNIDERP DE PONTA PORÃ,Campus Ponta Porã,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,05/08/2024
+MS,Corumbá,UNICESUMAR_CORUMBÁ,UNICESUMAR Corumbá,FACULDADE UNICESUMAR DE CORUMBÁ,Campus Corumbá,Privada com fins lucrativos,Faculdade,Ativa,50,Anual,01/09/2020
+MS,Dourados,UFGD,UFGD,FUNDAÇÃO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS,Campus Dourados,Pública Federal,Universidade,Ativa,80,Semestral,08/05/2000
+MS,Campo Grande,UNIDERP,UNIDERP,UNIVERSIDADE ANHANGUERA,Campus Campo Grande,Privada com fins lucrativos,Universidade,Ativa,120,Semestral,07/02/2000
+MS,Campo Grande,UEMS,UEMS,UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL,Campus Campo Grande,Pública Estadual,Universidade,Ativa,48,Anual,27/01/2015
+MS,Campo Grande,UFMS,UFMS,UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL,Campus Campo Grande,Pública Federal,Universidade,Ativa,80,Semestral,10/03/1968
+MS,Três Lagoas,UFMS_3LAGOAS,UFMS,UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL,Campus Três Lagoas,Pública Federal,Universidade,Ativa,60,Semestral,03/07/2014
+MT,Várzea Grande,UNIVAG,UNIVAG,CENTRO UNIVERSITÁRIO DE VÁRZEA GRANDE,Campus Várzea Grande,Privada sem fins lucrativos,Centro Universitário,Ativa,120,Semestral,19/08/2013
+MT,Cáceres,UNIPANTANAL,UNIPANTANAL,CENTRO UNIVERSITÁRIO ESTÁCIO DO PANTANAL,Campus Cáceres,Privada com fins lucrativos,Centro Universitário,Ativa,50,Semestral,22/09/2020
+MT,Sorriso,ATENAS_SORRISO,,FACULDADE ATENAS SORRISO,Campus Sorriso,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,20/06/2022
+MT,Cuiabá,UNIC,UNIC/UNIME,UNIVERSIDADE DE CUIABÁ,Campus Cuiabá,Privada com fins lucrativos,Universidade,Ativa,88,Semestral,04/08/1997
+MT,Cáceres,UNEMAT,UNEMAT,UNIVERSIDADE DO ESTADO DE MATO GROSSO CARLOS ALBERTO REYES MALDONADO - UNEMAT,Campus Cáceres,Pública Estadual,Universidade,Ativa,60,Semestral,30/07/2012
+MT,Cuiabá,UFMT,UFMT,UNIVERSIDADE FEDERAL DE MATO GROSSO,Campus Cuiabá,Pública Federal,Universidade,Ativa,80,Semestral,03/11/1978
+MT,Sinop,UFMT_SINOP,UFMT,UNIVERSIDADE FEDERAL DE MATO GROSSO,Campus Sinop,Pública Federal,Universidade,Ativa,60,Semestral,14/04/2014
+MT,Rondonópolis,UFR,UFR,UNIVERSIDADE FEDERAL DE RONDONÓPOLIS,Campus Rondonópolis,Pública Federal,Universidade,Ativa,40,Semestral,04/04/2014
+PA,Abaetetuba,,AFYA ABAETETUBA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ABAETETUBA,Campus Abaetetuba,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,08/06/2022
+PA,Bragança,,AFYA BRAGANÇA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE BRAÇANGA,Campus Bragança,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,08/06/2022
+PA,Belém,,UNIESAMAZ,CENTRO UNIVERSITÁRIO DA AMAZÔNIA,Campus Belém,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,01/10/2024
+PA,Belém,CESUPA,CESUPA,CENTRO UNIVERSITÁRIO DO ESTADO DO PARÁ,Campus Belém,Privada sem fins lucrativos,Centro Universitário,Ativa,160,Semestral,05/02/2007
+PA,Belém,UNIFAMAZ,UNIFAMAZ,CENTRO UNIVERSITÁRIO METROPOLITANO DA AMAZÔNIA,Campus Belém,Privada com fins lucrativos,Centro Universitário,Ativa,178,Semestral,27/10/2014
+PA,Marabá,FACIMPA,FACIMPA,FACULDADE DE CIÊNCIAS MÉDICAS DO PARÁ,Campus Marabá,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,26/09/2019
+PA,Redenção,FESAR,FESAR,FACULDADE DE ENSINO SUPERIOR DA AMAZÔNIA REUNIDA,Campus Redenção,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,24/10/2018
+PA,Castanhal,IDOMED_CASTANHAL,ESTÁCIO FMEC,FACULDADE DE MEDICINA ESTÁCIO DE CASTANHAL,Campus Castanhal,Privada com fins lucrativos,Faculdade,Ativa,150,Semestral,05/04/2021
+PA,Tucuruí,,UNATUCURUI,FACULDADE UNA DE TUCURUÍ,Campus Tucuruí,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,11/09/2024
+PA,Marabá,UEPA-MARABA,UEPA,UNIVERSIDADE DO ESTADO DO PARÁ,Campus Marabá,Pública Estadual,Universidade,Ativa,40,Anual,19/11/2020
+PA,Belém,UEPA,UEPA,UNIVERSIDADE DO ESTADO DO PARÁ,Campus Belém,Pública Estadual,Universidade,Ativa,100,Anual,10/04/1970
+PA,Satarém,UEPA-SATAREM,UEPA,UNIVERSIDADE DO ESTADO DO PARÁ,Campus Satarém,Pública Estadual,Universidade,Ativa,20,Anual,15/02/2006
+PA,Altamira,UFPA-ALTAMIRA,UFPA,UNIVERSIDADE FEDERAL DO PARÁ,Campus Altamira,Pública Federal,Universidade,Ativa,60,Semestral,16/01/2017
+PA,Belém,UFPA,UFPA,UNIVERSIDADE FEDERAL DO PARÁ,Campus Belém,Pública Federal,Universidade,Ativa,150,Semestral,01/05/1919
+PB,João Pessoa,AFYA_PARAIBA,AFYA PARAÍBA,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA,Campus João Pessoa,Privada com fins lucrativos,Faculdade,Ativa,157,Semestral,11/08/2004
+PB,João Pessoa,UNIPE,UNIPÊ,CENTRO UNIVERSITÁRIO DE JOÃO PESSOA,Campus João Pessoa,Privada com fins lucrativos,Centro Universitário,Ativa,140,Semestral,28/07/2014
+PB,Patos,UNIFIP,UNIFIP,CENTRO UNIVERSITÁRIO DE PATOS,Campus Patos,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,25/08/2014
+PB,Campina Grande,UNIFACISA,UNIFACISA,CENTRO UNIVERSITÁRIO FACISA,Campus Campina Grande,Privada com fins lucrativos,Centro Universitário,Ativa,180,Semestral,01/02/2006
+PB,Campina Grande,,UNINASSAU CVP,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CAMPINA GRANDE,Campus Campina Grande,Privada com fins lucrativos,Centro Universitário,Ativa,240,Anual,14/08/2024
+PB,Cajazeiras,UNIFSM,UNIFSM,CENTRO UNIVERSITÁRIO SANTA MARIA,Campus Cajazeiras,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,01/08/2012
+PB,João Pessoa,FAMENE,FAMENE,FACULDADE DE MEDICINA NOVA ESPERANÇA,Campus João Pessoa,Privada com fins lucrativos,Faculdade,Ativa,220,Semestral,16/08/2004
+PB,João Pessoa,UFPB,UFPB,UNIVERSIDADE FEDERAL DA PARAÍBA,Campus João Pessoa,Pública Federal,Universidade,Ativa,130,Semestral,05/12/1951
+PB,Cajazeiras,UFCG_CAJAZEIRAS,UFCG,UNIVERSIDADE FEDERAL DE CAMPINA GRANDE,Campus Cajazeiras,Pública Federal,Universidade,Ativa,30,Semestral,15/10/2007
+PB,Campina Grande,UFCG_CAMPINA,UFCG,UNIVERSIDADE FEDERAL DE CAMPINA GRANDE,Campus Campina Grande,Pública Federal,Universidade,Ativa,90,Semestral,20/06/1979
+PE,Garanhuns,AFYA_GARANHUS,AFYA GARANHUNS,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE GARANHUS,Campus Garanhuns,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,14/12/2021
+PE,Jaboatão dos Guararapes,AFYA_JABOATAO,AFYA JABOATÃO,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE JABOATÃO DOS GUARARAPES,Campus Jaboatão dos Guararapes,Privada com fins lucrativos,Faculdade,Ativa,200,Semestral,25/04/2018
+PE,Recife,UNINASSAU_RECIFE,UNINASSAU,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU,Campus Recife,Privada com fins lucrativos,Centro Universitário,Ativa,268,Semestral,06/08/2012
+PE,Caruaru,,Uninassau Caruaru,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CARUARU,Campus Caruaru,Privada com fins lucrativos,Centro Universitário,Ativa,60,Anual,12/08/2024
+PE,Caruaru,,ASCES-UNITA,CENTRO UNIVERSITÁRIO TABOSA DE ALMEIDA,Campus Caruaru,Privada sem fins lucrativos,Centro Universitário,Ativa,60,Semestral,27/09/2024
+PE,Serra Talhada,,FACISST,FACULDADE DE CIÊNCIAS DA SAÚDE DE SERRA TALHADA ,Campus Serra Talhada,Especial,Faculdade,Ativa,100,Semestral,Não iniciado
+PE,Olinda,FMO,FMO,FACULDADE DE MEDICINA DE OLINDA,Campus Olinda,Privada com fins lucrativos,Faculdade,Ativa,300,Semestral,21/10/2015
+PE,Arcoverde,FMS,FMS,FACULDADE DE MEDICINA DO SERTÃO,Campus Arcoverde,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,03/08/2020
+PE,Petrolina,FACAPE,FACAPE,FACULDADE DE PETROLINA,Campus Petrolina,Especial,Faculdade,Ativa,100,Semestral,Não iniciado
+PE,Belo Jardim,,FBJ,FACULDADE DO BELO JARDIM,Campus Belo Jardim,Especial,Faculdade,Ativa,100,Semestral,Não iniciado
+PE,Araripina,FAP,FAP,FACULDADE PARAÍSO ARARIPINA,Campus Araripina,Privada com fins lucrativos,Faculdade,Ativa,116,Semestral,12/04/2021
+PE,Recife,FPS,FPS,FACULDADE PERNAMBUCANA DE SAÚDE,Campus Recife,Privada sem fins lucrativos,Faculdade,Ativa,192,Semestral,30/01/2006
+PE,Goiana,FITS_GOIANA,FITS,FACULDADE TIRADENTES DE GOIANA,Campus Principal,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,05/07/2021
+PE,Garanhuns,,FACIGA,FACULDADES INTEGRADAS DE GARANHUNS,Campus Garanhuns,Especial,Faculdade,Ativa,90,Semestral,15/02/2024
+PE,Petrolina,UNIVASF_PETROLINA,UNIVASF,FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO,Campus Petrolina,Pública Federal,Universidade,Ativa,80,Semestral,18/10/2004
+PE,Recife,UNICAP,UNICAP,UNIVERSIDADE CATÓLICA DE PERNAMBUCO,Campus Recife,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,04/08/2014
+PE,Garanhuns,UPE-GARANHUS,UPE,UNIVERSIDADE DE PERNAMBUCO,Campus Garanhuns,Pública Estadual,Universidade,Ativa,40,Anual,01/08/2011
+PE,Serra Talhada,UPE-ST,UPE,UNIVERSIDADE DE PERNAMBUCO,Campus Serra Talhada,Pública Estadual,Universidade,Ativa,40,Semestral,01/08/2013
+PE,Recife,UPE-RECIFE,UPE,UNIVERSIDADE DE PERNAMBUCO,Campus Recife,Pública Estadual,Universidade,Ativa,150,Semestral,27/03/1951
+PE,Recife,UFPE_RECIFE,UFPE,UNIVERSIDADE FEDERAL DE PERNAMBUCO,Campus Recife,Pública Federal,Universidade,Ativa,140,Semestral,16/07/1920
+PE,Caruaru,UFPE_CARUARU,UFPE,UNIVERSIDADE FEDERAL DE PERNAMBUCO,Campus Caruaru,Pública Federal,Universidade,Ativa,80,Semestral,01/03/2014
+PI,Teresina,UNIFACID,UNIFACID,CENTRO UNIVERISTÁRIO FACID WYDEN,Campus Teresina,Privada com fins lucrativos,Centro Universitário,Ativa,110,Semestral,21/02/2005
+PI,Floriano,,Unifaesf,CENTRO UNIVERSITÁRIO FAESF,Campus Floriano,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,01/10/2024
+PI,Teresina,,UNINASSAU SUL,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU TERESINA SUL,Campus Teresina,Privada com fins lucrativos,Centro Universitário,Ativa,60,Anual,12/08/2024
+PI,Teresina,,UNIFSA,CENTRO UNIVERSITÁRIO SANTO AGOSTINHO,Campus Teresina,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,05/07/2024
+PI,Teresina,UNINOVAFAPI,UNINOVAFAPI,CENTRO UNIVERSITÁRIO UNINOVAFAPI,Campus Teresina,Privada com fins lucrativos,Centro Universitário,Ativa,171,Semestral,27/08/2004
+PI,Parnaí­ba,FAHESP_IESVAP,FAHESP_IESVAP,FACULDADE DE CIÊNCIAS HUMANAS EXATAS E DA SAÚDE DO PIAUÍ,Campus Parnaí­ba,Privada com fins lucrativos,Faculdade,Ativa,80,Semestral,30/12/2015
+PI,Teresina,FACULDADE-CET,FACULDADE-CET,FACULDADE DE TECNOLOGIA DE TERESINA,Campus Teresina,Privada com fins lucrativos,Faculdade,Ativa,130,Semestral,22/03/2021
+PI,Teresina,UESPI,UESPI,UNIVERSIDADE ESTADUAL DO PIAUÍ,Campus Teresina,Pública Estadual,Universidade,Ativa,50,Semestral,01/03/1999
+PI,Parnaí­ba,UFDPAR,UFDPAR,UNIVERSIDADE FEDERAL DO DELTA DO PARNAIBA,Campus Parnaí­ba,Pública Federal,Universidade,Ativa,80,Semestral,10/09/2014
+PI,Picos,UFPI-PICOS,UFPI-PICOS,UNIVERSIDADE FEDERAL DO PIAUÍ,Campus Picos,Pública Federal,Universidade,Ativa,30,Semestral,25/07/2016
+PI,Teresina,UFPI-TERESINA,UFPI,UNIVERSIDADE FEDERAL DO PIAUÍ,Campus Teresina,Pública Federal,Universidade,Ativa,80,Semestral,01/01/1968
+PR,Cascavel,FAG,FAG,CENTRO UNIVERSITÁRIO ASSIS GURGACZ,Campus Cascavel,Privada sem fins lucrativos,Centro Universitário,Ativa,162,Semestral,03/03/2008
+PR,Guarapuava,CAMPOREAL,,CENTRO UNIVERSITÁRIO CAMPO REAL,Campus Guarapuava,Privada com fins lucrativos,Centro Universitário,Ativa,92,Anual,08/12/2017
+PR,Pato Branco,UNIDEP,UNIDEP,CENTRO UNIVERSITÁRIO DE PATO BRANCO,Campus Pato Branco,Privada com fins lucrativos,Centro Universitário,Ativa,110,Semestral,25/09/2017
+PR,Maringá,UNINGA,UNINGÁ,CENTRO UNIVERSITÁRIO INGÁ,Campus Maringá,Privada com fins lucrativos,Centro Universitário,Ativa,100,Anual,01/02/2007
+PR,Campo Mourão,INTEGRADO,INTEGRADO,CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO,Campus Campo Mourão,Privada com fins lucrativos,Centro Universitário,Ativa,125,Semestral,09/11/2017
+PR,Pinhais,,FAPI,CENTRO UNIVERSITÁRIO DE PINHAIS,Campus Pinhais,Privada sem fins lucrativos,Centro Universitário,Ativa,154,Semestral,09/10/2023
+PR,Ivaiporã,,FATEC-IVAI,FACULDADE DE TECNOLOGIA DO VALE DO IVAÍ,Campus Ivaiporã,Privada com fins lucrativos,Faculdade,Ativa,60,Semestral,07/08/2024
+PR,Curitiba,FEMPAR,FEMPAR,FACULDADE EVANGÊLICA MACKENZIE DO PARANÁ,Campus Curitiba,Privada sem fins lucrativos,Faculdade,Ativa,120,Semestral,03/01/1969
+PR,Arapongas,,FACULDADE HONPAR,FACULDADE HONPAR,Campus Arapongas,Privada sem fins lucrativos,Faculdade,Ativa,60,,Não iniciado
+PR,Curitiba,FPP,FPP,FACULDADES PEQUENO PRÍNCIPE,Campus Curitiba,Privada sem fins lucrativos,Faculdade,Ativa,100,Semestral,07/05/2014
+PR,Londrina,PUC_LONDRINA,PUC-PR,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ,Campus Londrina,Privada sem fins lucrativos,Universidade,Ativa,110,Semestral,01/08/2012
+PR,Curitiba,PUC_CURITIBA,PUC-PR,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ,Campus Curitiba,Privada sem fins lucrativos,Universidade,Ativa,210,Semestral,11/03/1957
+PR,Maringá,UNICESUMAR_MARINGA,UNICESUMAR,UNIVERSIDADE CESUMAR,Campus Maringá,Privada com fins lucrativos,Universidade,Ativa,298,Anual,18/11/2011
+PR,Londrina,UEL,UEL,UNIVERSIDADE ESTADUAL DE LONDRINA,Campus Londrina,Pública Estadual,Universidade,Ativa,80,Anual,15/02/1967
+PR,Maringá,UEM,UEM,UNIVERSIDADE ESTADUAL DE MARINGÁ,Campus Maringá,Pública Estadual,Universidade,Ativa,40,Anual,15/08/1988
+PR,Ponta Grossa,UEPG,UEPG,UNIVERSIDADE ESTADUAL DE PONTA GROSSA,Campus Ponta Grossa,Pública Estadual,Universidade,Ativa,40,Anual,19/07/2009
+PR,Guarapuava,UNICENTRO,UNICENTRO,UNIVERSIDADE ESTADUAL DO CENTRO OESTE,Campus Guarapuava,Pública Estadual,Universidade,Ativa,40,Anual,18/02/2019
+PR,Francisco Beltrão,UNIOESTE-FB,UNIOESTE,UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ,Campus Francisco Beltrão,Pública Estadual,Universidade,Ativa,40,Anual,18/02/2013
+PR,Cascavel,UNIOESTE_CASCAVEL,UNIOESTE,UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ,Campus Cascavel,Pública Estadual,Universidade,Ativa,40,Anual,25/11/1997
+PR,Foz do Iguaçu,UNILA,UNILA,UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINO-AMERICANA,Campus Foz do Iguaçu,Pública Federal,Universidade,Ativa,60,Semestral,18/08/2014
+PR,Curitiba,UFPR-CURITIBA,UFPR,UNIVERSIDADE FEDERAL DO PARANÁ,Campus Curitiba,Pública Federal,Universidade,Ativa,190,Semestral,09/12/1912
+PR,Toledo,UFPR-TOLEDO,UFPR,UNIVERSIDADE FEDERAL DO PARANÁ,Campus Toledo,Pública Federal,Universidade,Ativa,60,Semestral,21/03/2016
+PR,Umuarama,UNIPAR,UNIPAR,UNIVERSIDADE PARANAENSE,Campus Umuarama,Privada com fins lucrativos,Universidade,Ativa,110,Anual,12/03/2018
+PR,Curitiba,POSITIVO,POSITIVO,UNIVERSIDADE POSITIVO,Campus Curitiba,Privada com fins lucrativos,Universidade,Ativa,169,Semestral,17/02/2003
+RJ,Valença,UNIFAA,UNIFAA,CENTRO UNIVERSITÁRIO DE VALENÇA,Campus Valença,Privada sem fins lucrativos,Centro Universitário,Ativa,210,Semestral,31/01/1968
+RJ,Volta Redonda,UNIFOA,UNIFOA,CENTRO UNIVERSITÁRIO DE VOLTA REDONDA,Campus Volta Redonda,Privada sem fins lucrativos,Centro Universitário,Ativa,120,Semestral,22/05/1968
+RJ,Itaperuna,UNIREDENTOR,FACREDENTOR,CENTRO UNIVERSITÁRIO REDENTOR,Campus Itaperuna,Privada com fins lucrativos,Centro Universitário,Ativa,112,Semestral,03/08/2015
+RJ,Teresopólis,UNIFESO,UNIFESO,CENTRO UNIVERSITÁRIO SERRA DOS ORGÃOS,Campus Teresopólis,Privada sem fins lucrativos,Centro Universitário,Ativa,144,Semestral,10/04/1970
+RJ,Três Rios,FCM_3RIOS,FCM/TR,FACULDADE DE CIÊNCIAS MÉDICAS DE TRÊS RIOS,Campus Três Rios,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,27/08/2018
+RJ,Campos dos Goytacazes,FMC,FMC,FACULDADE DE MEDICINA DE CAMPOS,Campus Campos dos Goytacazes,Privada sem fins lucrativos,Faculdade,Ativa,126,Semestral,14/10/1967
+RJ,Petropólis,FMP,FMP,FACULDADE DE MEDICINA DE PETRÓPOLIS,Campus Petropólis,Privada sem fins lucrativos,Faculdade,Ativa,150,Semestral,31/10/1967
+RJ,Bom Jesus do Itabapoana,FAMESC-BJI,FAMESC-BJI,FACULDADE METROPOLITANA SÃO CARLOS BJI,Campus Bom Jesus do Itabapoana,Privada com fins lucrativos,Faculdade,Ativa,26,Semestral,21/08/2017
+RJ,Rio de Janeiro,EMSM,FSM,FACULDADE SOUZA MARQUES,Campus Barra da Tijuca,Privada sem fins lucrativos,Faculdade,Ativa,192,Anual,15/05/1971
+RJ,Araruama,,FAC-UNILAGOS,FACULDADE UNIÃO ARARUAMA DE ENSINO S/S Ltda.,Campus Araruama,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,04/07/2023
+RJ,Rio de Janeiro,,UCB,UNIVERSIDADE CASTELO BRANCO,Campus Realengo,Privada sem fins lucrativos,Universidade,Ativa,90,Semestral,06/03/2023
+RJ,Vassouras,UNIVASSOURAS,UNIVASSOURAS,UNIVERSIDADE DE VASSOURAS,Campus Vassouras,Privada sem fins lucrativos,Universidade,Ativa,280,Semestral,01/07/1969
+RJ,Rio de Janeiro,UERJ,UERJ,UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO,Campus Maracanã,Pública Estadual,Universidade,Ativa,104,Semestral,16/02/1936
+RJ,Duque de Caxias,UNIGRANRIO-CAXIAS,UNIGRANRIO,UNIVERSIDADE DO GRANDE RIO PROFESSOR JOSÉ DE SOUZA HERDY,Campus Duque de Caxias,Privada com fins lucrativos,Universidade,Ativa,198,Semestral,22/04/1997
+RJ,Rio de Janeiro,UNIGRANRIO-BARRA,UNIGRANRIO,UNIVERSIDADE DO GRANDE RIO PROFESSOR JOSÉ DE SOUZA HERDY,Campus Barra da Tijuca,Privada com fins lucrativos,Universidade,Ativa,120,Semestral,08/08/2007
+RJ,Rio de Janeiro,IDOMED-VISTA_CARIOCA,IDOMED-VISTA_CARIOCA,UNIVERSIDADE ESTÁCIO DE SÁ,Campus Vista Carioca,Privada com fins lucrativos,Universidade,Ativa,240,Semestral,30/04/1997
+RJ,Angra dos Reis,IDOMED_ANGRA,IDOMED_ANGRA,UNIVERSIDADE ESTÁCIO DE SÁ,Campus Angra dos Reis,Privada com fins lucrativos,Universidade,Ativa,89,Semestral,04/09/2017
+RJ,Rio de Janeiro,IDOMED_CITTA,IDOMED_CITTA,UNIVERSIDADE ESTÁCIO DE SÁ,Campus Cittá,Privada com fins lucrativos,Universidade,Ativa,170,Semestral,27/02/2014
+RJ,Rio de Janeiro,UNIRIO,UNIRIO,UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO,Campus Mariz e Barros,Pública Federal,Universidade,Ativa,160,Semestral,10/04/1912
+RJ,Rio de Janeiro,UFRJ,UFRJ,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Campus Fundão,Pública Federal,Universidade,Ativa,200,Semestral,05/11/1808
+RJ,Macaé,UFRJ_MACAE,UFRJ,UNIVERSIDADE FEDERAL DO RIO DE JANEIRO,Campus Macaé,Pública Federal,Universidade,Ativa,60,Semestral,03/08/2009
+RJ,Niterói,UFF,UFF,UNIVERSIDADE FEDERAL FLUMINENSE,Campus Niterói,Pública Federal,Universidade,Ativa,180,Semestral,31/05/1926
+RJ,Itaperuna,UNIG_ITAPERUNA,UNIG,UNIVERSIDADE IGUAÇU,Campus Itaperuna,Privada sem fins lucrativos,Universidade,Ativa,200,Semestral,04/02/1997
+RJ,Nova Iguaçu,UNIG-NOVA_IGUACU,UNIG,UNIVERSIDADE IGUAÇU,Campus Nova Iguaçu,Privada sem fins lucrativos,Universidade,Ativa,200,Semestral,01/02/1977
+RJ,Rio de Janeiro,,UVA,UNIVERSIDADE VEIGA DE ALMEIDA,Campus Botafogo,Privada com fins lucrativos,Universidade,Ativa,120,Semestral,05/07/2023
+RN,Mossoró,FACENE,FACENE/RN,FACULDADE DE ENFERMAGEM NOVA ESPERANÇA DE MOSSORÓ - FACENE/RN,Campus Mossoró,Privada com fins lucrativos,Faculdade,Ativa,113,Semestral,30/11/2018
+RN,Mossoró,UERN,UERN,UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE,Campus Mossoró,Pública Estadual,Universidade,Ativa,60,Semestral,18/10/2004
+RN,Caicó,UFRN-CAICÓ,UFRN,UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,Campus Caicó,Pública Federal,Universidade,Ativa,40,Semestral,21/07/2014
+RN,Natal,UFRN-NATAL,UFRN,UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE,Campus Natal,Pública Federal,Universidade,Ativa,100,Semestral,01/03/1956
+RN,Mossoró,UFERSA,UFERSA,UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO,Campus Mossoró,Pública Federal,Universidade,Ativa,80,Semestral,03/12/2015
+RN,Natal,UNP,UNP,UNIVERSIDADE POTIGUAR,Campus Natal,Privada com fins lucrativos,Universidade,Ativa,192,Semestral,19/07/2006
+RO,Porto Velho,FIMCA,FIMCA,CENTRO UNIVERSITÁRIO APARÍCIO CARVALHO,Campus Porto Velho,Privada com fins lucrativos,Centro Universitário,Ativa,80,Anual,08/09/2004
+RO,Ji-Paraná,,ESTÁCIO UNIJIPA,CENTRO UNIVERSITÁRIO ESTÁCIO DE JI-PARANÁ,Campus UNIJIPA - Antigo I,Privada com fins lucrativos,Centro Universitário,Ativa,28,Semestral,15/08/2022
+RO,Cacoal,UNINASSAU_CACOAL,UNINASSAU,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CACOAL,Campus Cacoal,Privada com fins lucrativos,Centro Universitário,Ativa,75,Semestral,05/02/2007
+RO,Ji-Paraná,,SÃO LUCAS JPR,CENTRO UNIVERSITÁRIO SÃO LUCAS Ji-PARANÁ,Campus Sede,Privada com fins lucrativos,Centro Universitário,Ativa,28,Semestral,21/06/2022
+RO,Porto Velho,UNISL,SÃO LUCAS PVH,CENTRO UNIVERSITÁRIO SÃO LUCAS PORTO VELHO,Campus 1,Privada com fins lucrativos,Centro Universitário,Ativa,182,Semestral,08/07/2005
+RO,Jaru,,FIMCA UNICENTRO,FACULDADE DE EDUCAÇÃO DE JARU,Campus Jaru,Privada com fins lucrativos,Faculdade,Ativa,120,Anual,09/05/2022
+RO,Ji-Paraná,FAMEJIPA,FAMEJIPA,FACULDADE DE MEDICINA DE Ji-PARANÁ,Campus Ji-Paraná,Privada com fins lucrativos,Faculdade,Ativa,50,Semestral,28/03/2022
+RO,Porto Velho,UNNESA,UNNESA,FACULDADE METROPOLITANA,Campus Porto Velho,Privada com fins lucrativos,Faculdade,Ativa,100,Anual,28/10/2019
+RO,Vilhena,UNINASSAU_VILHENA,UNINASSAU,CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE VILHENA,Campus Vilhena,Privada com fins lucrativos,Faculdade,Ativa,98,Semestral,08/08/2018
+RO,Porto Velho,UNIR,UNIR,FUNDAÇÃO UNIVERSIDADE FEDERAL DE RONDÔNIA,Campus Porto Velho,Pública Federal,Universidade,Ativa,40,Semestral,05/08/2002
+RO,Vilhena,FIMCA_VILHENA,FIMCA,CENTRO UNIVERSITÁRIO APARÍCIO CARVALHO,,,,,,,
+RR,Boa Vista,,FACES,FACULDADE CATHEDRAL,Campus Boa Vista,Privada com fins lucrativos,Faculdade,Ativa,60,Anual,08/10/2024
+RR,Boa Vista,UERR,UERR,UNIVERSIDADE ESTADUAL DE RORAIMA,Campus Boa Vista,Pública Estadual,Universidade,Ativa,30,Semestral,19/02/2018
+RR,Boa Vista,UFRR,UFRR,UNIVERSIDADE FEDERAL DE RORAIMA,Campus Boa Vista,Pública Federal,Universidade,Ativa,80,Anual,01/03/1994
+RS,Passo Fundo,ATITUS_EDUCAÇÃO,Atitus Educação,FACULDADE ATITUS EDUCAÇÃO PASSO FUNDO,Campus Passo Fundo,Privada com fins lucrativos,Faculdade,Ativa,42,Semestral,10/11/2014
+RS,Porto Alegre,UFCSPA,UFCSPA,FUNDAÇÃO UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE,Campus Porto Alegre,Pública Federal,Universidade,Ativa,100,Semestral,22/03/1961
+RS,Uruguaiana,UNIPAMPA,UNIPAMPA,FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA,Campus Uruguaiana,Pública Federal,Universidade,Ativa,60,Semestral,03/03/2016
+RS,Porto Alegre,PUC-RS,PUCRS,PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL,Campus Porto Alegre,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,26/05/1970
+RS,Pelotas,UCPEL,UCPEL,UNIVERSIDADE CATÓLICA DE PELOTAS,Campus Pelotas,Privada sem fins lucrativos,Universidade,Ativa,180,Anual,01/03/1963
+RS,Caxias do Sul,UCS,UCS,UNIVERSIDADE DE CAXIAS DO SUL,Campus Caxias do Sul,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,01/03/1968
+RS,Passo Fundo,UPF,UPF,UNIVERSIDADE DE PASSO FUNDO,Campus Passo Fundo,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,19/03/1970
+RS,Santa Cruz do Sul,UNISC,UNISC,UNIVERSIDADE DE SANTA CRUZ DO SUL,Campus Santa Cruz do Sul,Privada sem fins lucrativos,Universidade,Ativa,80,Semestral,19/04/2006
+RS,São Leopoldo,UNISINOS,UNISINOS,UNIVERSIDADE DO VALE DO RIO DOS SINOS,Campus São Leopoldo,Privada sem fins lucrativos,Universidade,Ativa,87,Semestral,04/09/2017
+RS,Lajeado,UNIVATES,UNIVATES,UNIVERSIDADE DO VALE DO TAQUARI,Campus Lajeado,Privada sem fins lucrativos,Universidade,Ativa,116,Semestral,22/04/2014
+RS,Passo Fundo,UFFS-CCMPF,UFFS,UNIVERSIDADE FEDERAL DA FRONTEIRA SUL,Campus Passo Fundo,Pública Federal,Universidade,Ativa,62,Semestral,16/09/2013
+RS,Pelotas,UFPEL,UFPEL,UNIVERSIDADE FEDERAL DE PELOTAS,Campus Pelotas,Pública Federal,Universidade,Ativa,106,Semestral,04/04/1963
+RS,Santa Maria,UFSM,UFSM,UNIVERSIDADE FEDERAL DE SANTA MARIA,Campus Santa Maria,Pública Federal,Universidade,Ativa,120,Semestral,19/05/1954
+RS,Rio Grande,FURG,FURG,UNIVERSIDADE FEDERAL DO RIO GRANDE,Campus Rio Grande,Pública Federal,Universidade,Ativa,100,Anual,01/03/1966
+RS,Porto Alegre,UFRGS,UFRGS,UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL,Campus Porto Alegre,Pública Federal,Universidade,Ativa,140,Semestral,01/03/1898
+RS,Novo Hamburgo,FEEVALE,FEEVALE,UNIVERSIDADE FEEVALE,Campus Novo Hamburgo,Privada sem fins lucrativos,Universidade,Ativa,81,Semestral,12/09/2017
+RS,Santa Maria,UFN,UFN,UNIVERSIDADE FRANCISCANA,Campus Santa Maria,Privada sem fins lucrativos,Universidade,Ativa,80,Semestral,14/08/2014
+RS,Canoas,ULBRA,ULBRA,UNIVERSIDADE LUTERANA DO BRASIL,Campus Canoas,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,05/04/1996
+RS,Ijuí,UNIJUI,UNIJUI,UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL,Campus Ijuí,Privada sem fins lucrativos,Universidade,Ativa,80,Semestral,04/03/2019
+RS,Erechim,URI,URI,UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES,Campus Erechim,Privada sem fins lucrativos,Universidade,Ativa,55,Semestral,26/02/2018
+SC,Brusque,UNIFEBE,UNIFEBE,CENTRO UNIVERSITÁRIO DE BRUSQUE,Campus Brusque,Privada sem fins lucrativos,Centro Universitário,Ativa,120,Semestral,12/02/2019
+SC,Rio do Sul,UNIDAVI,UNIDAVI,CENTRO UNIVERSITÁRIO PARA O DESENVOLVIMENTO DO ALTO VALE DO ITAJAÍ,Campus Rio do Sul,Privada sem fins lucrativos,Centro Universitário,Ativa,100,Semestral,24/07/2017
+SC,Jaraguá do Sul,IDOMED_JARAGUA,Estácio Jaraguá,FACULDADE ESTÁCIO DE JARAGUÁ DO SUL,Campus Jaraguá do Sul,Privada com fins lucrativos,Faculdade,Ativa,150,Semestral,29/03/2018
+SC,Caçador,UNIARP,UNIARP,UNIVERSIDADE ALTO VALE DO RIO DO PEIXE,Campus Caçador,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,12/12/2018
+SC,Chapecó,UNOCHAPECO,UNOCHAPECÓ,UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ,Campus Chapecó,Privada sem fins lucrativos,Universidade,Ativa,45,Semestral,13/02/2006
+SC,Joinville,UNIVILLE,UNIVILLE,UNIVERSIDADE DA REGIÃO DE JOINVILLE,Campus Joinville,Privada sem fins lucrativos,Universidade,Ativa,96,Semestral,01/03/1999
+SC,Porto União,,UNC,UNIVERSIDADE DO CONTESTADO,Campus Porto União,Especial,Universidade,Ativa,90,Semestral,Não iniciado
+SC,Concórdia,,UNC,UNIVERSIDADE DO CONTESTADO,Campus Concórdia,Especial,Universidade,Ativa,120,Semestral,Não iniciado
+SC,Mafra,UNC_MAFRA,UNC,UNIVERSIDADE DO CONTESTADO,Campus Mafra,Especial,Universidade,Ativa,120,Semestral,31/07/2017
+SC,Criciúma,UNESC-SC,UNESC,UNIVERSIDADE DO EXTREMO SUL CATARINENSE,Campus Criciúma,Privada sem fins lucrativos,Universidade,Ativa,130,Semestral,14/08/2000
+SC,Joaçaba,UNOESC,UNOESC,UNIVERSIDADE DO OESTE DE SANTA CATARINA,Campus Joaçaba,Privada sem fins lucrativos,Universidade,Ativa,60,Semestral,16/02/2004
+SC,Lages,UNIPLAC,UNIPLAC,UNIVERSIDADE DO PLANALTO CATARINENSE,Campus Lages,Privada sem fins lucrativos,Universidade,Ativa,50,Anual,09/02/2004
+SC,Palhoça,UNISUL_PALHOÇA,UNISUL,UNIVERSIDADE DO SUL DE SANTA CATARINA,Campus Palhoça,Privada sem fins lucrativos,Universidade,Ativa,160,Semestral,02/03/2006
+SC,Tubarão,UNISUL_TUBARÃO,UNISUL,UNIVERSIDADE DO SUL DE SANTA CATARINA,Campus Tubarão,Privada sem fins lucrativos,Universidade,Ativa,127,Semestral,22/02/1999
+SC,Itajaí,UNIVALI,UNIVALI,UNIVERSIDADE DO VALE DO ITAJAÍ,Campus Itajaí,Privada sem fins lucrativos,Universidade,Ativa,74,Semestral,21/03/1998
+SC,Chapecó,UFFS-CCMCH,UFFS,UNIVERSIDADE FEDERAL DA FRONTEIRA SUL,Campus Chapecó,Pública Federal,Universidade,Ativa,40,Semestral,29/07/2015
+SC,Florianópolis,UFSC,UFSC,UNIVERSIDADE FEDERAL DE SANTA CATARINA,Campus Florianópolis,Pública Federal,Universidade,Ativa,100,Semestral,01/03/1963
+SC,Curitibanos,,UFSC,UNIVERSIDADE FEDERAL DE SANTA CATARINA,Campus Curitibanos,Pública Federal,Universidade,Ativa,25,Semestral,Não iniciado
+SC,Araranguá,UFSC_ARARANGUA,UFSC,UNIVERSIDADE FEDERAL DE SANTA CATARINA,Campus Araranguá,Pública Federal,Universidade,Ativa,60,Semestral,30/07/2018
+SC,Blumenau,FURB,FURB,UNIVERSIDADE REGIONAL DE BLUMENAU,Campus Blumenau,Pública Municipal,Universidade,Ativa,90,Semestral,05/03/1990
+SE,Aracaju,UFS_ARACAJU,UFS,UNIVERSIDADE FEDERAL DE SERGIPE,Campus Aracaju,Pública Federal,Universidade,Ativa,100,Semestral,20/03/1961
+SE,Lagarto,UFS_LAGARTO,UFS,UNIVERSIDADE FEDERAL DE SERGIPE,Campus Lagarto,Pública Federal,Universidade,Ativa,60,Anual,27/02/2012
+SE,Estância,UNIT-ESTANCIA,UNIT,UNIVERSIDADE TIRADENTES,Campus Estância,Privada com fins lucrativos,Universidade,Ativa,50,Semestral,03/08/2020
+SE,Aracaju,UNIT-ARACAJU,UNIT,UNIVERSIDADE TIRADENTES,Campus Aracaju,Privada com fins lucrativos,Universidade,Ativa,260,Semestral,18/01/2010
+SP,São Paulo,FAM,CAM,CENTRO UNIVERSITÁRIO DAS AMÉRICAS,Campus São Paulo,Privada com fins lucrativos,Centro Universitário,Ativa,130,Semestral,09/02/2015
+SP,Ribeirão Preto,CUBM,CBM,CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ,Campus Ribeirão Preto,Privada sem fins lucrativos,Centro Universitário,Ativa,110,Semestral,01/06/1999
+SP,Campo Limpo Paulista,,UNIFACCAMP,CENTRO UNIVERSITÁRIO CAMPO LIMPO PAULISTA,Campus Campo Limpo Paulista,Privada com fins lucrativos,Centro Universitário,Ativa,14,,Não iniciado
+SP,Araçatuba,UNISALESIANO,UNISALESIANO,CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM,Campus Araçatuba,Privada sem fins lucrativos,Centro Universitário,Ativa,107,Semestral,19/02/2018
+SP,São João da Boa Vista,UNIFAE,UNIFAE,CENTRO UNIVERSITÁRIO DAS FACULDADES ASSOCIADAS DE ENSINO - FAE,Campus São João da Boa Vista,Especial,Centro Universitário,Ativa,60,Semestral,25/06/2014
+SP,Adamantina,FAI,FAI,CENTRO UNIVERSITÁRIO DE ADAMANTINA,Campus Adamantina,Especial,Centro Universitário,Ativa,100,Semestral,03/08/2015
+SP,Jaguariúna,UNIFAJ,UniFAJ,CENTRO UNIVERSITÁRIO DE JAGUARIÚNA,Campus Jaguariúna,Privada com fins lucrativos,Centro Universitário,Ativa,80,Semestral,03/08/2020
+SP,Santa Fé do Sul,UNIFUNEC,UNIFUNEC,CENTRO UNIVERSITÁRIO DE SANTA FÉ DO SUL,Campus Santa Fé do Sul,Especial,Centro Universitário,Ativa,60,Semestral,08/08/2019
+SP,Votuporanga,UNIFEV,UNIFEV,CENTRO UNIVERSITÁRIO DE VOTUPORANGA,Campus Votuporanga,Privada sem fins lucrativos,Centro Universitário,Ativa,60,Semestral,22/10/2012
+SP,Ribeirão Preto,IDOMED_RIBEIRÃO,ESTÁCIO RIBEIRÃO PRETO,CENTRO UNIVERSITÁRIO ESTÁCIO DE RIBEIRÃO PRETO,Campus Ribeirão Preto,Privada com fins lucrativos,Centro Universitário,Ativa,76,Semestral,23/07/2014
+SP,Santo André,FMABC,FMABC,CENTRO UNIVERSITÁRIO FMABC,Campus Santo André,Privada sem fins lucrativos,Centro Universitário,Ativa,150,Semestral,03/03/1969
+SP,Santos,UNILUS,UNILUS,CENTRO UNIVERSITÁRIO LUSÍADA,Campus Santos,Privada sem fins lucrativos,Centro Universitário,Ativa,100,Anual,08/09/1967
+SP,Indaiatuba,UNIMAX,UniMAX,CENTRO UNIVERSITÁRIO MAX PLANCK,Campus Indaiatuba,Privada com fins lucrativos,Centro Universitário,Ativa,80,Semestral,07/12/2018
+SP,Franca,UNIFACEF,UNI-FACEF,CENTRO UNIVERSITÁRIO MUNICIPAL DE FRANCA,Campus Franca,Especial,Centro Universitário,Ativa,66,Semestral,19/01/2015
+SP,Itu,,CEUNSP,CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCÍNIO,Campus Itu,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,Não iniciado
+SP,Catanduva,UNIFIPA,,CENTRO UNIVERSITÁRIO PADRE ALBINO,Campus Catanduva,Privada sem fins lucrativos,Centro Universitário,Ativa,100,Anual,09/03/1970
+SP,São Paulo,SCAMILO,SÃO CAMILO,CENTRO UNIVERSITÁRIO SÃO CAMILO,Campus São Paulo,Privada sem fins lucrativos,Centro Universitário,Ativa,180,Semestral,02/08/2007
+SP,Avaré,,UniFSP,CENTRO UNIVERSITÁRIO SUDOESTE PAULISTA,Campus Avaré,Privada com fins lucrativos,Centro Universitário,Ativa,60,Semestral,Não iniciado
+SP,Rio Claro,CLARETIANO,CLARETIANO,CLARETIANO - CENTRO UNIVERSITÁRIO,Campus Rio Claro,Privada sem fins lucrativos,Centro Universitário,Ativa,55,Semestral,19/02/2018
+SP,São José do Rio Preto,FACERES,FACERES,FACULDADE CERES,Campus São José do Rio Preto,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,13/08/2012
+SP,Barretos,FACISB,FACISB,FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA,Campus Barretos,Privada com fins lucrativos,Faculdade,Ativa,90,Semestral,06/02/2012
+SP,São Paulo,FCMSCSP,FCMSCSP,FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO,Campus São Paulo - Vila Buarque,Privada sem fins lucrativos,Faculdade,Ativa,180,Anual,20/05/1963
+SP,São José dos Campos,HUMANITAS,,FACULDADE DE CIÊNCIAS MÉDICAS DE SÃO JOSÉ DOS CAMPOS,Campus São José dos Campos,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,31/07/2017
+SP,Penápolis,FUNEPE,FAFIPE,FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE PENÁPOLIS,Campus Penápolis,Privada sem fins lucrativos,Faculdade,Ativa,66,Semestral,01/08/2018
+SP,Jundiaí,FMJ,FMJ,FACULDADE DE MEDICINA DE JUNDIAÍ,Campus Jundiaí,Pública Municipal,Faculdade,Ativa,120,Anual,24/03/1969
+SP,Marí­lia,FAMEMA,FAMEMA,FACULDADE DE MEDICINA DE MARÍLIA,Campus Marí­lia,Pública Estadual,Faculdade,Ativa,80,Anual,30/01/1967
+SP,São José do Rio Preto,FAMERP,FAMERP,FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO,Campus São José do Rio Preto,Pública Estadual,Faculdade,Ativa,80,Anual,14/02/1968
+SP,São Paulo,FICSAE,FICSAE,FACULDADE ISRAELITA DE CIÊNCIAS DA SAÚDE ALBERT EINSTEIN,Campus São Paulo,Privada sem fins lucrativos,Faculdade,Ativa,120,Semestral,17/02/2016
+SP,Mogi Guaçu,FMPFM,FMPFM,FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU,Campus Mogi Guaçu,Pública Municipal,Faculdade,Ativa,60,Semestral,Não iniciado
+SP,São Paulo,FASM,FASM,FACULDADE SANTA MARCELINA,Campus São Paulo,Privada sem fins lucrativos,Faculdade,Ativa,170,Semestral,01/08/2012
+SP,Campinas,SLMANDIC_CAMPINAS,,FACULDADE SÃO LEOPOLDO MANDIC,Campus Campinas,Privada com fins lucrativos,Faculdade,Ativa,250,Semestral,21/03/2013
+SP,Araras,SLMANDIC_ARARAS,,FACULDADE SÃO LEOPOLDO MANDIC DE ARARAS,Campus Araras,Privada com fins lucrativos,Faculdade,Ativa,153,Semestral,21/08/2017
+SP,Limeira,,SLM Limeira,FACULDADE SÃO LEOPOLDO MANDIC DE LIMEIRA,Campus Limeira,Privada com fins lucrativos,Faculdade,Ativa,55,Semestral,07/08/2023
+SP,Dracena,,UNIESP,FACULDADES DE DRACENA,Campus Dracena,Privada sem fins lucrativos,Faculdade,Ativa,66,Semestral,07/03/2017
+SP,Assis,FEMA,IMESA,INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE ASSIS,Campus Assis,Especial,Faculdade,Ativa,60,Semestral,14/10/2015
+SP,Campinas,PUC-CAMPINAS,PUC-CAMPINAS,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS,Campus Campinas,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,01/03/1976
+SP,Sorocaba,PUC-SP,PUC-SP,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO,Campus Sorocaba,Privada sem fins lucrativos,Universidade,Ativa,130,Semestral,10/03/1951
+SP,São José do Rio Preto,UNILAGO,UNILAGO,UNIÃO DAS FACULDADES DOS GRANDES LAGOS,Campus São José do Rio Preto,Privada sem fins lucrativos,Faculdade,Ativa,100,Semestral,20/08/2012
+SP,São Paulo,UAM_SP,UAM,UNIVERSIDADE ANHEMBI MORUMBI,Campus Mooca,Privada com fins lucrativos,Universidade,Ativa,195,Semestral,02/01/2008
+SP,Piracicaba,UAM_PIRACICABA,UAM,UNIVERSIDADE ANHEMBI MORUMBI,Campus Piracicaba,Privada com fins lucrativos,Universidade,Ativa,113,Semestral,06/08/2018
+SP,São José dos Campos,UAM_SJC,UAM,UNIVERSIDADE ANHEMBI MORUMBI,Campus São José dos Campos,Privada com fins lucrativos,Universidade,Ativa,140,Anual,20/08/2018
+SP,Fernandópolis,UB,UB,UNIVERSIDADE BRASIL,Campus Fernandópolis,Privada sem fins lucrativos,Universidade,Ativa,205,Semestral,25/08/2003
+SP,São Paulo,UNICID,UNICID,UNIVERSIDADE CIDADE DE SÃO PAULO,Campus São Paulo,Privada com fins lucrativos,Universidade,Ativa,276,Semestral,16/02/2004
+SP,Araraquara,UNIARA,UNIARA,UNIVERSIDADE DE ARARAQUARA,Campus Araraquara,Privada sem fins lucrativos,Universidade,Ativa,150,Semestral,01/03/2006
+SP,Franca,UNIFRAN,UNIFRAN,UNIVERSIDADE DE FRANCA,Campus Franca,Privada com fins lucrativos,Universidade,Ativa,100,Semestral,27/02/2012
+SP,Marí­lia,UNIMAR,UNIMAR,UNIVERSIDADE DE MARÍLIA,Campus Marí­lia,Privada com fins lucrativos,Universidade,Ativa,150,Semestral,01/04/1996
+SP,Mogi das Cruzes,UMC,UMC,UNIVERSIDADE DE MOGI DAS CRUZES,Campus Mogi das Cruzes,Privada com fins lucrativos,Universidade,Ativa,90,Semestral,01/03/1968
+SP,Ribeirão Preto,UNAERP,UNAERP,UNIVERSIDADE DE RIBEIRÃO PRETO,Campus Ribeirão Preto,Privada sem fins lucrativos,Universidade,Ativa,150,Semestral,05/05/1997
+SP,Guarujá,UNAERP_GUARUJA,UNAERP,UNIVERSIDADE DE RIBEIRÃO PRETO,Campus Guarujá,Privada sem fins lucrativos,Universidade,Ativa,120,Semestral,25/03/2019
+SP,Ribeirão Preto,USP_RP,USP,UNIVERSIDADE DE SÃO PAULO,Campus Ribeirão Preto,Pública Estadual,Universidade,Ativa,100,Semestral,17/04/1952
+SP,Bauru,USP_BAURU,USP,UNIVERSIDADE DE SÃO PAULO,Campus Bauru,Pública Estadual,Universidade,Ativa,60,Semestral,Não iniciado
+SP,São Paulo,USP_SP,USP,UNIVERSIDADE DE SÃO PAULO,Campus São Paulo,Pública Estadual,Universidade,Ativa,175,Semestral,01/04/1913
+SP,Caraguatatuba,,UNITAU,UNIVERSIDADE DE TAUBATÉ,Campus Caraguatatuba,Especial,Universidade,Ativa,120,Semestral,01/08/2022
+SP,Taubaté,UNITAU_TAUBATE,UNITAU,UNIVERSIDADE DE TAUBATÉ,Campus Taubaté,Especial,Universidade,Ativa,120,Semestral,30/01/1967
+SP,Presidente Prudente,UNOESTE,UNOESTE,UNIVERSIDADE DO OESTE PAULISTA,Campus Presidente Prudente,Privada sem fins lucrativos,Universidade,Ativa,220,Semestral,08/02/1988
+SP,Guarujá,UNOESTE_GUARUJA,UNOESTE,UNIVERSIDADE DO OESTE PAULISTA,Campus Guarujá,Privada sem fins lucrativos,Universidade,Ativa,110,Semestral,25/03/2019
+SP,Jaú,UNOESTE_JAU,UNOESTE,UNIVERSIDADE DO OESTE PAULISTA,Campus Jaú,Privada sem fins lucrativos,Universidade,Ativa,155,Semestral,06/08/2018
+SP,Campinas,UNICAMP,UNICAMP,UNIVERSIDADE ESTADUAL DE CAMPINAS,Campus Campinas,Pública Estadual,Universidade,Ativa,110,Semestral,01/03/1963
+SP,Botucatu,UNESP,UNESP,UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO,Campus Botucatu,Pública Estadual,Universidade,Ativa,90,Anual,22/04/1963
+SP,São Carlos,UFSCAR,UFSCAR,UNIVERSIDADE FEDERAL DE SÃO CARLOS,Campus São Carlos,Pública Federal,Universidade,Ativa,40,Anual,01/03/2006
+SP,São Paulo,UNIFESP,UNIFESP,UNIVERSIDADE FEDERAL DE SÃO PAULO,Campus São Paulo,Pública Federal,Universidade,Ativa,121,Anual,01/06/1933
+SP,Santos,UNIMES,UNIMES,UNIVERSIDADE METROPOLITANA DE SANTOS,Campus Santos,Privada sem fins lucrativos,Universidade,Ativa,100,Semestral,01/02/1998
+SP,Itapetininga,USCS_ITAPETININGA,USCS,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,Campus Itapetininga,Especial,Universidade,Ativa,60,Semestral,Não iniciado
+SP,São Caetano do Sul,USCS-SÃO_CAETANO,USCS,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,Campus São Caetano do Sul,Especial,Universidade,Ativa,60,Semestral,17/03/2014
+SP,São Paulo,USCS-BELA_VISTA,USCS,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,Campus São Paulo,Especial,Universidade,Ativa,120,Semestral,01/03/2016
+SP,Osasco,UNINOVE_OSASCO,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus Osasco,Privada sem fins lucrativos,Universidade,Ativa,170,Semestral,14/08/2017
+SP,São Paulo,UNINOVE,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus São Paulo,Privada sem fins lucrativos,Universidade,Ativa,480,Semestral,25/08/2003
+SP,São Bernardo do Campo,UNINOVE_SBC,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus São Bernardo do Campo,Privada sem fins lucrativos,Universidade,Ativa,199,Semestral,14/08/2017
+SP,Guarulhos,UNINOVE_GUARULHOS,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus Guarulhos,Privada sem fins lucrativos,Universidade,Ativa,200,Semestral,14/08/2017
+SP,Mauá,UNINOVE_MAUA,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus Mauá,Privada sem fins lucrativos,Universidade,Ativa,149,Semestral,14/08/2017
+SP,Bauru,UNINOVE_BAURU,UNINOVE,UNIVERSIDADE NOVE DE JULHO,Campus Bauru,Privada sem fins lucrativos,Universidade,Ativa,200,Semestral,04/10/2017
+SP,Campinas,UNIP_CAMPINAS,UNIP,UNIVERSIDADE PAULISTA,Campus Campinas,Privada com fins lucrativos,Universidade,Ativa,100,Anual,28/02/2022
+SP,São José do Rio Pardo,UNIP_SJRP,UNIP,UNIVERSIDADE PAULISTA,Campus São José do Rio Pardo,Privada com fins lucrativos,Universidade,Ativa,100,Anual,28/02/2022
+SP,São Paulo,,UNIP,UNIVERSIDADE PAULISTA,Campus São Paulo,Privada com fins lucrativos,Universidade,Ativa,100,Semestral,Não iniciado
+SP,Sorocaba,UNIP_SOROCABA,UNIP,UNIVERSIDADE PAULISTA,Campus Sorocaba,Privada com fins lucrativos,Universidade,Ativa,100,Anual,22/02/2022
+SP,Santana de Parnaiba,,UNIP,UNIVERSIDADE PAULISTA,Campus Santana de Parnaíba,Privada com fins lucrativos,Universidade,Ativa,100,Anual,28/02/2022
+SP,São Paulo,UNISA,UNISA,UNIVERSIDADE SANTO AMARO,Campus São Paulo,Privada sem fins lucrativos,Universidade,Ativa,404,Semestral,01/02/2005
+SP,Guarulhos,,UNISA,UNIVERSIDADE SANTO AMARO,Campus Guarulhos,Privada sem fins lucrativos,Universidade,Ativa,143,Semestral,07/08/2023
+SP,Bragança Paulista,USF,USF,UNIVERSIDADE SÃO FRANCISCO,Campus Bragança Paulista,Privada sem fins lucrativos,Universidade,Ativa,145,Semestral,31/01/1972
+SP,Cubatão,USJT,USJT,UNIVERSIDADE SÃO JUDAS TADEU,Campus Cubatão,Privada com fins lucrativos,Universidade,Ativa,50,Semestral,14/12/2018
+TO,Palmas,AFYA_PALMAS,AFYA PALMAS,AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE PALMAS,Campus Palmas,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,09/08/1999
+TO,Araguaína,UNITPAC,UNITPAC,CENTRO UNIVERSITÁRIO TOCANTINENSE PRESIDENTE ANTÔNIO CARLOS,Campus Araguaína,Privada com fins lucrativos,Centro Universitário,Ativa,80,Semestral,21/12/2006
+TO,Porto Nacional,ITPAC_PORTO,ITPAC PORTO | FAPAC,FACULDADE PRESIDENTE ANTÔNIO CARLOS,Campus Porto Nacional,Privada com fins lucrativos,Faculdade,Ativa,120,Semestral,14/06/2004
+TO,Palmas,UFT,UFT,FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS,Campus Palmas,Pública Federal,Universidade,Ativa,100,Semestral,01/08/2007
+TO,Paraíso do Tocantins,UNIRG_PARAISO,UNIRG,UNIVERSIDADE DE GURUPI,Campus Paraíso do Tocantins,Especial,Universidade,Ativa,120,Semestral,02/08/2021
+TO,Gurupi,UNIRG_GURUPI,UNIRG,UNIVERSIDADE DE GURUPI,Campus Gurupi,Especial,Universidade,Ativa,120,Semestral,01/08/2002
+TO,Augustinópolis,UNITINS,UNITINS,UNIVERSIDADE ESTADUAL DO TOCANTINS,Campus Augustinópolis,Pública Estadual,Universidade,Ativa,40,Semestral,06/10/2021
+TO,Araguaína,UFNT,UFNT,UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS,Campus Araguaína,Pública Federal,Universidade,Ativa,56,Semestral,11/03/2019
+TO,Palmas,ULBRA,ULBRA,UNIVERSIDADE LUTERANA DO BRASIL,Campus Palmas,Privada com fins lucrativos,Universidade,,,,

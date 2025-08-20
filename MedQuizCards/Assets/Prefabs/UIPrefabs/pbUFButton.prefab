@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 234508486707146068}
   - component: {fileID: 250506143404789478}
   - component: {fileID: 1249908622215465719}
-  - component: {fileID: 5569134863895752240}
+  - component: {fileID: 2499302608276642192}
   m_Layer: 5
-  m_Name: pbUniversityButton
+  m_Name: pbUFButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_EffectDistance: {x: 0, y: -5}
   m_UseGraphicAlpha: 1
---- !u!114 &5569134863895752240
+--- !u!114 &2499302608276642192
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -148,11 +148,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 3989411963934848149}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e2aa68ee72c42c49aa12c4ec37303eb, type: 3}
+  m_Script: {fileID: 11500000, guid: 31c6ca89071be2d44996164c3c9e03ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  <UniversityNameText>k__BackingField: {fileID: 8914140284583898766}
-  <UniversityIconImage>k__BackingField: {fileID: 2204607502460302944}
+  <Button>k__BackingField: {fileID: 0}
+  UFText: {fileID: 8914140284583898766}
 --- !u!1 &5205186470502103899
 GameObject:
   m_ObjectHideFlags: 0

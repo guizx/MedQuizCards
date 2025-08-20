@@ -1,6 +1,5 @@
 using Nato.StateMachine;
 using Nato.UI;
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,24 +10,18 @@ using UnityEngine.UI;
 
 namespace MedQuizCards
 {
-    public class UniversitySelectionUI : BaseUI
+    public class UFSelectionUI : BaseUI
     {
-        [field: SerializeField] public UniversityData[] UniversitiesData;
 
-        [field: SerializeField] public UniversityButton UniversityButtonPrefab;
-        [field: SerializeField] public List<UniversityButton> UniversityButtons = new List<UniversityButton>();
+        [field: SerializeField] public UFButton UFButtonPrefab;
+        [field: SerializeField] public List<UFButton> UFButtons = new List<UFButton>();
 
 
         [SerializeField] private Transform verticalContainer;
 
-        [field: SerializeField] public Button RankingButton { get; private set; }
-        [field: SerializeField] public Button BackButton { get; private set; }
         [field: SerializeField] public TMP_InputField FilterInputField { get; private set; }
-
-
         [field: SerializeField] public ScrollRect ScrollRectUniversities { get; private set; }
-
-        public List<UniversityRanking> UniversityRankings;
+        [field: SerializeField] public Button BackButton { get; private set; }
 
 
         protected override void Awake()
@@ -40,33 +33,24 @@ namespace MedQuizCards
         public override void Enable()
         {
             base.Enable();
-            ShowUniversities();
-            BackButton.onClick.AddListener(OnClickBackButton);
-            RankingButton.onClick.AddListener(OnClickRankingButton);
             FilterInputField.onValueChanged.AddListener(delegate { OnFilterChanged(FilterInputField); });
+            BackButton.onClick.AddListener(OnClickBackButton);
         }
 
         public override void Disable()
         {
             base.Disable();
-            BackButton.onClick.RemoveListener(OnClickBackButton);
-            RankingButton.onClick.RemoveListener(OnClickRankingButton);
             FilterInputField.onValueChanged.RemoveAllListeners();
-        }
-
-        private void OnClickBackButton()
-        {
-            UIUFSelectionState uFSelectionState = UIStates.Instance.UFSelectionState;
-            UIStateManager.Instance.StateMachine.TransitionTo(uFSelectionState);
+            BackButton.onClick.RemoveListener(OnClickBackButton);
         }
 
         private void OnFilterChanged(TMP_InputField inputField)
         {
             string filterText = inputField.text.Trim().ToLower();
 
-            foreach (var uniButton in UniversityButtons)
+            foreach (var uniButton in UFButtons)
             {
-                string uniName = uniButton.UniversityRanking.UniversityName.ToLower();
+                string uniName = uniButton.UF.ToLower();
 
                 bool show = string.IsNullOrEmpty(filterText) || uniName.StartsWith(filterText) || uniName.Contains(filterText);
                 uniButton.gameObject.SetActive(show);
@@ -75,41 +59,25 @@ namespace MedQuizCards
             //StartCoroutine(SnapToTopWhenLayoutSettles());
         }
 
-        private void OnClickRankingButton()
-        {
-            LoadingPopUp.Instance?.Show();
-            StartCoroutine(TransitionToNewState());
-        }
+     
 
-        private IEnumerator TransitionToNewState()
+        private void OnClickBackButton()
         {
-            yield return new WaitForSeconds(0.3f);
-            UIRankingState rankingState = UIStates.Instance.RankingState;
-            UIStateManager.Instance.StateMachine.TransitionTo(rankingState);
-            rankingState.Manager.UIPanels.RankingUI.BackButton.onClick.AddListener(() =>
-            {
-                UIUniversitySelectionState universitySelectionState = UIStates.Instance.UniversitySelectionState;
-                UIStateManager.Instance.StateMachine.TransitionTo(universitySelectionState);
-            });
+            UITitleScreenState titleScreenState = UIStates.Instance.TitleScreenState;
+            UIStateManager.Instance.StateMachine.TransitionTo(titleScreenState);
         }
 
 
-        public void ShowUniversities()
+        private void Start()
         {
-            for(int i = UniversityButtons.Count - 1; i >= 0; i--)
-            {
-                Destroy(UniversityButtons[i].gameObject);
-            }
-            UniversityButtons.Clear();
-
             LoadingPopUp.Instance?.Show();
-            UniversityRankings = QuizManager.Instance.GetUniversitiesByUF(QuizManager.Instance.CurrentUF);
-            for (int i = 0; i < UniversityRankings.Count; i++)
+
+            List<string> ufList = QuizManager.Instance.UniversitiesUFs.Distinct().ToList();
+            for (int i = 0; i < ufList.Count; i++)
             {
-                UniversityRanking universityRanking = UniversityRankings[i];
-                UniversityButton universityButton = Instantiate(UniversityButtonPrefab, verticalContainer);
-                universityButton.Setup(universityRanking);
-                UniversityButtons.Add(universityButton);
+                UFButton universityButton = Instantiate(UFButtonPrefab, verticalContainer);
+                universityButton.Setup(ufList[i]);
+                UFButtons.Add(universityButton);
             }
 
 
@@ -131,7 +99,7 @@ namespace MedQuizCards
             if (EventSystem.current) EventSystem.current.SetSelectedGameObject(null);
 
             float lastH = -1f;
-            int safety = 12; 
+            int safety = 12;
             while (safety-- > 0)
             {
                 Canvas.ForceUpdateCanvases();
@@ -140,7 +108,7 @@ namespace MedQuizCards
                 float h = content.rect.height;
                 if (Mathf.Approximately(h, lastH)) break;
                 lastH = h;
-                yield return null; 
+                yield return null;
             }
 
             ScrollRectUniversities.verticalNormalizedPosition = 1f;

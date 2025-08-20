@@ -38,7 +38,7 @@ namespace Nato.StateMachine
         private IEnumerator Start()
         {
             yield return new WaitForSeconds(0.1f);
-            StateMachine.TransitionTo(States.UniversitySelectionState);
+            StateMachine.TransitionTo(States.TitleScreenState);
         }
 
         private void Update()
