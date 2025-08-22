@@ -39,6 +39,8 @@ namespace MedQuizCards
             RankingPositionText.SetText($"{position + 1}.");
             string name = $"{university.UniversityName} {university.City}";
             UniversityNameText.SetText(name);
+            if (QuizManager.Instance.ShowInUppercase)
+                UniversityNameText.fontStyle = FontStyles.UpperCase;
             ScoreText.SetText($"{university.Score.ToString("D2")}");
         }
 
@@ -64,6 +66,9 @@ namespace MedQuizCards
             RankingPositionText.SetText($"{position}.");
             string name = $"{UniversityRanking.UniversityName} {UniversityRanking.City}";
             UniversityNameText.SetText(name);
+            if (QuizManager.Instance.ShowInUppercase)
+                UniversityNameText.fontStyle = FontStyles.UpperCase;
+
             ScoreText.SetText($"{UniversityRanking.Score.ToString("D2")} pts");
         }
 

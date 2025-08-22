@@ -58,7 +58,7 @@ namespace MedQuizCards
 
             foreach (var uniButton in rankings)
             {
-                string uniName = uniButton.UniversityRanking.UniversityName.ToLower();
+                string uniName = uniButton.UniversityRanking.CompleteName.ToLower();
 
                 bool show = string.IsNullOrEmpty(filterText) || uniName.StartsWith(filterText) || uniName.Contains(filterText);
                 uniButton.gameObject.SetActive(show);

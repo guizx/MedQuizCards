@@ -1608,12 +1608,15 @@ MonoBehaviour:
     City: 
     UF: 
     Score: 0
+    CompleteName: 
   <UniversityRankings>k__BackingField: []
   UniversitiesNames: []
   UniversitiesCities: []
   UniversitiesUFs: []
   CSVReader: {fileID: 338708208}
   CurrentUF: 
+  ShowInUppercase: 1
+  RemoveAccents: 1
 --- !u!4 &240002999
 Transform:
   m_ObjectHideFlags: 0

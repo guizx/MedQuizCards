@@ -25,6 +25,9 @@ namespace MedQuizCards
 
         public string CurrentUF;
 
+        public bool ShowInUppercase;
+        public bool RemoveAccents;
+
 
         protected override void Awake()
         {
@@ -36,8 +39,19 @@ namespace MedQuizCards
             {
                 UniversityRanking university = new UniversityRanking();
                 university.Index = i;
-                university.UniversityName = UniversitiesNames[i];
-                university.City = UniversitiesCities[i];
+
+                if (RemoveAccents)
+                {
+                    university.UniversityName = StringUtils.RemoveAccents(UniversitiesNames[i]);
+                    university.City = StringUtils.RemoveAccents(UniversitiesCities[i]);
+                }
+                else
+                {
+                    university.UniversityName = UniversitiesNames[i];
+                    university.City = UniversitiesCities[i];
+                }
+
+                university.CompleteName = $"{university.UniversityName} {university.City}"; 
                 university.UF = UniversitiesUFs[i];
                 university.Score = 0;
 
@@ -96,5 +110,7 @@ namespace MedQuizCards
         public string City;
         public string UF;
         public int Score;
+        public string CompleteName;
+
     }
 }

@@ -14,6 +14,8 @@ namespace MedQuizCards
         [field: SerializeField] public TextMeshProUGUI UniversityNameText { get; private set; }
         [field: SerializeField] public Image UniversityIconImage { get; private set; }
 
+        public string CompleteName;
+
 
         private void OnEnable()
         {
@@ -39,7 +41,12 @@ namespace MedQuizCards
         {
             UniversityRanking = university;
             string name = $"{university.UniversityName} {university.City}";
+            CompleteName = name;
             UniversityNameText.SetText(name);
+
+            if (QuizManager.Instance.ShowInUppercase)
+                UniversityNameText.fontStyle = FontStyles.UpperCase;
+
             //UniversityIconImage.sprite = university.UniversityData.Icon;
         }
     }
