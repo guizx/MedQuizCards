@@ -125,7 +125,7 @@ namespace MedQuizCards
 
             for (int k = 0; k < orderedRankings.Count; k++)
             {
-                orderedRankings[k].UpdateUI(k);
+                orderedRankings[k].UpdateUI(k+1);
                 orderedRankings[k].transform.SetSiblingIndex(k); 
             }
 

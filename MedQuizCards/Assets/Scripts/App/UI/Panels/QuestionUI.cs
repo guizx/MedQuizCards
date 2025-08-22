@@ -22,6 +22,8 @@ namespace MedQuizCards
 
         public GameObject ResultPopUp;
         public TextMeshProUGUI ResultText;
+        public TextMeshProUGUI InfoText;
+
         public Button ResultButton;
         public Button BackButton;
 
@@ -134,11 +136,13 @@ namespace MedQuizCards
             if (success)
             {
                 ResultText.SetText("Correto!");
+                InfoText.SetText("Aprimore seus conhecimentos no");
                 Instantiate(SuccessVFX, new Vector3(0f,0f,5f), Quaternion.identity);
             }
             else
             {
                 ResultText.SetText("Errado!");
+                InfoText.SetText("Aprenda no");
             }
         }
 

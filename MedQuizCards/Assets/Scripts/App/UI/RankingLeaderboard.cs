@@ -1,7 +1,6 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UIElements;
 
 namespace MedQuizCards
 {
@@ -13,11 +12,33 @@ namespace MedQuizCards
 
         public UniversityRanking UniversityRanking { get; private set; }
 
+        [SerializeField] private Sprite[] medalSprites;
+
+        [SerializeField] private GameObject medalContainer;
+        [field: SerializeField] public Image MedalImage { get; private set; }
+
+        [field: SerializeField] public TextMeshProUGUI MedalRankingPositionText { get; private set; }
+
         public void Setup(int position, UniversityRanking university)
         {
+            if(position <= 3 && university.Score > 0)
+            {
+                medalContainer.SetActive(true);
+                int indexMedal = position - 1;
+                MedalImage.sprite = medalSprites[indexMedal];
+                MedalRankingPositionText.SetText($"{position}");
+                RankingPositionText.gameObject.SetActive(false);
+            }
+            else
+            {
+                medalContainer.SetActive(false);
+                RankingPositionText.gameObject.SetActive(true);
+            }
+
             UniversityRanking = university;
-            RankingPositionText.SetText($"{position}.");
-            UniversityNameText.SetText($"{university.UniversityName}");
+            RankingPositionText.SetText($"{position + 1}.");
+            string name = $"{university.UniversityName} {university.City}";
+            UniversityNameText.SetText(name);
             ScoreText.SetText($"{university.Score.ToString("D2")}");
         }
 
@@ -26,9 +47,25 @@ namespace MedQuizCards
             if (UniversityRanking == null)
                 return;
 
+            if (position <= 3 && UniversityRanking.Score > 0)
+            {
+                medalContainer.SetActive(true);
+                int indexMedal = position - 1;
+                MedalImage.sprite = medalSprites[indexMedal];
+                MedalRankingPositionText.SetText($"{position}");
+                RankingPositionText.gameObject.SetActive(false);
+            }
+            else
+            {
+                medalContainer.SetActive(false);
+                RankingPositionText.gameObject.SetActive(true);
+            }
+
             RankingPositionText.SetText($"{position}.");
-            UniversityNameText.SetText($"{UniversityRanking.UniversityName}");
-            ScoreText.SetText($"{UniversityRanking.Score.ToString("D2")}");
+            string name = $"{UniversityRanking.UniversityName} {UniversityRanking.City}";
+            UniversityNameText.SetText(name);
+            ScoreText.SetText($"{UniversityRanking.Score.ToString("D2")} pts");
         }
+
     }
 }
