@@ -40,7 +40,7 @@ namespace MedQuizCards
         public void Setup(UniversityRanking university)
         {
             UniversityRanking = university;
-            string name = $"{university.UniversityName} {university.City}";
+            string name = $"{university.IES} {university.Campus}";
             CompleteName = name;
             UniversityNameText.SetText(name);
 

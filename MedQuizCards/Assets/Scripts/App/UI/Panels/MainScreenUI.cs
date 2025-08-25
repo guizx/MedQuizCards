@@ -20,7 +20,7 @@ namespace MedQuizCards
         {
             base.Enable();
             //UniversityIconImage.sprite = QuizManager.Instance.CurrentUniversity.UniversityData.Icon;
-            UniversityNameText.text = QuizManager.Instance.CurrentUniversity.UniversityName;
+            UniversityNameText.text = QuizManager.Instance.CurrentUniversity.IES;
 
             RankingButton.onClick.AddListener(OnClickRankingButton);
             BackButton.onClick.AddListener(OnClickBackButton);

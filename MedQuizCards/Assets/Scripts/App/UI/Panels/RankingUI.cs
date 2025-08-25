@@ -29,28 +29,36 @@ namespace MedQuizCards
         protected override void Awake()
         {
             base.Awake();
+        }
+
+        private IEnumerator Start()
+        {
+            yield return new WaitForEndOfFrame();
             ShowRankings();
         }
+
 
         public override void Enable()
         {
             base.Enable();
             //BackButton.onClick.AddListener(OnClickBackButton);
-            //ShowRankings();
-            if (rankings.Count > 0)
-                UpdateRankings();
+            ShowRankings();
 
 
+            //if (rankings.Count > 0)
+            //    UpdateRankings();
             FilterInputField.onValueChanged.AddListener(delegate { OnFilterChanged(FilterInputField); });
         }
 
         public override void Disable()
         {
             base.Disable();
+
             BackButton.onClick.RemoveAllListeners();
             FilterInputField.onValueChanged.RemoveAllListeners();
 
         }
+
 
         private void OnFilterChanged(TMP_InputField inputField)
         {
@@ -88,7 +96,7 @@ namespace MedQuizCards
             DestroyRankings();
 
             List<UniversityRanking> orderedRankings = QuizManager.Instance.UniversityRankings
-                .OrderByDescending(r => r.Score)
+                .OrderByDescending(r => r.Pontos)
                 .ToList();
 
             int i = 1;
@@ -113,13 +121,13 @@ namespace MedQuizCards
             {
                 if (QuizManager.Instance.UniversityRankings[i] == rankings[i].UniversityRanking)
                 {
-                    rankings[i].UniversityRanking.Score = QuizManager.Instance.UniversityRankings[i].Score;
+                    rankings[i].UniversityRanking.Pontos = QuizManager.Instance.UniversityRankings[i].Pontos;
                 }
             }
 
 
             List<RankingLeaderboard> orderedRankings = rankings
-                .OrderByDescending(r => r.UniversityRanking.Score)
+                .OrderByDescending(r => r.UniversityRanking.Pontos)
                 .ToList();
 
 

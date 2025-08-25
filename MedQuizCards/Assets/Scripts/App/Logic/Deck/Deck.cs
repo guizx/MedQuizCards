@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 namespace MedQuizCards
@@ -32,6 +33,12 @@ namespace MedQuizCards
             }
 
         }
+
+        private void Update()
+        {
+            
+        }
+
 
         private List<T> ShuffleList<T>(List<T> list)
         {
@@ -66,5 +73,7 @@ namespace MedQuizCards
 
             QuizManager.Instance?.SetCurrentQuestion(ProcedureDeck, GetQuestion());
         }
+
+
     }
 }

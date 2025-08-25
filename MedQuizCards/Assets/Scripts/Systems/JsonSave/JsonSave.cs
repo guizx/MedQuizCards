@@ -6,13 +6,13 @@ namespace Nato.SaveLoad
 {
     public class JsonSave : MonoBehaviour
     {
-        private static string SAVE_FOLDER = $"{Application.persistentDataPath}/";
+        private static string SAVE_FOLDER = $"{Application.streamingAssetsPath}/";
         private const string SAVE_EXTENSION = ".json";
 
         public const string DEFAULT_CONFIGURATION_SAVEFILE = "configurations";
         public const string DEFAULT_ACHIEVEMENTS_SAVEFILE = "achievements";
         public const string DEFAULT_REBINDS_SAVEFILE = "rebinds";
-        public const string DEFAULT_GAME_SAVEFILE = "gamesave";
+        public const string DEFAULT_GAME_SAVEFILE = "save";
 
         static JsonSave()
         {
@@ -74,7 +74,7 @@ namespace Nato.SaveLoad
             }
             else
             {
-                Debug.LogWarning($"No save found with name: {dataName}. Returning a new instance.");
+                Debug.LogWarning($"No save found with name: {dataName} on path {path}. Returning a new instance.");
             }
 
             // Retorna uma nova instância se não houver salvamento ou em caso de erro

@@ -1,0 +1,3610 @@
+ [
+        {
+            "id": "0",
+            "uf": "AC",
+            "municipio": "Rio Branco",
+            "ies": "CENTRO UNIVERSITÁRIO UNINORTE",
+            "campus": "Campus Rio Branco",
+            "pontos": "0"
+        },
+        {
+            "id": "1",
+            "uf": "AC",
+            "municipio": "Cruzeiro do Sul",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE CRUZEIRO DO SUL",
+            "campus": "Campus Principal",
+            "pontos": "0"
+        },
+        {
+            "id": "2",
+            "uf": "AC",
+            "municipio": "Rio Branco",
+            "ies": "UNIVERSIDADE FEDERAL DO ACRE",
+            "campus": "Campus Universitário",
+            "pontos": "0"
+        },
+        {
+            "id": "3",
+            "uf": "AL",
+            "municipio": "Maceió",
+            "ies": "CENTRO UNIVERSITÁRIO CESMAC",
+            "campus": "Campus I",
+            "pontos": "0"
+        },
+        {
+            "id": "4",
+            "uf": "AL",
+            "municipio": "Maceió",
+            "ies": "CENTRO UNIVERSITÁRIO DE MACEIÓ",
+            "campus": "Campus Maceió",
+            "pontos": "0"
+        },
+        {
+            "id": "5",
+            "uf": "AL",
+            "municipio": "Maceió",
+            "ies": "UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SÁUDE DE ALAGOAS - UNCISAL",
+            "campus": "Campus Maceió",
+            "pontos": "0"
+        },
+        {
+            "id": "6",
+            "uf": "AL",
+            "municipio": "Maceió",
+            "ies": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+            "campus": "Campus A. C. Simões",
+            "pontos": "0"
+        },
+        {
+            "id": "7",
+            "uf": "AL",
+            "municipio": "Arapiraca",
+            "ies": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+            "campus": "Campus Arapiraca",
+            "pontos": "0"
+        },
+        {
+            "id": "8",
+            "uf": "AM",
+            "municipio": "Manaus",
+            "ies": "CENTRO UNIVERSITÁRIO CEUNI - FAMETRO",
+            "campus": "Campus Manaus",
+            "pontos": "0"
+        },
+        {
+            "id": "9",
+            "uf": "AM",
+            "municipio": "Manaus",
+            "ies": "FACULDADE SANTA TERESA",
+            "campus": "Campus Manaus",
+            "pontos": "0"
+        },
+        {
+            "id": "10",
+            "uf": "AM",
+            "municipio": "Itacoatiara",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ITACOATIARA",
+            "campus": "Campus Itacoatiara",
+            "pontos": "0"
+        },
+        {
+            "id": "11",
+            "uf": "AM",
+            "municipio": "Manacapuru",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE MANACAPURU",
+            "campus": "Campus Manacapuru",
+            "pontos": "0"
+        },
+        {
+            "id": "12",
+            "uf": "AM",
+            "municipio": "Manaus",
+            "ies": "UNIVERSIDADE DO ESTADO DO AMAZONAS",
+            "campus": "Campus Manaus",
+            "pontos": "0"
+        },
+        {
+            "id": "13",
+            "uf": "AM",
+            "municipio": "Coari",
+            "ies": "UNIVERSIDADE FEDERAL DO AMAZONAS",
+            "campus": "Campus Coari",
+            "pontos": "0"
+        },
+        {
+            "id": "14",
+            "uf": "AM",
+            "municipio": "Manaus",
+            "ies": "UNIVERSIDADE FEDERAL DO AMAZONAS",
+            "campus": "Campus Manaus",
+            "pontos": "0"
+        },
+        {
+            "id": "15",
+            "uf": "AM",
+            "municipio": "Manaus",
+            "ies": "UNIVERSIDADE NILTON LINS",
+            "campus": "Campus Manaus",
+            "pontos": "0"
+        },
+        {
+            "id": "16",
+            "uf": "AP",
+            "municipio": "Macapá",
+            "ies": "UNIVERSIDADE FEDERAL DO AMAPÁ",
+            "campus": "Campus Macapá",
+            "pontos": "0"
+        },
+        {
+            "id": "17",
+            "uf": "BA",
+            "municipio": "Itabuna",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ITABUNA",
+            "campus": "Campus Itabuna",
+            "pontos": "0"
+        },
+        {
+            "id": "18",
+            "uf": "BA",
+            "municipio": "Santo Antônio de Jesus",
+            "ies": "CENTRO UNIVERSITÁRIO DE CIÊNCIAS E EMPREENDEDORISMO",
+            "campus": "Campus Santo Antônio de Jesus",
+            "pontos": "0"
+        },
+        {
+            "id": "19",
+            "uf": "BA",
+            "municipio": "Feira de Santana",
+            "ies": "CENTRO UNIVERSITÁRIO DE EXCELÊNCIA",
+            "campus": "Campus Feira de Santana",
+            "pontos": "0"
+        },
+        {
+            "id": "20",
+            "uf": "BA",
+            "municipio": "Vitória da Conquista",
+            "ies": "CENTRO UNIVERSITÁRIO DE EXCELÊNCIA DE VITÓRIA DA CONQUISTA",
+            "campus": "Campus Vitória da Conquista",
+            "pontos": "0"
+        },
+        {
+            "id": "21",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "CENTRO UNIVERSITÁRIO DOM PEDRO II",
+            "campus": "Campus Salvador",
+            "pontos": "0"
+        },
+        {
+            "id": "22",
+            "uf": "BA",
+            "municipio": "Camaçari",
+            "ies": "CENTRO UNIVERSITÁRIO FAMEC",
+            "campus": "Campus Camaçari",
+            "pontos": "0"
+        },
+        {
+            "id": "23",
+            "uf": "BA",
+            "municipio": "Brumado",
+            "ies": "CENTRO UNIVERSITÁRIO FG",
+            "campus": "Campus Brumado",
+            "pontos": "0"
+        },
+        {
+            "id": "24",
+            "uf": "BA",
+            "municipio": "Guanambi",
+            "ies": "CENTRO UNIVERSITÁRIO FG",
+            "campus": "Campus Guanambi",
+            "pontos": "0"
+        },
+        {
+            "id": "25",
+            "uf": "BA",
+            "municipio": "Barreiras",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE BARREIRAS",
+            "campus": "Campus Barreiras",
+            "pontos": "0"
+        },
+        {
+            "id": "26",
+            "uf": "BA",
+            "municipio": "Lauro de Freitas",
+            "ies": "CENTRO UNIVERSITÁRIO UNIME",
+            "campus": "Campus Lauro de Freitas",
+            "pontos": "0"
+        },
+        {
+            "id": "27",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "CENTRO UNIVERSITÁRIO ZARNS - SALVADOR",
+            "campus": "Campus Salvador | Paralela",
+            "pontos": "0"
+        },
+        {
+            "id": "28",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "ESCOLA BAHIANA DE MEDICINA E SAÚDE PÚBLICA",
+            "campus": "Campus Salvador",
+            "pontos": "0"
+        },
+        {
+            "id": "29",
+            "uf": "BA",
+            "municipio": "Jacobina",
+            "ies": "FACULDADE AGES DE MEDICINA",
+            "campus": "Campus Jacobina",
+            "pontos": "0"
+        },
+        {
+            "id": "30",
+            "uf": "BA",
+            "municipio": "Irecê",
+            "ies": "FACULDADE AGES DE MEDICINA DE IRECÊ",
+            "campus": "Campus Irecê",
+            "pontos": "0"
+        },
+        {
+            "id": "31",
+            "uf": "BA",
+            "municipio": "Porto Seguro",
+            "ies": "FACULDADE ATENAS PORTO SEGURO",
+            "campus": "Campus Porto Seguro",
+            "pontos": "0"
+        },
+        {
+            "id": "32",
+            "uf": "BA",
+            "municipio": "Valença",
+            "ies": "FACULDADE ATENAS VALENÇA",
+            "campus": "Campus Valença",
+            "pontos": "0"
+        },
+        {
+            "id": "33",
+            "uf": "BA",
+            "municipio": "Conceição do Coité",
+            "ies": "FACULDADE DA REGIÃO SISALEIRA",
+            "campus": "Campus Conceição do Coité",
+            "pontos": "0"
+        },
+        {
+            "id": "34",
+            "uf": "BA",
+            "municipio": "Itabuna",
+            "ies": "FACULDADE DE EXCELÊNCIA UNEX DE ITABUNA",
+            "campus": "Campus Itabuna",
+            "pontos": "0"
+        },
+        {
+            "id": "35",
+            "uf": "BA",
+            "municipio": "Jequié",
+            "ies": "FACULDADE DE EXCELÊNCIA UNEX DE JEQUIÉ",
+            "campus": "Campus Jequié",
+            "pontos": "0"
+        },
+        {
+            "id": "36",
+            "uf": "BA",
+            "municipio": "Vitória da Conquista",
+            "ies": "FACULDADE DE SAÚDE SANTO AGOSTINHO DE VITÓRIA DA CONQUISTA",
+            "campus": "Campus Vitória da Conquista",
+            "pontos": "0"
+        },
+        {
+            "id": "37",
+            "uf": "BA",
+            "municipio": "Alagoinhas",
+            "ies": "FACULDADE ESTÁCIO DE ALAGOINHAS",
+            "campus": "Campus Alagoinhas",
+            "pontos": "0"
+        },
+        {
+            "id": "38",
+            "uf": "BA",
+            "municipio": "Juazeiro",
+            "ies": "FACULDADE ESTÁCIO DE JUAZEIRO",
+            "campus": "Campus Juazeiro",
+            "pontos": "0"
+        },
+        {
+            "id": "39",
+            "uf": "BA",
+            "municipio": "Eunápolis",
+            "ies": "FACULDADE PITÁGORAS DE MEDICINA DE EUNÁPOLIS",
+            "campus": "Campus Eunápolis",
+            "pontos": "0"
+        },
+        {
+            "id": "40",
+            "uf": "BA",
+            "municipio": "Eunápolis",
+            "ies": "FACULDADES INTEGRADAS DO EXTREMO SUL DA BAHIA",
+            "campus": "Campus Eunápolis",
+            "pontos": "0"
+        },
+        {
+            "id": "41",
+            "uf": "BA",
+            "municipio": "Guanambi",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE GUANAMBI",
+            "campus": "Campus Guanambi",
+            "pontos": "0"
+        },
+        {
+            "id": "42",
+            "uf": "BA",
+            "municipio": "Paulo Afonso",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO",
+            "campus": "Campus Paulo Afonso",
+            "pontos": "0"
+        },
+        {
+            "id": "43",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "UNIVERSIDADE DO ESTADO DA BAHIA",
+            "campus": "Campus Salvador",
+            "pontos": "0"
+        },
+        {
+            "id": "44",
+            "uf": "BA",
+            "municipio": "Feira de Santana",
+            "ies": "UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA",
+            "campus": "Campus Feira de Santana",
+            "pontos": "0"
+        },
+        {
+            "id": "45",
+            "uf": "BA",
+            "municipio": "Ilhéus",
+            "ies": "UNIVERSIDADE ESTADUAL DE SANTA CRUZ",
+            "campus": "Campus Ilhéus",
+            "pontos": "0"
+        },
+        {
+            "id": "46",
+            "uf": "BA",
+            "municipio": "Vitória da Conquista",
+            "ies": "UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA",
+            "campus": "Campus Vitória da Conquista",
+            "pontos": "0"
+        },
+        {
+            "id": "47",
+            "uf": "BA",
+            "municipio": "Jequié",
+            "ies": "UNIVERSIDADE ESTADUAL DO SUDOESTE DA BAHIA",
+            "campus": "Campus Jequié",
+            "pontos": "0"
+        },
+        {
+            "id": "48",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "UNIVERSIDADE FEDERAL DA BAHIA",
+            "campus": "Campus Salvador",
+            "pontos": "0"
+        },
+        {
+            "id": "49",
+            "uf": "BA",
+            "municipio": "Vitória da Conquista",
+            "ies": "UNIVERSIDADE FEDERAL DA BAHIA",
+            "campus": "Campus Vitória da Conquista",
+            "pontos": "0"
+        },
+        {
+            "id": "50",
+            "uf": "BA",
+            "municipio": "Barreiras",
+            "ies": "UNIVERSIDADE FEDERAL DO OESTE DA BAHIA",
+            "campus": "Campus Barreiras",
+            "pontos": "0"
+        },
+        {
+            "id": "51",
+            "uf": "BA",
+            "municipio": "Santo Antônio de Jesus",
+            "ies": "UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA",
+            "campus": "Campus Santo Antônio de Jesus",
+            "pontos": "0"
+        },
+        {
+            "id": "52",
+            "uf": "BA",
+            "municipio": "Teixeira de Freitas",
+            "ies": "UNIVERSIDADE FEDERAL DO SUL DA BAHIA",
+            "campus": "Campus Teixeira de Freitas",
+            "pontos": "0"
+        },
+        {
+            "id": "53",
+            "uf": "BA",
+            "municipio": "Salvador",
+            "ies": "UNIVERSIDADE SALVADOR",
+            "campus": "Campus Professor Barros",
+            "pontos": "0"
+        },
+        {
+            "id": "54",
+            "uf": "CE",
+            "municipio": "Iguatu",
+            "ies": "CENTRO UNIVERISTÁRIO ESTÁCIO DO CEARÁ",
+            "campus": "Campus Iguatu",
+            "pontos": "0"
+        },
+        {
+            "id": "55",
+            "uf": "CE",
+            "municipio": "Fortaleza",
+            "ies": "CENTRO UNIVERSITÁRIO CHRISTUS",
+            "campus": "Campus Fortaleza",
+            "pontos": "0"
+        },
+        {
+            "id": "56",
+            "uf": "CE",
+            "municipio": "Quixadá",
+            "ies": "CENTRO UNIVERSITÁRIO ESTÁCIO DO CEARÁ",
+            "campus": "Campus Quixadá",
+            "pontos": "0"
+        },
+        {
+            "id": "57",
+            "uf": "CE",
+            "municipio": "Itapipoca",
+            "ies": "CENTRO UNIVERSITÁRIO INTA",
+            "campus": "Campus Itapipoca",
+            "pontos": "0"
+        },
+        {
+            "id": "58",
+            "uf": "CE",
+            "municipio": "Sobral",
+            "ies": "CENTRO UNIVERSITÁRIO INTA",
+            "campus": "Campus Sobral",
+            "pontos": "0"
+        },
+        {
+            "id": "59",
+            "uf": "CE",
+            "municipio": "Icó",
+            "ies": "CENTRO UNIVERSITÁRIO VALE DO SALGADO",
+            "campus": "Campus Icó",
+            "pontos": "0"
+        },
+        {
+            "id": "60",
+            "uf": "CE",
+            "municipio": "Juazeiro do Norte",
+            "ies": "FACULDADE DE MEDICINA ESTÁCIO DE JUAZEIRO DO NORTE",
+            "campus": "Campus Juazeiro do Norte",
+            "pontos": "0"
+        },
+        {
+            "id": "61",
+            "uf": "CE",
+            "municipio": "Canindé",
+            "ies": "FACULDADE ESTÁCIO DE CANINDÉ",
+            "campus": "Campus Canindé",
+            "pontos": "0"
+        },
+        {
+            "id": "62",
+            "uf": "CE",
+            "municipio": "Tianguá",
+            "ies": "FACULDADE UNINTA TIANGUA",
+            "campus": "Campus Tianguá",
+            "pontos": "0"
+        },
+        {
+            "id": "63",
+            "uf": "CE",
+            "municipio": "Baturité",
+            "ies": "UNIVERSIDADE DA INTEGRAÇÃO INTERNACIONAL DA LUSOFONIA AFRO-BRASILEIRA",
+            "campus": "Campus Baturité",
+            "pontos": "0"
+        },
+        {
+            "id": "64",
+            "uf": "CE",
+            "municipio": "Fortaleza",
+            "ies": "UNIVERSIDADE DE FORTALEZA",
+            "campus": "Campus Fortaleza",
+            "pontos": "0"
+        },
+        {
+            "id": "65",
+            "uf": "CE",
+            "municipio": "Fortaleza",
+            "ies": "UNIVERSIDADE ESTADUAL DO CEARÁ",
+            "campus": "Campus Fortaleza",
+            "pontos": "0"
+        },
+        {
+            "id": "66",
+            "uf": "CE",
+            "municipio": "Crateús",
+            "ies": "UNIVERSIDADE ESTADUAL DO CEARÁ",
+            "campus": "Campus Crateús",
+            "pontos": "0"
+        },
+        {
+            "id": "67",
+            "uf": "CE",
+            "municipio": "Quixeramobim",
+            "ies": "UNIVERSIDADE ESTADUAL DO CEARÁ",
+            "campus": "Campus Quixeramobim",
+            "pontos": "0"
+        },
+        {
+            "id": "68",
+            "uf": "CE",
+            "municipio": "Barbalha",
+            "ies": "UNIVERSIDADE FEDERAL DO CARIRI",
+            "campus": "Campus Barbalha",
+            "pontos": "0"
+        },
+        {
+            "id": "69",
+            "uf": "CE",
+            "municipio": "Fortaleza",
+            "ies": "UNIVERSIDADE FEDERAL DO CEARÁ",
+            "campus": "Campus Fortaleza",
+            "pontos": "0"
+        },
+        {
+            "id": "70",
+            "uf": "CE",
+            "municipio": "Sobral",
+            "ies": "UNIVERSIDADE FEDERAL DO CEARÁ",
+            "campus": "Campus Sobral",
+            "pontos": "0"
+        },
+        {
+            "id": "71",
+            "uf": "CE",
+            "municipio": "Crato",
+            "ies": "UNIVERSIDADE REGIONAL DO CARIRI",
+            "campus": "Campus Crato",
+            "pontos": "0"
+        },
+        {
+            "id": "72",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "CENTRO UNIVERSITÁRIO DE BRASÍLIA",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "73",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "CENTRO UNIVERSITÁRIO DO PLANALTO CENTRAL APPARECIDO DOS SANTOS",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "74",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "CENTRO UNIVERSITÁRIO EURO-AMERICANO",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "75",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "UNIVERSIDADE CATÓLICA DE BRASíLIA",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "76",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "UNIVERSIDADE DE BRASÍLIA",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "77",
+            "uf": "DF",
+            "municipio": "Brasília",
+            "ies": "UNIVERSIDADE DO DISTRITO FEDERAL",
+            "campus": "Campus Brasília",
+            "pontos": "0"
+        },
+        {
+            "id": "78",
+            "uf": "ES",
+            "municipio": "Colatina",
+            "ies": "CENTRO UNIVERSITÁRIO DO ESPÍRITO SANTO",
+            "campus": "Campus Colatina",
+            "pontos": "0"
+        },
+        {
+            "id": "79",
+            "uf": "ES",
+            "municipio": "Vitória",
+            "ies": "CENTRO UNIVERSITÁRIO MULTIVIX VITÓRIA",
+            "campus": "Campus Vitória",
+            "pontos": "0"
+        },
+        {
+            "id": "80",
+            "uf": "ES",
+            "municipio": "Vitória",
+            "ies": "ESCOLA SUPERIOR DE CIÊNCIAS DA SANTA CASA DE MISERICÓRDIA DE VITÓRIA",
+            "campus": "Campus Vitória",
+            "pontos": "0"
+        },
+        {
+            "id": "81",
+            "uf": "ES",
+            "municipio": "Cachoeiro de Itapemirim",
+            "ies": "FACULDADE BRASILEIRA DE CACHOEIRO",
+            "campus": "Campus Cachoeiro de Itapemirim",
+            "pontos": "0"
+        },
+        {
+            "id": "82",
+            "uf": "ES",
+            "municipio": "Cariacica",
+            "ies": "FACULDADE ESPÍRITO SANTENSE",
+            "campus": "Campus Cariacica",
+            "pontos": "0"
+        },
+        {
+            "id": "83",
+            "uf": "ES",
+            "municipio": "Cariacica",
+            "ies": "FACULDADE MULTIVIX CARIACIA",
+            "campus": "Campus Cariacica",
+            "pontos": "0"
+        },
+        {
+            "id": "84",
+            "uf": "ES",
+            "municipio": "São Mateus",
+            "ies": "FACULDADE MULTIVIX SÃO MATEUS",
+            "campus": "Campus São Mateus",
+            "pontos": "0"
+        },
+        {
+            "id": "85",
+            "uf": "ES",
+            "municipio": "Serra",
+            "ies": "FACULDADE MULTIVIX SERRA",
+            "campus": "Campus Serra",
+            "pontos": "0"
+        },
+        {
+            "id": "86",
+            "uf": "ES",
+            "municipio": "Vitória",
+            "ies": "UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO",
+            "campus": "Campus Vitória",
+            "pontos": "0"
+        },
+        {
+            "id": "87",
+            "uf": "ES",
+            "municipio": "Vila Velha",
+            "ies": "UNIVERSIDADE VILA VELHA",
+            "campus": "Campus Vilha Velha",
+            "pontos": "0"
+        },
+        {
+            "id": "88",
+            "uf": "GO",
+            "municipio": "Aparecida de Goiânia",
+            "ies": "CENTRO UNIVERSITÁRIO ALFREDO NASSER",
+            "campus": "Campus Aparecida de Goiânia",
+            "pontos": "0"
+        },
+        {
+            "id": "89",
+            "uf": "GO",
+            "municipio": "Goiatuba",
+            "ies": "CENTRO UNIVERSITÁRIO DE GOIATUBA",
+            "campus": "Campus Goiatuba",
+            "pontos": "0"
+        },
+        {
+            "id": "90",
+            "uf": "GO",
+            "municipio": "Trindade",
+            "ies": "CENTRO UNIVERSITÁRIO DE MINEIROS",
+            "campus": "Campus Trindade",
+            "pontos": "0"
+        },
+        {
+            "id": "91",
+            "uf": "GO",
+            "municipio": "Mineiros",
+            "ies": "CENTRO UNIVERSITÁRIO DE MINEIROS",
+            "campus": "Campus Mineiros",
+            "pontos": "0"
+        },
+        {
+            "id": "92",
+            "uf": "GO",
+            "municipio": "Mineiros",
+            "ies": "FACULDADE MORGANA POTRICH",
+            "campus": "Campus Mineiros",
+            "pontos": "0"
+        },
+        {
+            "id": "93",
+            "uf": "GO",
+            "municipio": "Itumbiara",
+            "ies": "FACULDADE ZARNS - ITUMBIARA",
+            "campus": "Campus Itumbiara",
+            "pontos": "0"
+        },
+        {
+            "id": "94",
+            "uf": "GO",
+            "municipio": "Goiânia",
+            "ies": "PONTIFíCIA UNIVERSIDADE CATÓLICA DE GOIÁS",
+            "campus": "Campus Goiânia",
+            "pontos": "0"
+        },
+        {
+            "id": "95",
+            "uf": "GO",
+            "municipio": "Formosa",
+            "ies": "UNIVERSIDADE DE RIO VERDE",
+            "campus": "Campus Formosa",
+            "pontos": "0"
+        },
+        {
+            "id": "96",
+            "uf": "GO",
+            "municipio": "Aparecida de Goiânia",
+            "ies": "UNIVERSIDADE DE RIO VERDE",
+            "campus": "Campus Aparecida de Goiânia",
+            "pontos": "0"
+        },
+        {
+            "id": "97",
+            "uf": "GO",
+            "municipio": "Goianésia",
+            "ies": "UNIVERSIDADE DE RIO VERDE",
+            "campus": "Campus Goianésia",
+            "pontos": "0"
+        },
+        {
+            "id": "98",
+            "uf": "GO",
+            "municipio": "Rio Verde",
+            "ies": "UNIVERSIDADE DE RIO VERDE",
+            "campus": "Campus Rio Verde",
+            "pontos": "0"
+        },
+        {
+            "id": "99",
+            "uf": "GO",
+            "municipio": "Luziânia",
+            "ies": "UNIVERSIDADE DE RIO VERDE",
+            "campus": "Campus Luziânia",
+            "pontos": "0"
+        },
+        {
+            "id": "100",
+            "uf": "GO",
+            "municipio": "Anápolis",
+            "ies": "UNIVERSIDADE ENVANGÉLICA DE GOIÁS",
+            "campus": "Campus Anápolis",
+            "pontos": "0"
+        },
+        {
+            "id": "101",
+            "uf": "GO",
+            "municipio": "Itumbiara",
+            "ies": "UNIVERSIDADE ESTADUAL DE GOIÁS",
+            "campus": "Campus Itumbiara",
+            "pontos": "0"
+        },
+        {
+            "id": "102",
+            "uf": "GO",
+            "municipio": "Catalão",
+            "ies": "UNIVERSIDADE FEDERAL DE CATALÃO",
+            "campus": "Campus Catalão",
+            "pontos": "0"
+        },
+        {
+            "id": "103",
+            "uf": "GO",
+            "municipio": "Goiânia",
+            "ies": "UNIVERSIDADE FEDERAL DE GOIÁS",
+            "campus": "Campus Goiânia",
+            "pontos": "0"
+        },
+        {
+            "id": "104",
+            "uf": "GO",
+            "municipio": "Jataí",
+            "ies": "UNIVERSIDADE FEDERAL DE JATAÍ",
+            "campus": "Campus Jataí",
+            "pontos": "0"
+        },
+        {
+            "id": "105",
+            "uf": "MA",
+            "municipio": "Santa Inês",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE SANTA INÊS",
+            "campus": "Campus Santa Inês",
+            "pontos": "0"
+        },
+        {
+            "id": "106",
+            "uf": "MA",
+            "municipio": "Caxias",
+            "ies": "CENTRO UNIVERSITÁRIO DE CIÊNCIAS E TECNOLOGIA DO MARANHÃO",
+            "campus": "Campus Caxias-Centro",
+            "pontos": "0"
+        },
+        {
+            "id": "107",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE SÃO LUÍS",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "108",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "CENTRO UNIVERSITÁRIO UNIDADE DE ENSINO SUPERIOR DOM BOSCO",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "109",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "FACULDADE ANHANGUERA DE SÃO LUIZ",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "110",
+            "uf": "MA",
+            "municipio": "Codó",
+            "ies": "FACULDADE DE CIÊNCIAS DA SAÚDE PITÁGORAS DE CODÓ",
+            "campus": "Campus Codó",
+            "pontos": "0"
+        },
+        {
+            "id": "111",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "FACULDADE DE CIÊNCIAS E SAÚDE EDUFOR",
+            "campus": "Campus Turu",
+            "pontos": "0"
+        },
+        {
+            "id": "112",
+            "uf": "MA",
+            "municipio": "Açaílândia",
+            "ies": "FACULDADE DE MEDICINA DE AÇAÍLÂNDIA",
+            "campus": "Campus Açaílândia",
+            "pontos": "0"
+        },
+        {
+            "id": "113",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "FACULDADE DE TECNOLOGIA E ADMINISTRAÇÃO EDUDOR",
+            "campus": "Campus Principal",
+            "pontos": "0"
+        },
+        {
+            "id": "114",
+            "uf": "MA",
+            "municipio": "Bacabal",
+            "ies": "FACULDADE PITÁGORAS DE BACABAL",
+            "campus": "Campus Bacabal",
+            "pontos": "0"
+        },
+        {
+            "id": "115",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "INSTITUTO DE DESENVOLVIMENTO E APRENDIZAGEM - IDEA SÃO LUÍS",
+            "campus": "Campus Sede",
+            "pontos": "0"
+        },
+        {
+            "id": "116",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "INSTITUTO FLORENCE DE ENSINO SUPERIOR",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "117",
+            "uf": "MA",
+            "municipio": "Imperatriz",
+            "ies": "UNIVERSIDADE CEUMA",
+            "campus": "Campus Imperatriz",
+            "pontos": "0"
+        },
+        {
+            "id": "118",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "UNIVERSIDADE CEUMA",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "119",
+            "uf": "MA",
+            "municipio": "Imperatriz",
+            "ies": "UNIVERSIDADE ESTADUAL DA REGIÃO TOCANTINA DO MARANHÃO",
+            "campus": "Campus Imperatriz",
+            "pontos": "0"
+        },
+        {
+            "id": "120",
+            "uf": "MA",
+            "municipio": "Caxias",
+            "ies": "UNIVERSIDADE ESTADUAL DO MARANHÃO",
+            "campus": "Campus Caxias",
+            "pontos": "0"
+        },
+        {
+            "id": "121",
+            "uf": "MA",
+            "municipio": "Pinheiro",
+            "ies": "UNIVERSIDADE FEDERAL DO MARANHÃO",
+            "campus": "Campus Pinheiro",
+            "pontos": "0"
+        },
+        {
+            "id": "122",
+            "uf": "MA",
+            "municipio": "São Luís",
+            "ies": "UNIVERSIDADE FEDERAL DO MARANHÃO",
+            "campus": "Campus São Luís",
+            "pontos": "0"
+        },
+        {
+            "id": "123",
+            "uf": "MA",
+            "municipio": "Imperatriz",
+            "ies": "UNIVERSIDADE FEDERAL DO MARANHÃO",
+            "campus": "Campus Imperatriz",
+            "pontos": "0"
+        },
+        {
+            "id": "124",
+            "uf": "MG",
+            "municipio": "Ipatinga",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE IPATINGA",
+            "campus": "Campus Ipatinga",
+            "pontos": "0"
+        },
+        {
+            "id": "125",
+            "uf": "MG",
+            "municipio": "Matipó",
+            "ies": "CENTRO UNIVERSITÁRIO VÉRTICE",
+            "campus": "Campus Matipó",
+            "pontos": "0"
+        },
+        {
+            "id": "126",
+            "uf": "MG",
+            "municipio": "Paracatu",
+            "ies": "CENTRO UNIVERSITÁRIO ATENAS",
+            "campus": "Campus Paracatu",
+            "pontos": "0"
+        },
+        {
+            "id": "127",
+            "uf": "MG",
+            "municipio": "Belo Horizonte",
+            "ies": "CENTRO UNIVERSITÁRIO DE BELO HORIZONTE",
+            "campus": "Campus Belo Horizonte",
+            "pontos": "0"
+        },
+        {
+            "id": "128",
+            "uf": "MG",
+            "municipio": "Caratinga",
+            "ies": "CENTRO UNIVERSITÁRIO DE CARATINGA",
+            "campus": "Campus Caratinga",
+            "pontos": "0"
+        },
+        {
+            "id": "129",
+            "uf": "MG",
+            "municipio": "Patos de Minas",
+            "ies": "CENTRO UNIVERSITÁRIO DE PATOS DE MINAS",
+            "campus": "Campus Patos de Minas",
+            "pontos": "0"
+        },
+        {
+            "id": "130",
+            "uf": "MG",
+            "municipio": "Montes Claros",
+            "ies": "CENTRO UNIVERSITÁRIO DO NORTE DE MINAS",
+            "campus": "Campos Montes Claros",
+            "pontos": "0"
+        },
+        {
+            "id": "131",
+            "uf": "MG",
+            "municipio": "Muriaé",
+            "ies": "CENTRO UNIVERSITÁRIO FAMINAS",
+            "campus": "Campus Muriaé",
+            "pontos": "0"
+        },
+        {
+            "id": "132",
+            "uf": "MG",
+            "municipio": "Montes Claros",
+            "ies": "CENTRO UNIVERSITÁRIO FIP-MOC",
+            "campus": "Campus Montes Claros",
+            "pontos": "0"
+        },
+        {
+            "id": "133",
+            "uf": "MG",
+            "municipio": "Itabira",
+            "ies": "CENTRO UNIVERSITÁRIO FUNCESI",
+            "campus": "Campus Itabira",
+            "pontos": "0"
+        },
+        {
+            "id": "134",
+            "uf": "MG",
+            "municipio": "Ubá",
+            "ies": "CENTRO UNIVERSITÁRIO GOVERNADOR OZANAM COELHO",
+            "campus": "Campus Ubá",
+            "pontos": "0"
+        },
+        {
+            "id": "135",
+            "uf": "MG",
+            "municipio": "Araguari",
+            "ies": "CENTRO UNIVERSITÁRIO IMEPAC - ARAGUARI",
+            "campus": "Campus Araguari",
+            "pontos": "0"
+        },
+        {
+            "id": "136",
+            "uf": "MG",
+            "municipio": "Juiz de Fora",
+            "ies": "CENTRO UNIVERSITÁRIO PRESIDENTE ANTÔNIO CARLOS",
+            "campus": "Campus Juiz de Fora",
+            "pontos": "0"
+        },
+        {
+            "id": "137",
+            "uf": "MG",
+            "municipio": "São João del Rei",
+            "ies": "CENTRO UNIVERSITÁRIO PRESIDENTE TANCREDO DE ALMEIDA NEVES",
+            "campus": "Campus São João del Rei",
+            "pontos": "0"
+        },
+        {
+            "id": "138",
+            "uf": "MG",
+            "municipio": "Manhuaçu",
+            "ies": "CENTRO UNIVERSITÁRIO UNIFACIG",
+            "campus": "Campus Manhuaçu",
+            "pontos": "0"
+        },
+        {
+            "id": "139",
+            "uf": "MG",
+            "municipio": "Passos",
+            "ies": "FACULDADE ATENAS PASSOS",
+            "campus": "Campus Passos",
+            "pontos": "0"
+        },
+        {
+            "id": "140",
+            "uf": "MG",
+            "municipio": "Sete Lagoas",
+            "ies": "FACULDADE ATENAS SETE LAGOAS",
+            "campus": "Campus Sete Lagoas",
+            "pontos": "0"
+        },
+        {
+            "id": "141",
+            "uf": "MG",
+            "municipio": "Vespasiano",
+            "ies": "FACULDADE DA SAÚDE E ECOLOGIA HUMANA",
+            "campus": "Campus Vespasiano",
+            "pontos": "0"
+        },
+        {
+            "id": "142",
+            "uf": "MG",
+            "municipio": "Belo Horizonte",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS DE MINAS GERAIS",
+            "campus": "Campus Belo Horizonte",
+            "pontos": "0"
+        },
+        {
+            "id": "143",
+            "uf": "MG",
+            "municipio": "Juiz de Fora",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS E DA SAÚDE DE JUIZ DE FORA",
+            "campus": "Campus Juiz de Fora",
+            "pontos": "0"
+        },
+        {
+            "id": "144",
+            "uf": "MG",
+            "municipio": "Barbacena",
+            "ies": "FACULDADE DE MEDICINA DE BARBACENA",
+            "campus": "Campus Barbacena",
+            "pontos": "0"
+        },
+        {
+            "id": "145",
+            "uf": "MG",
+            "municipio": "Itajubá",
+            "ies": "FACULDADE DE MEDICINA DE ITAJUBÁ",
+            "campus": "Campus Itajubá",
+            "pontos": "0"
+        },
+        {
+            "id": "146",
+            "uf": "MG",
+            "municipio": "Belo Horizonte",
+            "ies": "FACULDADE DE MINAS BH",
+            "campus": "Campus Belo Horizonte",
+            "pontos": "0"
+        },
+        {
+            "id": "147",
+            "uf": "MG",
+            "municipio": "Ponte Nova",
+            "ies": "FACULDADE DINÁMICA DO VALE DO PIRANGA",
+            "campus": "Campus Ponte Nova",
+            "pontos": "0"
+        },
+        {
+            "id": "148",
+            "uf": "MG",
+            "municipio": "Uberlândia",
+            "ies": "FACULDADE DO TRABALHO",
+            "campus": "Campus Uberlândia",
+            "pontos": "0"
+        },
+        {
+            "id": "149",
+            "uf": "MG",
+            "municipio": "Ituiutaba",
+            "ies": "FACULDADE MAIS DE ITUIUTABA",
+            "campus": "Campus Ituiutaba",
+            "pontos": "0"
+        },
+        {
+            "id": "150",
+            "uf": "MG",
+            "municipio": "Contagem",
+            "ies": "FACULDADE ÚNICA DE CONTAGEM",
+            "campus": "Campus Contagem",
+            "pontos": "0"
+        },
+        {
+            "id": "151",
+            "uf": "MG",
+            "municipio": "Pouso Alegre",
+            "ies": "INSTITUTO NACIONAL DE ENSINO SUPERIOR E PÓS-GRADUAÇÃO PADRE GERVÁSIO",
+            "campus": "Campus Pouso Alegre",
+            "pontos": "0"
+        },
+        {
+            "id": "152",
+            "uf": "MG",
+            "municipio": "Contagem",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+            "campus": "Campus Contagem",
+            "pontos": "0"
+        },
+        {
+            "id": "153",
+            "uf": "MG",
+            "municipio": "Poços de Caldas",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+            "campus": "Campus Poços de Caldas",
+            "pontos": "0"
+        },
+        {
+            "id": "154",
+            "uf": "MG",
+            "municipio": "Betim",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS",
+            "campus": "Campus Betim",
+            "pontos": "0"
+        },
+        {
+            "id": "155",
+            "uf": "MG",
+            "municipio": "Itaúna",
+            "ies": "UNIVERSIDADE DE ITAÚNA",
+            "campus": "Campus Itaúna",
+            "pontos": "0"
+        },
+        {
+            "id": "156",
+            "uf": "MG",
+            "municipio": "Uberaba",
+            "ies": "UNIVERSIDADE DE UBERABA",
+            "campus": "Campus Uberaba",
+            "pontos": "0"
+        },
+        {
+            "id": "157",
+            "uf": "MG",
+            "municipio": "Passos",
+            "ies": "UNIVERSIDADE DO ESTADO DE MINAS GERAIS",
+            "campus": "Campus Passos",
+            "pontos": "0"
+        },
+        {
+            "id": "158",
+            "uf": "MG",
+            "municipio": "Pouso Alegre",
+            "ies": "UNIVERSIDADE DO VALE DO SAPUCAÍ",
+            "campus": "Campus Pouso Alegre",
+            "pontos": "0"
+        },
+        {
+            "id": "159",
+            "uf": "MG",
+            "municipio": "Montes Claros",
+            "ies": "UNIVERSIDADE ESTADUAL DE MONTES CLAROS",
+            "campus": "Campus Montes Claros",
+            "pontos": "0"
+        },
+        {
+            "id": "160",
+            "uf": "MG",
+            "municipio": "Alfenas",
+            "ies": "UNIVERSIDADE FEDERAL DE ALFENAS",
+            "campus": "Campus Alfenas ",
+            "pontos": "0"
+        },
+        {
+            "id": "161",
+            "uf": "MG",
+            "municipio": "Governador Valadares",
+            "ies": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "campus": "Campus Governador Valadares",
+            "pontos": "0"
+        },
+        {
+            "id": "162",
+            "uf": "MG",
+            "municipio": "Juiz de Fora",
+            "ies": "UNIVERSIDADE FEDERAL DE JUIZ DE FORA",
+            "campus": "Campus Juiz de Fora",
+            "pontos": "0"
+        },
+        {
+            "id": "163",
+            "uf": "MG",
+            "municipio": "Lavras",
+            "ies": "UNIVERSIDADE FEDERAL DE LAVRAS",
+            "campus": "Campus Lavras",
+            "pontos": "0"
+        },
+        {
+            "id": "164",
+            "uf": "MG",
+            "municipio": "Belo Horizonte",
+            "ies": "UNIVERSIDADE FEDERAL DE MINAS GERAIS",
+            "campus": "Campus Belo Horizonte",
+            "pontos": "0"
+        },
+        {
+            "id": "165",
+            "uf": "MG",
+            "municipio": "Ouro Preto",
+            "ies": "UNIVERSIDADE FEDERAL DE OURO PRETO",
+            "campus": "Campus Ouro Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "166",
+            "uf": "MG",
+            "municipio": "Divinópolis",
+            "ies": "UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI",
+            "campus": "Campus Divinópolis",
+            "pontos": "0"
+        },
+        {
+            "id": "167",
+            "uf": "MG",
+            "municipio": "São João del Rei",
+            "ies": "UNIVERSIDADE FEDERAL DE SÃO JOÃO DEL REI",
+            "campus": "Campus Dom Bosco",
+            "pontos": "0"
+        },
+        {
+            "id": "168",
+            "uf": "MG",
+            "municipio": "Uberlândia",
+            "ies": "UNIVERSIDADE FEDERAL DE UBERLÂNDIA",
+            "campus": "Campus Umuarama",
+            "pontos": "0"
+        },
+        {
+            "id": "169",
+            "uf": "MG",
+            "municipio": "Viçosa",
+            "ies": "UNIVERSIDADE FEDERAL DE VIÇOSA",
+            "campus": "Campus Viçosa",
+            "pontos": "0"
+        },
+        {
+            "id": "170",
+            "uf": "MG",
+            "municipio": "Uberaba",
+            "ies": "UNIVERSIDADE FEDERAL DO TRIÂNGULO MINEIRO",
+            "campus": "Campus Uberaba",
+            "pontos": "0"
+        },
+        {
+            "id": "171",
+            "uf": "MG",
+            "municipio": "Diamantina",
+            "ies": "UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI",
+            "campus": "Campus Diamantina",
+            "pontos": "0"
+        },
+        {
+            "id": "172",
+            "uf": "MG",
+            "municipio": "Teófilo Otoni",
+            "ies": "UNIVERSIDADE FEDERAL DOS VALES DO JEQUITINHONHA E MUCURI",
+            "campus": "Campus do Mucuri",
+            "pontos": "0"
+        },
+        {
+            "id": "173",
+            "uf": "MG",
+            "municipio": "Alfenas",
+            "ies": "UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO",
+            "campus": "Campus Alfenas",
+            "pontos": "0"
+        },
+        {
+            "id": "174",
+            "uf": "MG",
+            "municipio": "Belo Horizonte",
+            "ies": "UNIVERSIDADE PROFESSOR EDSON ANTÔNIO VELANO",
+            "campus": "Campus Belo Horizonte",
+            "pontos": "0"
+        },
+        {
+            "id": "175",
+            "uf": "MG",
+            "municipio": "Governador Valadares",
+            "ies": "UNIVERSIDADE VALE DO RIO DOCE",
+            "campus": "Campus Governador Valadares",
+            "pontos": "0"
+        },
+        {
+            "id": "176",
+            "uf": "MS",
+            "municipio": "Ponta Porã",
+            "ies": "FACULDADE DE MEDICINA UNIDERP DE PONTA PORÃ",
+            "campus": "Campus Ponta Porã",
+            "pontos": "0"
+        },
+        {
+            "id": "177",
+            "uf": "MS",
+            "municipio": "Corumbá",
+            "ies": "FACULDADE UNICESUMAR DE CORUMBÁ",
+            "campus": "Campus Corumbá",
+            "pontos": "0"
+        },
+        {
+            "id": "178",
+            "uf": "MS",
+            "municipio": "Dourados",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS",
+            "campus": "Campus Dourados",
+            "pontos": "0"
+        },
+        {
+            "id": "179",
+            "uf": "MS",
+            "municipio": "Campo Grande",
+            "ies": "UNIVERSIDADE ANHANGUERA",
+            "campus": "Campus Campo Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "180",
+            "uf": "MS",
+            "municipio": "Campo Grande",
+            "ies": "UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL",
+            "campus": "Campus Campo Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "181",
+            "uf": "MS",
+            "municipio": "Campo Grande",
+            "ies": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
+            "campus": "Campus Campo Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "182",
+            "uf": "MS",
+            "municipio": "Três Lagoas",
+            "ies": "UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL",
+            "campus": "Campus Três Lagoas",
+            "pontos": "0"
+        },
+        {
+            "id": "183",
+            "uf": "MT",
+            "municipio": "Várzea Grande",
+            "ies": "CENTRO UNIVERSITÁRIO DE VÁRZEA GRANDE",
+            "campus": "Campus Várzea Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "184",
+            "uf": "MT",
+            "municipio": "Cáceres",
+            "ies": "CENTRO UNIVERSITÁRIO ESTÁCIO DO PANTANAL",
+            "campus": "Campus Cáceres",
+            "pontos": "0"
+        },
+        {
+            "id": "185",
+            "uf": "MT",
+            "municipio": "Sorriso",
+            "ies": "FACULDADE ATENAS SORRISO",
+            "campus": "Campus Sorriso",
+            "pontos": "0"
+        },
+        {
+            "id": "186",
+            "uf": "MT",
+            "municipio": "Cuiabá",
+            "ies": "UNIVERSIDADE DE CUIABÁ",
+            "campus": "Campus Cuiabá",
+            "pontos": "0"
+        },
+        {
+            "id": "187",
+            "uf": "MT",
+            "municipio": "Cáceres",
+            "ies": "UNIVERSIDADE DO ESTADO DE MATO GROSSO CARLOS ALBERTO REYES MALDONADO - UNEMAT",
+            "campus": "Campus Cáceres",
+            "pontos": "0"
+        },
+        {
+            "id": "188",
+            "uf": "MT",
+            "municipio": "Cuiabá",
+            "ies": "UNIVERSIDADE FEDERAL DE MATO GROSSO",
+            "campus": "Campus Cuiabá",
+            "pontos": "0"
+        },
+        {
+            "id": "189",
+            "uf": "MT",
+            "municipio": "Sinop",
+            "ies": "UNIVERSIDADE FEDERAL DE MATO GROSSO",
+            "campus": "Campus Sinop",
+            "pontos": "0"
+        },
+        {
+            "id": "190",
+            "uf": "MT",
+            "municipio": "Rondonópolis",
+            "ies": "UNIVERSIDADE FEDERAL DE RONDONÓPOLIS",
+            "campus": "Campus Rondonópolis",
+            "pontos": "0"
+        },
+        {
+            "id": "191",
+            "uf": "PA",
+            "municipio": "Abaetetuba",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE ABAETETUBA",
+            "campus": "Campus Abaetetuba",
+            "pontos": "0"
+        },
+        {
+            "id": "192",
+            "uf": "PA",
+            "municipio": "Bragança",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE BRAÇANGA",
+            "campus": "Campus Bragança",
+            "pontos": "0"
+        },
+        {
+            "id": "193",
+            "uf": "PA",
+            "municipio": "Belém",
+            "ies": "CENTRO UNIVERSITÁRIO DA AMAZÔNIA",
+            "campus": "Campus Belém",
+            "pontos": "0"
+        },
+        {
+            "id": "194",
+            "uf": "PA",
+            "municipio": "Belém",
+            "ies": "CENTRO UNIVERSITÁRIO DO ESTADO DO PARÁ",
+            "campus": "Campus Belém",
+            "pontos": "0"
+        },
+        {
+            "id": "195",
+            "uf": "PA",
+            "municipio": "Belém",
+            "ies": "CENTRO UNIVERSITÁRIO METROPOLITANO DA AMAZÔNIA",
+            "campus": "Campus Belém",
+            "pontos": "0"
+        },
+        {
+            "id": "196",
+            "uf": "PA",
+            "municipio": "Marabá",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS DO PARÁ",
+            "campus": "Campus Marabá",
+            "pontos": "0"
+        },
+        {
+            "id": "197",
+            "uf": "PA",
+            "municipio": "Redenção",
+            "ies": "FACULDADE DE ENSINO SUPERIOR DA AMAZÔNIA REUNIDA",
+            "campus": "Campus Redenção",
+            "pontos": "0"
+        },
+        {
+            "id": "198",
+            "uf": "PA",
+            "municipio": "Castanhal",
+            "ies": "FACULDADE DE MEDICINA ESTÁCIO DE CASTANHAL",
+            "campus": "Campus Castanhal",
+            "pontos": "0"
+        },
+        {
+            "id": "199",
+            "uf": "PA",
+            "municipio": "Tucuruí",
+            "ies": "FACULDADE UNA DE TUCURUÍ",
+            "campus": "Campus Tucuruí",
+            "pontos": "0"
+        },
+        {
+            "id": "200",
+            "uf": "PA",
+            "municipio": "Marabá",
+            "ies": "UNIVERSIDADE DO ESTADO DO PARÁ",
+            "campus": "Campus Marabá",
+            "pontos": "0"
+        },
+        {
+            "id": "201",
+            "uf": "PA",
+            "municipio": "Belém",
+            "ies": "UNIVERSIDADE DO ESTADO DO PARÁ",
+            "campus": "Campus Belém",
+            "pontos": "0"
+        },
+        {
+            "id": "202",
+            "uf": "PA",
+            "municipio": "Satarém",
+            "ies": "UNIVERSIDADE DO ESTADO DO PARÁ",
+            "campus": "Campus Satarém",
+            "pontos": "0"
+        },
+        {
+            "id": "203",
+            "uf": "PA",
+            "municipio": "Altamira",
+            "ies": "UNIVERSIDADE FEDERAL DO PARÁ",
+            "campus": "Campus Altamira",
+            "pontos": "0"
+        },
+        {
+            "id": "204",
+            "uf": "PA",
+            "municipio": "Belém",
+            "ies": "UNIVERSIDADE FEDERAL DO PARÁ",
+            "campus": "Campus Belém",
+            "pontos": "0"
+        },
+        {
+            "id": "205",
+            "uf": "PB",
+            "municipio": "João Pessoa",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA",
+            "campus": "Campus João Pessoa",
+            "pontos": "0"
+        },
+        {
+            "id": "206",
+            "uf": "PB",
+            "municipio": "João Pessoa",
+            "ies": "CENTRO UNIVERSITÁRIO DE JOÃO PESSOA",
+            "campus": "Campus João Pessoa",
+            "pontos": "0"
+        },
+        {
+            "id": "207",
+            "uf": "PB",
+            "municipio": "Patos",
+            "ies": "CENTRO UNIVERSITÁRIO DE PATOS",
+            "campus": "Campus Patos",
+            "pontos": "0"
+        },
+        {
+            "id": "208",
+            "uf": "PB",
+            "municipio": "Campina Grande",
+            "ies": "CENTRO UNIVERSITÁRIO FACISA",
+            "campus": "Campus Campina Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "209",
+            "uf": "PB",
+            "municipio": "Campina Grande",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CAMPINA GRANDE",
+            "campus": "Campus Campina Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "210",
+            "uf": "PB",
+            "municipio": "Cajazeiras",
+            "ies": "CENTRO UNIVERSITÁRIO SANTA MARIA",
+            "campus": "Campus Cajazeiras",
+            "pontos": "0"
+        },
+        {
+            "id": "211",
+            "uf": "PB",
+            "municipio": "João Pessoa",
+            "ies": "FACULDADE DE MEDICINA NOVA ESPERANÇA",
+            "campus": "Campus João Pessoa",
+            "pontos": "0"
+        },
+        {
+            "id": "212",
+            "uf": "PB",
+            "municipio": "João Pessoa",
+            "ies": "UNIVERSIDADE FEDERAL DA PARAÍBA",
+            "campus": "Campus João Pessoa",
+            "pontos": "0"
+        },
+        {
+            "id": "213",
+            "uf": "PB",
+            "municipio": "Cajazeiras",
+            "ies": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+            "campus": "Campus Cajazeiras",
+            "pontos": "0"
+        },
+        {
+            "id": "214",
+            "uf": "PB",
+            "municipio": "Campina Grande",
+            "ies": "UNIVERSIDADE FEDERAL DE CAMPINA GRANDE",
+            "campus": "Campus Campina Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "215",
+            "uf": "PE",
+            "municipio": "Garanhuns",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE GARANHUS",
+            "campus": "Campus Garanhuns",
+            "pontos": "0"
+        },
+        {
+            "id": "216",
+            "uf": "PE",
+            "municipio": "Jaboatão dos Guararapes",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE JABOATÃO DOS GUARARAPES",
+            "campus": "Campus Jaboatão dos Guararapes",
+            "pontos": "0"
+        },
+        {
+            "id": "217",
+            "uf": "PE",
+            "municipio": "Recife",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU",
+            "campus": "Campus Recife",
+            "pontos": "0"
+        },
+        {
+            "id": "218",
+            "uf": "PE",
+            "municipio": "Caruaru",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CARUARU",
+            "campus": "Campus Caruaru",
+            "pontos": "0"
+        },
+        {
+            "id": "219",
+            "uf": "PE",
+            "municipio": "Caruaru",
+            "ies": "CENTRO UNIVERSITÁRIO TABOSA DE ALMEIDA",
+            "campus": "Campus Caruaru",
+            "pontos": "0"
+        },
+        {
+            "id": "220",
+            "uf": "PE",
+            "municipio": "Serra Talhada",
+            "ies": "FACULDADE DE CIÊNCIAS DA SAÚDE DE SERRA TALHADA ",
+            "campus": "Campus Serra Talhada",
+            "pontos": "0"
+        },
+        {
+            "id": "221",
+            "uf": "PE",
+            "municipio": "Olinda",
+            "ies": "FACULDADE DE MEDICINA DE OLINDA",
+            "campus": "Campus Olinda",
+            "pontos": "0"
+        },
+        {
+            "id": "222",
+            "uf": "PE",
+            "municipio": "Arcoverde",
+            "ies": "FACULDADE DE MEDICINA DO SERTÃO",
+            "campus": "Campus Arcoverde",
+            "pontos": "0"
+        },
+        {
+            "id": "223",
+            "uf": "PE",
+            "municipio": "Petrolina",
+            "ies": "FACULDADE DE PETROLINA",
+            "campus": "Campus Petrolina",
+            "pontos": "0"
+        },
+        {
+            "id": "224",
+            "uf": "PE",
+            "municipio": "Belo Jardim",
+            "ies": "FACULDADE DO BELO JARDIM",
+            "campus": "Campus Belo Jardim",
+            "pontos": "0"
+        },
+        {
+            "id": "225",
+            "uf": "PE",
+            "municipio": "Araripina",
+            "ies": "FACULDADE PARAÍSO ARARIPINA",
+            "campus": "Campus Araripina",
+            "pontos": "0"
+        },
+        {
+            "id": "226",
+            "uf": "PE",
+            "municipio": "Recife",
+            "ies": "FACULDADE PERNAMBUCANA DE SAÚDE",
+            "campus": "Campus Recife",
+            "pontos": "0"
+        },
+        {
+            "id": "227",
+            "uf": "PE",
+            "municipio": "Goiana",
+            "ies": "FACULDADE TIRADENTES DE GOIANA",
+            "campus": "Campus Principal",
+            "pontos": "0"
+        },
+        {
+            "id": "228",
+            "uf": "PE",
+            "municipio": "Garanhuns",
+            "ies": "FACULDADES INTEGRADAS DE GARANHUNS",
+            "campus": "Campus Garanhuns",
+            "pontos": "0"
+        },
+        {
+            "id": "229",
+            "uf": "PE",
+            "municipio": "Petrolina",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO VALE DO SÃO FRANCISCO",
+            "campus": "Campus Petrolina",
+            "pontos": "0"
+        },
+        {
+            "id": "230",
+            "uf": "PE",
+            "municipio": "Recife",
+            "ies": "UNIVERSIDADE CATÓLICA DE PERNAMBUCO",
+            "campus": "Campus Recife",
+            "pontos": "0"
+        },
+        {
+            "id": "231",
+            "uf": "PE",
+            "municipio": "Garanhuns",
+            "ies": "UNIVERSIDADE DE PERNAMBUCO",
+            "campus": "Campus Garanhuns",
+            "pontos": "0"
+        },
+        {
+            "id": "232",
+            "uf": "PE",
+            "municipio": "Serra Talhada",
+            "ies": "UNIVERSIDADE DE PERNAMBUCO",
+            "campus": "Campus Serra Talhada",
+            "pontos": "0"
+        },
+        {
+            "id": "233",
+            "uf": "PE",
+            "municipio": "Recife",
+            "ies": "UNIVERSIDADE DE PERNAMBUCO",
+            "campus": "Campus Recife",
+            "pontos": "0"
+        },
+        {
+            "id": "234",
+            "uf": "PE",
+            "municipio": "Recife",
+            "ies": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+            "campus": "Campus Recife",
+            "pontos": "0"
+        },
+        {
+            "id": "235",
+            "uf": "PE",
+            "municipio": "Caruaru",
+            "ies": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+            "campus": "Campus Caruaru",
+            "pontos": "0"
+        },
+        {
+            "id": "236",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "CENTRO UNIVERISTÁRIO FACID WYDEN",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "237",
+            "uf": "PI",
+            "municipio": "Floriano",
+            "ies": "CENTRO UNIVERSITÁRIO FAESF",
+            "campus": "Campus Floriano",
+            "pontos": "0"
+        },
+        {
+            "id": "238",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU TERESINA SUL",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "239",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "CENTRO UNIVERSITÁRIO SANTO AGOSTINHO",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "240",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "CENTRO UNIVERSITÁRIO UNINOVAFAPI",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "241",
+            "uf": "PI",
+            "municipio": "Parnaí­ba",
+            "ies": "FACULDADE DE CIÊNCIAS HUMANAS, EXATAS E DA SAÚDE DO PIAUÍ",
+            "campus": "Campus Parnaí­ba",
+            "pontos": "0"
+        },
+        {
+            "id": "242",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "FACULDADE DE TECNOLOGIA DE TERESINA",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "243",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "UNIVERSIDADE ESTADUAL DO PIAUÍ",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "244",
+            "uf": "PI",
+            "municipio": "Parnaí­ba",
+            "ies": "UNIVERSIDADE FEDERAL DO DELTA DO PARNAIBA",
+            "campus": "Campus Parnaí­ba",
+            "pontos": "0"
+        },
+        {
+            "id": "245",
+            "uf": "PI",
+            "municipio": "Picos",
+            "ies": "UNIVERSIDADE FEDERAL DO PIAUÍ",
+            "campus": "Campus Picos",
+            "pontos": "0"
+        },
+        {
+            "id": "246",
+            "uf": "PI",
+            "municipio": "Teresina",
+            "ies": "UNIVERSIDADE FEDERAL DO PIAUÍ",
+            "campus": "Campus Teresina",
+            "pontos": "0"
+        },
+        {
+            "id": "247",
+            "uf": "PR",
+            "municipio": "Cascavel",
+            "ies": "CENTRO UNIVERSITÁRIO ASSIS GURGACZ",
+            "campus": "Campus Cascavel",
+            "pontos": "0"
+        },
+        {
+            "id": "248",
+            "uf": "PR",
+            "municipio": "Guarapuava",
+            "ies": "CENTRO UNIVERSITÁRIO CAMPO REAL",
+            "campus": "Campus Guarapuava",
+            "pontos": "0"
+        },
+        {
+            "id": "249",
+            "uf": "PR",
+            "municipio": "Pato Branco",
+            "ies": "CENTRO UNIVERSITÁRIO DE PATO BRANCO",
+            "campus": "Campus Pato Branco",
+            "pontos": "0"
+        },
+        {
+            "id": "250",
+            "uf": "PR",
+            "municipio": "Maringá",
+            "ies": "CENTRO UNIVERSITÁRIO INGÁ",
+            "campus": "Campus Maringá",
+            "pontos": "0"
+        },
+        {
+            "id": "251",
+            "uf": "PR",
+            "municipio": "Campo Mourão",
+            "ies": "CENTRO UNIVERSITÁRIO INTEGRADO DE CAMPO MOURÃO",
+            "campus": "Campus Campo Mourão",
+            "pontos": "0"
+        },
+        {
+            "id": "252",
+            "uf": "PR",
+            "municipio": "Pinhais",
+            "ies": "CENTRO UNIVERSITÁRIO DE PINHAIS",
+            "campus": "Campus Pinhais",
+            "pontos": "0"
+        },
+        {
+            "id": "253",
+            "uf": "PR",
+            "municipio": "Ivaiporã",
+            "ies": "FACULDADE DE TECNOLOGIA DO VALE DO IVAÍ",
+            "campus": "Campus Ivaiporã",
+            "pontos": "0"
+        },
+        {
+            "id": "254",
+            "uf": "PR",
+            "municipio": "Curitiba",
+            "ies": "FACULDADE EVANGÊLICA MACKENZIE DO PARANÁ",
+            "campus": "Campus Curitiba",
+            "pontos": "0"
+        },
+        {
+            "id": "255",
+            "uf": "PR",
+            "municipio": "Arapongas",
+            "ies": "FACULDADE HONPAR",
+            "campus": "Campus Arapongas",
+            "pontos": "0"
+        },
+        {
+            "id": "256",
+            "uf": "PR",
+            "municipio": "Curitiba",
+            "ies": "FACULDADES PEQUENO PRÍNCIPE",
+            "campus": "Campus Curitiba",
+            "pontos": "0"
+        },
+        {
+            "id": "257",
+            "uf": "PR",
+            "municipio": "Londrina",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ",
+            "campus": "Campus Londrina",
+            "pontos": "0"
+        },
+        {
+            "id": "258",
+            "uf": "PR",
+            "municipio": "Curitiba",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO PARANÁ",
+            "campus": "Campus Curitiba",
+            "pontos": "0"
+        },
+        {
+            "id": "259",
+            "uf": "PR",
+            "municipio": "Maringá",
+            "ies": "UNIVERSIDADE CESUMAR",
+            "campus": "Campus Maringá",
+            "pontos": "0"
+        },
+        {
+            "id": "260",
+            "uf": "PR",
+            "municipio": "Londrina",
+            "ies": "UNIVERSIDADE ESTADUAL DE LONDRINA",
+            "campus": "Campus Londrina",
+            "pontos": "0"
+        },
+        {
+            "id": "261",
+            "uf": "PR",
+            "municipio": "Maringá",
+            "ies": "UNIVERSIDADE ESTADUAL DE MARINGÁ",
+            "campus": "Campus Maringá",
+            "pontos": "0"
+        },
+        {
+            "id": "262",
+            "uf": "PR",
+            "municipio": "Ponta Grossa",
+            "ies": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
+            "campus": "Campus Ponta Grossa",
+            "pontos": "0"
+        },
+        {
+            "id": "263",
+            "uf": "PR",
+            "municipio": "Guarapuava",
+            "ies": "UNIVERSIDADE ESTADUAL DO CENTRO OESTE",
+            "campus": "Campus Guarapuava",
+            "pontos": "0"
+        },
+        {
+            "id": "264",
+            "uf": "PR",
+            "municipio": "Francisco Beltrão",
+            "ies": "UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ",
+            "campus": "Campus Francisco Beltrão",
+            "pontos": "0"
+        },
+        {
+            "id": "265",
+            "uf": "PR",
+            "municipio": "Cascavel",
+            "ies": "UNIVERSIDADE ESTADUAL DO OESTE DO PARANÁ",
+            "campus": "Campus Cascavel",
+            "pontos": "0"
+        },
+        {
+            "id": "266",
+            "uf": "PR",
+            "municipio": "Foz do Iguaçu",
+            "ies": "UNIVERSIDADE FEDERAL DA INTEGRAÇÃO LATINO-AMERICANA",
+            "campus": "Campus Foz do Iguaçu",
+            "pontos": "0"
+        },
+        {
+            "id": "267",
+            "uf": "PR",
+            "municipio": "Curitiba",
+            "ies": "UNIVERSIDADE FEDERAL DO PARANÁ",
+            "campus": "Campus Curitiba",
+            "pontos": "0"
+        },
+        {
+            "id": "268",
+            "uf": "PR",
+            "municipio": "Toledo",
+            "ies": "UNIVERSIDADE FEDERAL DO PARANÁ",
+            "campus": "Campus Toledo",
+            "pontos": "0"
+        },
+        {
+            "id": "269",
+            "uf": "PR",
+            "municipio": "Umuarama",
+            "ies": "UNIVERSIDADE PARANAENSE",
+            "campus": "Campus Umuarama",
+            "pontos": "0"
+        },
+        {
+            "id": "270",
+            "uf": "PR",
+            "municipio": "Curitiba",
+            "ies": "UNIVERSIDADE POSITIVO",
+            "campus": "Campus Curitiba",
+            "pontos": "0"
+        },
+        {
+            "id": "271",
+            "uf": "RJ",
+            "municipio": "Valença",
+            "ies": "CENTRO UNIVERSITÁRIO DE VALENÇA",
+            "campus": "Campus Valença",
+            "pontos": "0"
+        },
+        {
+            "id": "272",
+            "uf": "RJ",
+            "municipio": "Volta Redonda",
+            "ies": "CENTRO UNIVERSITÁRIO DE VOLTA REDONDA",
+            "campus": "Campus Volta Redonda",
+            "pontos": "0"
+        },
+        {
+            "id": "273",
+            "uf": "RJ",
+            "municipio": "Itaperuna",
+            "ies": "CENTRO UNIVERSITÁRIO REDENTOR",
+            "campus": "Campus Itaperuna",
+            "pontos": "0"
+        },
+        {
+            "id": "274",
+            "uf": "RJ",
+            "municipio": "Teresopólis",
+            "ies": "CENTRO UNIVERSITÁRIO SERRA DOS ORGÃOS",
+            "campus": "Campus Teresopólis",
+            "pontos": "0"
+        },
+        {
+            "id": "275",
+            "uf": "RJ",
+            "municipio": "Três Rios",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS DE TRÊS RIOS",
+            "campus": "Campus Três Rios",
+            "pontos": "0"
+        },
+        {
+            "id": "276",
+            "uf": "RJ",
+            "municipio": "Campos dos Goytacazes",
+            "ies": "FACULDADE DE MEDICINA DE CAMPOS",
+            "campus": "Campus Campos dos Goytacazes",
+            "pontos": "0"
+        },
+        {
+            "id": "277",
+            "uf": "RJ",
+            "municipio": "Petropólis",
+            "ies": "FACULDADE DE MEDICINA DE PETRÓPOLIS",
+            "campus": "Campus Petropólis",
+            "pontos": "0"
+        },
+        {
+            "id": "278",
+            "uf": "RJ",
+            "municipio": "Bom Jesus do Itabapoana",
+            "ies": "FACULDADE METROPOLITANA SÃO CARLOS BJI",
+            "campus": "Campus Bom Jesus do Itabapoana",
+            "pontos": "0"
+        },
+        {
+            "id": "279",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "FACULDADE SOUZA MARQUES",
+            "campus": "Campus Barra da Tijuca",
+            "pontos": "0"
+        },
+        {
+            "id": "280",
+            "uf": "RJ",
+            "municipio": "Araruama",
+            "ies": "FACULDADE UNIÃO ARARUAMA DE ENSINO S/S Ltda.",
+            "campus": "Campus Araruama",
+            "pontos": "0"
+        },
+        {
+            "id": "281",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE CASTELO BRANCO",
+            "campus": "Campus Realengo",
+            "pontos": "0"
+        },
+        {
+            "id": "282",
+            "uf": "RJ",
+            "municipio": "Vassouras",
+            "ies": "UNIVERSIDADE DE VASSOURAS",
+            "campus": "Campus Vassouras",
+            "pontos": "0"
+        },
+        {
+            "id": "283",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
+            "campus": "Campus Maracanã",
+            "pontos": "0"
+        },
+        {
+            "id": "284",
+            "uf": "RJ",
+            "municipio": "Duque de Caxias",
+            "ies": "UNIVERSIDADE DO GRANDE RIO PROFESSOR JOSÉ DE SOUZA HERDY",
+            "campus": "Campus Duque de Caxias",
+            "pontos": "0"
+        },
+        {
+            "id": "285",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE DO GRANDE RIO PROFESSOR JOSÉ DE SOUZA HERDY",
+            "campus": "Campus Barra da Tijuca",
+            "pontos": "0"
+        },
+        {
+            "id": "286",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE ESTÁCIO DE SÁ",
+            "campus": "Campus Vista Carioca",
+            "pontos": "0"
+        },
+        {
+            "id": "287",
+            "uf": "RJ",
+            "municipio": "Angra dos Reis",
+            "ies": "UNIVERSIDADE ESTÁCIO DE SÁ",
+            "campus": "Campus Angra dos Reis",
+            "pontos": "0"
+        },
+        {
+            "id": "288",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE ESTÁCIO DE SÁ",
+            "campus": "Campus Cittá",
+            "pontos": "0"
+        },
+        {
+            "id": "289",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE FEDERAL DO ESTADO DO RIO DE JANEIRO",
+            "campus": "Campus Mariz e Barros",
+            "pontos": "0"
+        },
+        {
+            "id": "290",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+            "campus": "Campus Fundão",
+            "pontos": "0"
+        },
+        {
+            "id": "291",
+            "uf": "RJ",
+            "municipio": "Macaé",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO DE JANEIRO",
+            "campus": "Campus Macaé",
+            "pontos": "0"
+        },
+        {
+            "id": "292",
+            "uf": "RJ",
+            "municipio": "Niterói",
+            "ies": "UNIVERSIDADE FEDERAL FLUMINENSE",
+            "campus": "Campus Niterói",
+            "pontos": "0"
+        },
+        {
+            "id": "293",
+            "uf": "RJ",
+            "municipio": "Itaperuna",
+            "ies": "UNIVERSIDADE IGUAÇU",
+            "campus": "Campus Itaperuna",
+            "pontos": "0"
+        },
+        {
+            "id": "294",
+            "uf": "RJ",
+            "municipio": "Nova Iguaçu",
+            "ies": "UNIVERSIDADE IGUAÇU",
+            "campus": "Campus Nova Iguaçu",
+            "pontos": "0"
+        },
+        {
+            "id": "295",
+            "uf": "RJ",
+            "municipio": "Rio de Janeiro",
+            "ies": "UNIVERSIDADE VEIGA DE ALMEIDA",
+            "campus": "Campus Botafogo",
+            "pontos": "0"
+        },
+        {
+            "id": "296",
+            "uf": "RN",
+            "municipio": "Mossoró",
+            "ies": "FACULDADE DE ENFERMAGEM NOVA ESPERANÇA DE MOSSORÓ - FACENE/RN",
+            "campus": "Campus Mossoró",
+            "pontos": "0"
+        },
+        {
+            "id": "297",
+            "uf": "RN",
+            "municipio": "Mossoró",
+            "ies": "UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE",
+            "campus": "Campus Mossoró",
+            "pontos": "0"
+        },
+        {
+            "id": "298",
+            "uf": "RN",
+            "municipio": "Caicó",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+            "campus": "Campus Caicó",
+            "pontos": "0"
+        },
+        {
+            "id": "299",
+            "uf": "RN",
+            "municipio": "Natal",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE",
+            "campus": "Campus Natal",
+            "pontos": "0"
+        },
+        {
+            "id": "300",
+            "uf": "RN",
+            "municipio": "Mossoró",
+            "ies": "UNIVERSIDADE FEDERAL RURAL DO SEMI-ÁRIDO",
+            "campus": "Campus Mossoró",
+            "pontos": "0"
+        },
+        {
+            "id": "301",
+            "uf": "RN",
+            "municipio": "Natal",
+            "ies": "UNIVERSIDADE POTIGUAR",
+            "campus": "Campus Natal",
+            "pontos": "0"
+        },
+        {
+            "id": "302",
+            "uf": "RO",
+            "municipio": "Porto Velho",
+            "ies": "CENTRO UNIVERSITÁRIO APARÍCIO CARVALHO",
+            "campus": "Campus Porto Velho",
+            "pontos": "0"
+        },
+        {
+            "id": "303",
+            "uf": "RO",
+            "municipio": "Ji-Paraná",
+            "ies": "CENTRO UNIVERSITÁRIO ESTÁCIO DE JI-PARANÁ",
+            "campus": "Campus UNIJIPA - Antigo I",
+            "pontos": "0"
+        },
+        {
+            "id": "304",
+            "uf": "RO",
+            "municipio": "Cacoal",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE CACOAL",
+            "campus": "Campus Cacoal",
+            "pontos": "0"
+        },
+        {
+            "id": "305",
+            "uf": "RO",
+            "municipio": "Ji-Paraná",
+            "ies": "CENTRO UNIVERSITÁRIO SÃO LUCAS Ji-PARANÁ",
+            "campus": "Campus Sede",
+            "pontos": "0"
+        },
+        {
+            "id": "306",
+            "uf": "RO",
+            "municipio": "Porto Velho",
+            "ies": "CENTRO UNIVERSITÁRIO SÃO LUCAS PORTO VELHO",
+            "campus": "Campus 1",
+            "pontos": "0"
+        },
+        {
+            "id": "307",
+            "uf": "RO",
+            "municipio": "Jaru",
+            "ies": "FACULDADE DE EDUCAÇÃO DE JARU",
+            "campus": "Campus Jaru",
+            "pontos": "0"
+        },
+        {
+            "id": "308",
+            "uf": "RO",
+            "municipio": "Ji-Paraná",
+            "ies": "FACULDADE DE MEDICINA DE Ji-PARANÁ",
+            "campus": "Campus Ji-Paraná",
+            "pontos": "0"
+        },
+        {
+            "id": "309",
+            "uf": "RO",
+            "municipio": "Porto Velho",
+            "ies": "FACULDADE METROPOLITANA",
+            "campus": "Campus Porto Velho",
+            "pontos": "0"
+        },
+        {
+            "id": "310",
+            "uf": "RO",
+            "municipio": "Vilhena",
+            "ies": "CENTRO UNIVERSITÁRIO MAURÍCIO DE NASSAU DE VILHENA",
+            "campus": "Campus Vilhena",
+            "pontos": "0"
+        },
+        {
+            "id": "311",
+            "uf": "RO",
+            "municipio": "Porto Velho",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE RONDÔNIA",
+            "campus": "Campus Porto Velho",
+            "pontos": "0"
+        },
+        {
+            "id": "312",
+            "uf": "RO",
+            "municipio": "Vilhena",
+            "ies": "CENTRO UNIVERSITÁRIO APARÍCIO CARVALHO",
+            "campus": "",
+            "pontos": "0"
+        },
+        {
+            "id": "313",
+            "uf": "RR",
+            "municipio": "Boa Vista",
+            "ies": "FACULDADE CATHEDRAL",
+            "campus": "Campus Boa Vista",
+            "pontos": "0"
+        },
+        {
+            "id": "314",
+            "uf": "RR",
+            "municipio": "Boa Vista",
+            "ies": "UNIVERSIDADE ESTADUAL DE RORAIMA",
+            "campus": "Campus Boa Vista",
+            "pontos": "0"
+        },
+        {
+            "id": "315",
+            "uf": "RR",
+            "municipio": "Boa Vista",
+            "ies": "UNIVERSIDADE FEDERAL DE RORAIMA",
+            "campus": "Campus Boa Vista",
+            "pontos": "0"
+        },
+        {
+            "id": "316",
+            "uf": "RS",
+            "municipio": "Passo Fundo",
+            "ies": "FACULDADE ATITUS EDUCAÇÃO PASSO FUNDO",
+            "campus": "Campus Passo Fundo",
+            "pontos": "0"
+        },
+        {
+            "id": "317",
+            "uf": "RS",
+            "municipio": "Porto Alegre",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DE CIÊNCIAS DA SAÚDE DE PORTO ALEGRE",
+            "campus": "Campus Porto Alegre",
+            "pontos": "0"
+        },
+        {
+            "id": "318",
+            "uf": "RS",
+            "municipio": "Uruguaiana",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA",
+            "campus": "Campus Uruguaiana",
+            "pontos": "0"
+        },
+        {
+            "id": "319",
+            "uf": "RS",
+            "municipio": "Porto Alegre",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DO RIO GRANDE DO SUL",
+            "campus": "Campus Porto Alegre",
+            "pontos": "0"
+        },
+        {
+            "id": "320",
+            "uf": "RS",
+            "municipio": "Pelotas",
+            "ies": "UNIVERSIDADE CATÓLICA DE PELOTAS",
+            "campus": "Campus Pelotas",
+            "pontos": "0"
+        },
+        {
+            "id": "321",
+            "uf": "RS",
+            "municipio": "Caxias do Sul",
+            "ies": "UNIVERSIDADE DE CAXIAS DO SUL",
+            "campus": "Campus Caxias do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "322",
+            "uf": "RS",
+            "municipio": "Passo Fundo",
+            "ies": "UNIVERSIDADE DE PASSO FUNDO",
+            "campus": "Campus Passo Fundo",
+            "pontos": "0"
+        },
+        {
+            "id": "323",
+            "uf": "RS",
+            "municipio": "Santa Cruz do Sul",
+            "ies": "UNIVERSIDADE DE SANTA CRUZ DO SUL",
+            "campus": "Campus Santa Cruz do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "324",
+            "uf": "RS",
+            "municipio": "São Leopoldo",
+            "ies": "UNIVERSIDADE DO VALE DO RIO DOS SINOS",
+            "campus": "Campus São Leopoldo",
+            "pontos": "0"
+        },
+        {
+            "id": "325",
+            "uf": "RS",
+            "municipio": "Lajeado",
+            "ies": "UNIVERSIDADE DO VALE DO TAQUARI",
+            "campus": "Campus Lajeado",
+            "pontos": "0"
+        },
+        {
+            "id": "326",
+            "uf": "RS",
+            "municipio": "Passo Fundo",
+            "ies": "UNIVERSIDADE FEDERAL DA FRONTEIRA SUL",
+            "campus": "Campus Passo Fundo",
+            "pontos": "0"
+        },
+        {
+            "id": "327",
+            "uf": "RS",
+            "municipio": "Pelotas",
+            "ies": "UNIVERSIDADE FEDERAL DE PELOTAS",
+            "campus": "Campus Pelotas",
+            "pontos": "0"
+        },
+        {
+            "id": "328",
+            "uf": "RS",
+            "municipio": "Santa Maria",
+            "ies": "UNIVERSIDADE FEDERAL DE SANTA MARIA",
+            "campus": "Campus Santa Maria",
+            "pontos": "0"
+        },
+        {
+            "id": "329",
+            "uf": "RS",
+            "municipio": "Rio Grande",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO GRANDE",
+            "campus": "Campus Rio Grande",
+            "pontos": "0"
+        },
+        {
+            "id": "330",
+            "uf": "RS",
+            "municipio": "Porto Alegre",
+            "ies": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+            "campus": "Campus Porto Alegre",
+            "pontos": "0"
+        },
+        {
+            "id": "331",
+            "uf": "RS",
+            "municipio": "Novo Hamburgo",
+            "ies": "UNIVERSIDADE FEEVALE",
+            "campus": "Campus Novo Hamburgo",
+            "pontos": "0"
+        },
+        {
+            "id": "332",
+            "uf": "RS",
+            "municipio": "Santa Maria",
+            "ies": "UNIVERSIDADE FRANCISCANA",
+            "campus": "Campus Santa Maria",
+            "pontos": "0"
+        },
+        {
+            "id": "333",
+            "uf": "RS",
+            "municipio": "Canoas",
+            "ies": "UNIVERSIDADE LUTERANA DO BRASIL",
+            "campus": "Campus Canoas",
+            "pontos": "0"
+        },
+        {
+            "id": "334",
+            "uf": "RS",
+            "municipio": "Ijuí",
+            "ies": "UNIVERSIDADE REGIONAL DO NOROESTE DO ESTADO DO RIO GRANDE DO SUL",
+            "campus": "Campus Ijuí",
+            "pontos": "0"
+        },
+        {
+            "id": "335",
+            "uf": "RS",
+            "municipio": "Erechim",
+            "ies": "UNIVERSIDADE REGIONAL INTEGRADA DO ALTO URUGUAI E DAS MISSÕES",
+            "campus": "Campus Erechim",
+            "pontos": "0"
+        },
+        {
+            "id": "336",
+            "uf": "SC",
+            "municipio": "Brusque",
+            "ies": "CENTRO UNIVERSITÁRIO DE BRUSQUE",
+            "campus": "Campus Brusque",
+            "pontos": "0"
+        },
+        {
+            "id": "337",
+            "uf": "SC",
+            "municipio": "Rio do Sul",
+            "ies": "CENTRO UNIVERSITÁRIO PARA O DESENVOLVIMENTO DO ALTO VALE DO ITAJAÍ",
+            "campus": "Campus Rio do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "338",
+            "uf": "SC",
+            "municipio": "Jaraguá do Sul",
+            "ies": "FACULDADE ESTÁCIO DE JARAGUÁ DO SUL",
+            "campus": "Campus Jaraguá do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "339",
+            "uf": "SC",
+            "municipio": "Caçador",
+            "ies": "UNIVERSIDADE ALTO VALE DO RIO DO PEIXE",
+            "campus": "Campus Caçador",
+            "pontos": "0"
+        },
+        {
+            "id": "340",
+            "uf": "SC",
+            "municipio": "Chapecó",
+            "ies": "UNIVERSIDADE COMUNITÁRIA DA REGIÃO DE CHAPECÓ",
+            "campus": "Campus Chapecó",
+            "pontos": "0"
+        },
+        {
+            "id": "341",
+            "uf": "SC",
+            "municipio": "Joinville",
+            "ies": "UNIVERSIDADE DA REGIÃO DE JOINVILLE",
+            "campus": "Campus Joinville",
+            "pontos": "0"
+        },
+        {
+            "id": "342",
+            "uf": "SC",
+            "municipio": "Porto União",
+            "ies": "UNIVERSIDADE DO CONTESTADO",
+            "campus": "Campus Porto União",
+            "pontos": "0"
+        },
+        {
+            "id": "343",
+            "uf": "SC",
+            "municipio": "Concórdia",
+            "ies": "UNIVERSIDADE DO CONTESTADO",
+            "campus": "Campus Concórdia",
+            "pontos": "0"
+        },
+        {
+            "id": "344",
+            "uf": "SC",
+            "municipio": "Mafra",
+            "ies": "UNIVERSIDADE DO CONTESTADO",
+            "campus": "Campus Mafra",
+            "pontos": "0"
+        },
+        {
+            "id": "345",
+            "uf": "SC",
+            "municipio": "Criciúma",
+            "ies": "UNIVERSIDADE DO EXTREMO SUL CATARINENSE",
+            "campus": "Campus Criciúma",
+            "pontos": "0"
+        },
+        {
+            "id": "346",
+            "uf": "SC",
+            "municipio": "Joaçaba",
+            "ies": "UNIVERSIDADE DO OESTE DE SANTA CATARINA",
+            "campus": "Campus Joaçaba",
+            "pontos": "0"
+        },
+        {
+            "id": "347",
+            "uf": "SC",
+            "municipio": "Lages",
+            "ies": "UNIVERSIDADE DO PLANALTO CATARINENSE",
+            "campus": "Campus Lages",
+            "pontos": "0"
+        },
+        {
+            "id": "348",
+            "uf": "SC",
+            "municipio": "Palhoça",
+            "ies": "UNIVERSIDADE DO SUL DE SANTA CATARINA",
+            "campus": "Campus Palhoça",
+            "pontos": "0"
+        },
+        {
+            "id": "349",
+            "uf": "SC",
+            "municipio": "Tubarão",
+            "ies": "UNIVERSIDADE DO SUL DE SANTA CATARINA",
+            "campus": "Campus Tubarão",
+            "pontos": "0"
+        },
+        {
+            "id": "350",
+            "uf": "SC",
+            "municipio": "Itajaí",
+            "ies": "UNIVERSIDADE DO VALE DO ITAJAÍ",
+            "campus": "Campus Itajaí",
+            "pontos": "0"
+        },
+        {
+            "id": "351",
+            "uf": "SC",
+            "municipio": "Chapecó",
+            "ies": "UNIVERSIDADE FEDERAL DA FRONTEIRA SUL",
+            "campus": "Campus Chapecó",
+            "pontos": "0"
+        },
+        {
+            "id": "352",
+            "uf": "SC",
+            "municipio": "Florianópolis",
+            "ies": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+            "campus": "Campus Florianópolis",
+            "pontos": "0"
+        },
+        {
+            "id": "353",
+            "uf": "SC",
+            "municipio": "Curitibanos",
+            "ies": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+            "campus": "Campus Curitibanos",
+            "pontos": "0"
+        },
+        {
+            "id": "354",
+            "uf": "SC",
+            "municipio": "Araranguá",
+            "ies": "UNIVERSIDADE FEDERAL DE SANTA CATARINA",
+            "campus": "Campus Araranguá",
+            "pontos": "0"
+        },
+        {
+            "id": "355",
+            "uf": "SC",
+            "municipio": "Blumenau",
+            "ies": "UNIVERSIDADE REGIONAL DE BLUMENAU",
+            "campus": "Campus Blumenau",
+            "pontos": "0"
+        },
+        {
+            "id": "356",
+            "uf": "SE",
+            "municipio": "Aracaju",
+            "ies": "UNIVERSIDADE FEDERAL DE SERGIPE",
+            "campus": "Campus Aracaju",
+            "pontos": "0"
+        },
+        {
+            "id": "357",
+            "uf": "SE",
+            "municipio": "Lagarto",
+            "ies": "UNIVERSIDADE FEDERAL DE SERGIPE",
+            "campus": "Campus Lagarto",
+            "pontos": "0"
+        },
+        {
+            "id": "358",
+            "uf": "SE",
+            "municipio": "Estância",
+            "ies": "UNIVERSIDADE TIRADENTES",
+            "campus": "Campus Estância",
+            "pontos": "0"
+        },
+        {
+            "id": "359",
+            "uf": "SE",
+            "municipio": "Aracaju",
+            "ies": "UNIVERSIDADE TIRADENTES",
+            "campus": "Campus Aracaju",
+            "pontos": "0"
+        },
+        {
+            "id": "360",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "CENTRO UNIVERSITÁRIO DAS AMÉRICAS",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "361",
+            "uf": "SP",
+            "municipio": "Ribeirão Preto",
+            "ies": "CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ",
+            "campus": "Campus Ribeirão Preto",
+            "pontos": "5"
+        },
+        {
+            "id": "362",
+            "uf": "SP",
+            "municipio": "Campo Limpo Paulista",
+            "ies": "CENTRO UNIVERSITÁRIO CAMPO LIMPO PAULISTA",
+            "campus": "Campus Campo Limpo Paulista",
+            "pontos": "1"
+        },
+        {
+            "id": "363",
+            "uf": "SP",
+            "municipio": "Araçatuba",
+            "ies": "CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM",
+            "campus": "Campus Araçatuba",
+            "pontos": "0"
+        },
+        {
+            "id": "364",
+            "uf": "SP",
+            "municipio": "São João da Boa Vista",
+            "ies": "CENTRO UNIVERSITÁRIO DAS FACULDADES ASSOCIADAS DE ENSINO - FAE",
+            "campus": "Campus São João da Boa Vista",
+            "pontos": "0"
+        },
+        {
+            "id": "365",
+            "uf": "SP",
+            "municipio": "Adamantina",
+            "ies": "CENTRO UNIVERSITÁRIO DE ADAMANTINA",
+            "campus": "Campus Adamantina",
+            "pontos": "0"
+        },
+        {
+            "id": "366",
+            "uf": "SP",
+            "municipio": "Jaguariúna",
+            "ies": "CENTRO UNIVERSITÁRIO DE JAGUARIÚNA",
+            "campus": "Campus Jaguariúna",
+            "pontos": "0"
+        },
+        {
+            "id": "367",
+            "uf": "SP",
+            "municipio": "Santa Fé do Sul",
+            "ies": "CENTRO UNIVERSITÁRIO DE SANTA FÉ DO SUL",
+            "campus": "Campus Santa Fé do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "368",
+            "uf": "SP",
+            "municipio": "Votuporanga",
+            "ies": "CENTRO UNIVERSITÁRIO DE VOTUPORANGA",
+            "campus": "Campus Votuporanga",
+            "pontos": "0"
+        },
+        {
+            "id": "369",
+            "uf": "SP",
+            "municipio": "Ribeirão Preto",
+            "ies": "CENTRO UNIVERSITÁRIO ESTÁCIO DE RIBEIRÃO PRETO",
+            "campus": "Campus Ribeirão Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "370",
+            "uf": "SP",
+            "municipio": "Santo André",
+            "ies": "CENTRO UNIVERSITÁRIO FMABC",
+            "campus": "Campus Santo André",
+            "pontos": "0"
+        },
+        {
+            "id": "371",
+            "uf": "SP",
+            "municipio": "Santos",
+            "ies": "CENTRO UNIVERSITÁRIO LUSÍADA",
+            "campus": "Campus Santos",
+            "pontos": "0"
+        },
+        {
+            "id": "372",
+            "uf": "SP",
+            "municipio": "Indaiatuba",
+            "ies": "CENTRO UNIVERSITÁRIO MAX PLANCK",
+            "campus": "Campus Indaiatuba",
+            "pontos": "0"
+        },
+        {
+            "id": "373",
+            "uf": "SP",
+            "municipio": "Franca",
+            "ies": "CENTRO UNIVERSITÁRIO MUNICIPAL DE FRANCA",
+            "campus": "Campus Franca",
+            "pontos": "0"
+        },
+        {
+            "id": "374",
+            "uf": "SP",
+            "municipio": "Itu",
+            "ies": "CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCÍNIO",
+            "campus": "Campus Itu",
+            "pontos": "0"
+        },
+        {
+            "id": "375",
+            "uf": "SP",
+            "municipio": "Catanduva",
+            "ies": "CENTRO UNIVERSITÁRIO PADRE ALBINO",
+            "campus": "Campus Catanduva",
+            "pontos": "0"
+        },
+        {
+            "id": "376",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "CENTRO UNIVERSITÁRIO SÃO CAMILO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "377",
+            "uf": "SP",
+            "municipio": "Avaré",
+            "ies": "CENTRO UNIVERSITÁRIO SUDOESTE PAULISTA",
+            "campus": "Campus Avaré",
+            "pontos": "0"
+        },
+        {
+            "id": "378",
+            "uf": "SP",
+            "municipio": "Rio Claro",
+            "ies": "CLARETIANO - CENTRO UNIVERSITÁRIO",
+            "campus": "Campus Rio Claro",
+            "pontos": "0"
+        },
+        {
+            "id": "379",
+            "uf": "SP",
+            "municipio": "São José do Rio Preto",
+            "ies": "FACULDADE CERES",
+            "campus": "Campus São José do Rio Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "380",
+            "uf": "SP",
+            "municipio": "Barretos",
+            "ies": "FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA",
+            "campus": "Campus Barretos",
+            "pontos": "0"
+        },
+        {
+            "id": "381",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO",
+            "campus": "Campus São Paulo - Vila Buarque",
+            "pontos": "0"
+        },
+        {
+            "id": "382",
+            "uf": "SP",
+            "municipio": "São José dos Campos",
+            "ies": "FACULDADE DE CIÊNCIAS MÉDICAS DE SÃO JOSÉ DOS CAMPOS",
+            "campus": "Campus São José dos Campos",
+            "pontos": "0"
+        },
+        {
+            "id": "383",
+            "uf": "SP",
+            "municipio": "Penápolis",
+            "ies": "FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE PENÁPOLIS",
+            "campus": "Campus Penápolis",
+            "pontos": "0"
+        },
+        {
+            "id": "384",
+            "uf": "SP",
+            "municipio": "Jundiaí",
+            "ies": "FACULDADE DE MEDICINA DE JUNDIAÍ",
+            "campus": "Campus Jundiaí",
+            "pontos": "0"
+        },
+        {
+            "id": "385",
+            "uf": "SP",
+            "municipio": "Marí­lia",
+            "ies": "FACULDADE DE MEDICINA DE MARÍLIA",
+            "campus": "Campus Marí­lia",
+            "pontos": "0"
+        },
+        {
+            "id": "386",
+            "uf": "SP",
+            "municipio": "São José do Rio Preto",
+            "ies": "FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO",
+            "campus": "Campus São José do Rio Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "387",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "FACULDADE ISRAELITA DE CIÊNCIAS DA SAÚDE ALBERT EINSTEIN",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "388",
+            "uf": "SP",
+            "municipio": "Mogi Guaçu",
+            "ies": "FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU",
+            "campus": "Campus Mogi Guaçu",
+            "pontos": "0"
+        },
+        {
+            "id": "389",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "FACULDADE SANTA MARCELINA",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "390",
+            "uf": "SP",
+            "municipio": "Campinas",
+            "ies": "FACULDADE SÃO LEOPOLDO MANDIC",
+            "campus": "Campus Campinas",
+            "pontos": "0"
+        },
+        {
+            "id": "391",
+            "uf": "SP",
+            "municipio": "Araras",
+            "ies": "FACULDADE SÃO LEOPOLDO MANDIC DE ARARAS",
+            "campus": "Campus Araras",
+            "pontos": "0"
+        },
+        {
+            "id": "392",
+            "uf": "SP",
+            "municipio": "Limeira",
+            "ies": "FACULDADE SÃO LEOPOLDO MANDIC DE LIMEIRA",
+            "campus": "Campus Limeira",
+            "pontos": "0"
+        },
+        {
+            "id": "393",
+            "uf": "SP",
+            "municipio": "Dracena",
+            "ies": "FACULDADES DE DRACENA",
+            "campus": "Campus Dracena",
+            "pontos": "0"
+        },
+        {
+            "id": "394",
+            "uf": "SP",
+            "municipio": "Assis",
+            "ies": "INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE ASSIS",
+            "campus": "Campus Assis",
+            "pontos": "0"
+        },
+        {
+            "id": "395",
+            "uf": "SP",
+            "municipio": "Campinas",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS",
+            "campus": "Campus Campinas",
+            "pontos": "0"
+        },
+        {
+            "id": "396",
+            "uf": "SP",
+            "municipio": "Sorocaba",
+            "ies": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+            "campus": "Campus Sorocaba",
+            "pontos": "0"
+        },
+        {
+            "id": "397",
+            "uf": "SP",
+            "municipio": "São José do Rio Preto",
+            "ies": "UNIÃO DAS FACULDADES DOS GRANDES LAGOS",
+            "campus": "Campus São José do Rio Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "398",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE ANHEMBI MORUMBI",
+            "campus": "Campus Mooca",
+            "pontos": "0"
+        },
+        {
+            "id": "399",
+            "uf": "SP",
+            "municipio": "Piracicaba",
+            "ies": "UNIVERSIDADE ANHEMBI MORUMBI",
+            "campus": "Campus Piracicaba",
+            "pontos": "0"
+        },
+        {
+            "id": "400",
+            "uf": "SP",
+            "municipio": "São José dos Campos",
+            "ies": "UNIVERSIDADE ANHEMBI MORUMBI",
+            "campus": "Campus São José dos Campos",
+            "pontos": "0"
+        },
+        {
+            "id": "401",
+            "uf": "SP",
+            "municipio": "Fernandópolis",
+            "ies": "UNIVERSIDADE BRASIL",
+            "campus": "Campus Fernandópolis",
+            "pontos": "0"
+        },
+        {
+            "id": "402",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE CIDADE DE SÃO PAULO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "403",
+            "uf": "SP",
+            "municipio": "Araraquara",
+            "ies": "UNIVERSIDADE DE ARARAQUARA",
+            "campus": "Campus Araraquara",
+            "pontos": "0"
+        },
+        {
+            "id": "404",
+            "uf": "SP",
+            "municipio": "Franca",
+            "ies": "UNIVERSIDADE DE FRANCA",
+            "campus": "Campus Franca",
+            "pontos": "0"
+        },
+        {
+            "id": "405",
+            "uf": "SP",
+            "municipio": "Marí­lia",
+            "ies": "UNIVERSIDADE DE MARÍLIA",
+            "campus": "Campus Marí­lia",
+            "pontos": "0"
+        },
+        {
+            "id": "406",
+            "uf": "SP",
+            "municipio": "Mogi das Cruzes",
+            "ies": "UNIVERSIDADE DE MOGI DAS CRUZES",
+            "campus": "Campus Mogi das Cruzes",
+            "pontos": "0"
+        },
+        {
+            "id": "407",
+            "uf": "SP",
+            "municipio": "Ribeirão Preto",
+            "ies": "UNIVERSIDADE DE RIBEIRÃO PRETO",
+            "campus": "Campus Ribeirão Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "408",
+            "uf": "SP",
+            "municipio": "Guarujá",
+            "ies": "UNIVERSIDADE DE RIBEIRÃO PRETO",
+            "campus": "Campus Guarujá",
+            "pontos": "0"
+        },
+        {
+            "id": "409",
+            "uf": "SP",
+            "municipio": "Ribeirão Preto",
+            "ies": "UNIVERSIDADE DE SÃO PAULO",
+            "campus": "Campus Ribeirão Preto",
+            "pontos": "0"
+        },
+        {
+            "id": "410",
+            "uf": "SP",
+            "municipio": "Bauru",
+            "ies": "UNIVERSIDADE DE SÃO PAULO",
+            "campus": "Campus Bauru",
+            "pontos": "0"
+        },
+        {
+            "id": "411",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE DE SÃO PAULO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "412",
+            "uf": "SP",
+            "municipio": "Caraguatatuba",
+            "ies": "UNIVERSIDADE DE TAUBATÉ",
+            "campus": "Campus Caraguatatuba",
+            "pontos": "0"
+        },
+        {
+            "id": "413",
+            "uf": "SP",
+            "municipio": "Taubaté",
+            "ies": "UNIVERSIDADE DE TAUBATÉ",
+            "campus": "Campus Taubaté",
+            "pontos": "0"
+        },
+        {
+            "id": "414",
+            "uf": "SP",
+            "municipio": "Presidente Prudente",
+            "ies": "UNIVERSIDADE DO OESTE PAULISTA",
+            "campus": "Campus Presidente Prudente",
+            "pontos": "0"
+        },
+        {
+            "id": "415",
+            "uf": "SP",
+            "municipio": "Guarujá",
+            "ies": "UNIVERSIDADE DO OESTE PAULISTA",
+            "campus": "Campus Guarujá",
+            "pontos": "0"
+        },
+        {
+            "id": "416",
+            "uf": "SP",
+            "municipio": "Jaú",
+            "ies": "UNIVERSIDADE DO OESTE PAULISTA",
+            "campus": "Campus Jaú",
+            "pontos": "0"
+        },
+        {
+            "id": "417",
+            "uf": "SP",
+            "municipio": "Campinas",
+            "ies": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+            "campus": "Campus Campinas",
+            "pontos": "0"
+        },
+        {
+            "id": "418",
+            "uf": "SP",
+            "municipio": "Botucatu",
+            "ies": "UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO",
+            "campus": "Campus Botucatu",
+            "pontos": "0"
+        },
+        {
+            "id": "419",
+            "uf": "SP",
+            "municipio": "São Carlos",
+            "ies": "UNIVERSIDADE FEDERAL DE SÃO CARLOS",
+            "campus": "Campus São Carlos",
+            "pontos": "0"
+        },
+        {
+            "id": "420",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE FEDERAL DE SÃO PAULO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "421",
+            "uf": "SP",
+            "municipio": "Santos",
+            "ies": "UNIVERSIDADE METROPOLITANA DE SANTOS",
+            "campus": "Campus Santos",
+            "pontos": "0"
+        },
+        {
+            "id": "422",
+            "uf": "SP",
+            "municipio": "Itapetininga",
+            "ies": "UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL",
+            "campus": "Campus Itapetininga",
+            "pontos": "0"
+        },
+        {
+            "id": "423",
+            "uf": "SP",
+            "municipio": "São Caetano do Sul",
+            "ies": "UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL",
+            "campus": "Campus São Caetano do Sul",
+            "pontos": "0"
+        },
+        {
+            "id": "424",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "425",
+            "uf": "SP",
+            "municipio": "Osasco",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus Osasco",
+            "pontos": "0"
+        },
+        {
+            "id": "426",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "427",
+            "uf": "SP",
+            "municipio": "São Bernardo do Campo",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus São Bernardo do Campo",
+            "pontos": "0"
+        },
+        {
+            "id": "428",
+            "uf": "SP",
+            "municipio": "Guarulhos",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus Guarulhos",
+            "pontos": "0"
+        },
+        {
+            "id": "429",
+            "uf": "SP",
+            "municipio": "Mauá",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus Mauá",
+            "pontos": "0"
+        },
+        {
+            "id": "430",
+            "uf": "SP",
+            "municipio": "Bauru",
+            "ies": "UNIVERSIDADE NOVE DE JULHO",
+            "campus": "Campus Bauru",
+            "pontos": "0"
+        },
+        {
+            "id": "431",
+            "uf": "SP",
+            "municipio": "Campinas",
+            "ies": "UNIVERSIDADE PAULISTA",
+            "campus": "Campus Campinas",
+            "pontos": "0"
+        },
+        {
+            "id": "432",
+            "uf": "SP",
+            "municipio": "São José do Rio Pardo",
+            "ies": "UNIVERSIDADE PAULISTA",
+            "campus": "Campus São José do Rio Pardo",
+            "pontos": "0"
+        },
+        {
+            "id": "433",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE PAULISTA",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "434",
+            "uf": "SP",
+            "municipio": "Sorocaba",
+            "ies": "UNIVERSIDADE PAULISTA",
+            "campus": "Campus Sorocaba",
+            "pontos": "0"
+        },
+        {
+            "id": "435",
+            "uf": "SP",
+            "municipio": "Santana de Parnaiba",
+            "ies": "UNIVERSIDADE PAULISTA",
+            "campus": "Campus Santana de Parnaíba",
+            "pontos": "0"
+        },
+        {
+            "id": "436",
+            "uf": "SP",
+            "municipio": "São Paulo",
+            "ies": "UNIVERSIDADE SANTO AMARO",
+            "campus": "Campus São Paulo",
+            "pontos": "0"
+        },
+        {
+            "id": "437",
+            "uf": "SP",
+            "municipio": "Guarulhos",
+            "ies": "UNIVERSIDADE SANTO AMARO",
+            "campus": "Campus Guarulhos",
+            "pontos": "0"
+        },
+        {
+            "id": "438",
+            "uf": "SP",
+            "municipio": "Bragança Paulista",
+            "ies": "UNIVERSIDADE SÃO FRANCISCO",
+            "campus": "Campus Bragança Paulista",
+            "pontos": "0"
+        },
+        {
+            "id": "439",
+            "uf": "SP",
+            "municipio": "Cubatão",
+            "ies": "UNIVERSIDADE SÃO JUDAS TADEU",
+            "campus": "Campus Cubatão",
+            "pontos": "0"
+        },
+        {
+            "id": "440",
+            "uf": "TO",
+            "municipio": "Palmas",
+            "ies": "AFYA FACULDADE DE CIÊNCIAS MÉDICAS DE PALMAS",
+            "campus": "Campus Palmas",
+            "pontos": "0"
+        },
+        {
+            "id": "441",
+            "uf": "TO",
+            "municipio": "Araguaína",
+            "ies": "CENTRO UNIVERSITÁRIO TOCANTINENSE PRESIDENTE ANTÔNIO CARLOS",
+            "campus": "Campus Araguaína",
+            "pontos": "0"
+        },
+        {
+            "id": "442",
+            "uf": "TO",
+            "municipio": "Porto Nacional",
+            "ies": "FACULDADE PRESIDENTE ANTÔNIO CARLOS",
+            "campus": "Campus Porto Nacional",
+            "pontos": "0"
+        },
+        {
+            "id": "443",
+            "uf": "TO",
+            "municipio": "Palmas",
+            "ies": "FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS",
+            "campus": "Campus Palmas",
+            "pontos": "0"
+        },
+        {
+            "id": "444",
+            "uf": "TO",
+            "municipio": "Paraíso do Tocantins",
+            "ies": "UNIVERSIDADE DE GURUPI",
+            "campus": "Campus Paraíso do Tocantins",
+            "pontos": "0"
+        },
+        {
+            "id": "445",
+            "uf": "TO",
+            "municipio": "Gurupi",
+            "ies": "UNIVERSIDADE DE GURUPI",
+            "campus": "Campus Gurupi",
+            "pontos": "0"
+        },
+        {
+            "id": "446",
+            "uf": "TO",
+            "municipio": "Augustinópolis",
+            "ies": "UNIVERSIDADE ESTADUAL DO TOCANTINS",
+            "campus": "Campus Augustinópolis",
+            "pontos": "0"
+        },
+        {
+            "id": "447",
+            "uf": "TO",
+            "municipio": "Araguaína",
+            "ies": "UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS",
+            "campus": "Campus Araguaína",
+            "pontos": "0"
+        },
+        {
+            "id": "448",
+            "uf": "TO",
+            "municipio": "Palmas",
+            "ies": "UNIVERSIDADE LUTERANA DO BRASIL",
+            "campus": "Campus Palmas",
+            "pontos": "0"
+        },
+        {
+            "id": "449",
+            "uf": "SP",
+            "municipio": "",
+            "ies": "teste",
+            "campus": "teste",
+            "pontos": "2"
+        },
+        {
+            "id": "450",
+            "uf": "AC",
+            "municipio": "",
+            "ies": "Aleatorio",
+            "campus": "Campus aleatorio",
+            "pontos": "0"
+        }
+    ]

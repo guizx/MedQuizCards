@@ -12,5 +12,6 @@ namespace Nato.StateMachine
         [field: SerializeField] public MainScreenUI MainScreenUI { get; private set; }
         [field: SerializeField] public QuestionUI QuestionUI {get; private set;}
         [field: SerializeField] public RankingUI RankingUI { get; private set; }
+        [field: SerializeField] public UniversityCreateUI UniversityCreateUI { get; private set; }
     }
 }

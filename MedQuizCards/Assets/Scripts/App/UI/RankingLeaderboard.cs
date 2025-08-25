@@ -21,7 +21,7 @@ namespace MedQuizCards
 
         public void Setup(int position, UniversityRanking university)
         {
-            if(position <= 3 && university.Score > 0)
+            if(position <= 3 && university.Pontos > 0)
             {
                 medalContainer.SetActive(true);
                 int indexMedal = position - 1;
@@ -37,11 +37,11 @@ namespace MedQuizCards
 
             UniversityRanking = university;
             RankingPositionText.SetText($"{position + 1}.");
-            string name = $"{university.UniversityName} {university.City}";
+            string name = $"{university.IES} {university.Campus}";
             UniversityNameText.SetText(name);
             if (QuizManager.Instance.ShowInUppercase)
                 UniversityNameText.fontStyle = FontStyles.UpperCase;
-            ScoreText.SetText($"{university.Score.ToString("D2")}");
+            ScoreText.SetText($"{UniversityRanking.Pontos.ToString("D2")} pts");
         }
 
         public void UpdateUI(int position)
@@ -49,7 +49,7 @@ namespace MedQuizCards
             if (UniversityRanking == null)
                 return;
 
-            if (position <= 3 && UniversityRanking.Score > 0)
+            if (position <= 3 && UniversityRanking.Pontos > 0)
             {
                 medalContainer.SetActive(true);
                 int indexMedal = position - 1;
@@ -64,12 +64,12 @@ namespace MedQuizCards
             }
 
             RankingPositionText.SetText($"{position}.");
-            string name = $"{UniversityRanking.UniversityName} {UniversityRanking.City}";
+            string name = $"{UniversityRanking.IES} {UniversityRanking.Municipio}";
             UniversityNameText.SetText(name);
             if (QuizManager.Instance.ShowInUppercase)
                 UniversityNameText.fontStyle = FontStyles.UpperCase;
 
-            ScoreText.SetText($"{UniversityRanking.Score.ToString("D2")} pts");
+            ScoreText.SetText($"{UniversityRanking.Pontos.ToString("D2")} pts");
         }
 
     }

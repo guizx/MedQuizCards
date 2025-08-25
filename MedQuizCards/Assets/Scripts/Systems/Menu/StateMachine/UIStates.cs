@@ -14,6 +14,7 @@ namespace Nato.StateMachine
         [field: SerializeField] public UIQuestionState QuestionState { get; private set; }
         [field: SerializeField] public UIRankingState RankingState { get; private set; }
         [field: SerializeField] public UITitleScreenState TitleScreenState { get; private set; }
+        [field: SerializeField] public UIUniversityCreateState UniversityCreateState { get; private set; }
 
 
         protected override void Awake()
@@ -26,6 +27,7 @@ namespace Nato.StateMachine
             RankingState = new UIRankingState();
             TitleScreenState = new UITitleScreenState();
             UFSelectionState = new UIUFSelectionState();
+            UniversityCreateState = new UIUniversityCreateState();
         }
 
         private void OnDestroy()
@@ -37,6 +39,7 @@ namespace Nato.StateMachine
             RankingState.OnDestroyTick();
             TitleScreenState.OnDestroyTick();
             UFSelectionState.OnDestroyTick();
+            UniversityCreateState.OnDestroyTick();
         }
     }
 }

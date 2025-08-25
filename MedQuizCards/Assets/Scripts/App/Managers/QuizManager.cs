@@ -28,37 +28,50 @@ namespace MedQuizCards
         public bool ShowInUppercase;
         public bool RemoveAccents;
 
+        public UniversityDatabase UniversityDatabase;
 
-        protected override void Awake()
+        public static Action OnDatabaseReload;
+
+
+        private void Start()
         {
-            base.Awake();
-            UniversitiesNames = CSVReader.GetColumn(4); // Nome
-            UniversitiesCities = CSVReader.GetColumn(5); // Cidade
-            UniversitiesUFs = CSVReader.GetColumn(0); // Estado
-            for (int i = 0;  i < UniversitiesNames.Count; i++)
+            OnDatabaseReload += HandleDatabaseReload;
+            HandleDatabaseReload();
+        }
+
+        private void OnDestroy()
+        {
+            OnDatabaseReload -= HandleDatabaseReload;
+        }
+
+        private void HandleDatabaseReload()
+        {
+            UniversityRankings.Clear();
+            for (int i = 0; i < UniversityDatabase.Universities.Count; i++)
             {
+                UniversityDTO universityDTO = UniversityDatabase.Universities[i];
+
                 UniversityRanking university = new UniversityRanking();
-                university.Index = i;
+                university.ID = int.Parse(universityDTO.id);
+                university.IES = universityDTO.ies;
+                university.Municipio = universityDTO.municipio;
+                university.UF = universityDTO.uf;
+                university.Pontos = int.Parse(universityDTO.pontos);
+                university.Campus = universityDTO.campus;
+
 
                 if (RemoveAccents)
                 {
-                    university.UniversityName = StringUtils.RemoveAccents(UniversitiesNames[i]);
-                    university.City = StringUtils.RemoveAccents(UniversitiesCities[i]);
-                }
-                else
-                {
-                    university.UniversityName = UniversitiesNames[i];
-                    university.City = UniversitiesCities[i];
+                    university.IES = StringUtils.RemoveAccents(university.IES);
+                    university.Campus = StringUtils.RemoveAccents(university.Campus);
                 }
 
-                university.CompleteName = $"{university.UniversityName} {university.City}"; 
-                university.UF = UniversitiesUFs[i];
-                university.Score = 0;
-
-                UniversityRankings.Add(university); 
+                university.CompleteName = $"{university.IES} {university.Campus}";
+                UniversityRankings.Add(university);
             }
 
-            UniversityRankings = UniversityRankings.OrderBy(n => n.UniversityName).ToList();
+
+            UniversityRankings = UniversityRankings.OrderBy(n => n.IES).ToList();
         }
 
         public List<UniversityRanking>  GetUniversitiesByUF(string uf)
@@ -98,19 +111,53 @@ namespace MedQuizCards
 
         public void AddScoreToCurrentUniversity()
         {
-            CurrentUniversity.Score++;
+            CurrentUniversity.Pontos++;
+
+            UniversityDatabase.AddScoreAndSave(CurrentUniversity);
+
+        }
+
+        public void AddNewUniversity(UniversityDTO universityDTO)
+        {
+            //UniversityRanking university = new UniversityRanking();
+            //university.ID = int.Parse(universityDTO.id);
+            //university.IES = universityDTO.ies;
+            //university.Campus = universityDTO.campus;
+            //university.UF = universityDTO.uf;
+            //university.Pontos = 0;
+            
+            //if (RemoveAccents)
+            //{
+            //    university.IES = StringUtils.RemoveAccents(university.IES);
+            //    university.Campus = StringUtils.RemoveAccents(university.Campus);
+            //}
+            //university.CompleteName = $"{university.IES} {university.Campus}";
+            //UniversityRankings.Add(university);
+            UniversityDatabase.AddUniversity(universityDTO);
         }
     }
 
     [System.Serializable]
     public class UniversityRanking
     {
-        public int Index;
-        public string UniversityName;
-        public string City;
+        public int ID;
+        public string IES;
         public string UF;
-        public int Score;
+        public string Municipio;
+        public int Pontos;
+        public string Campus;
         public string CompleteName;
 
+    }
+
+    [System.Serializable]
+    public class UniversityDTO
+    {
+        public string id;
+        public string uf;
+        public string municipio;
+        public string ies;
+        public string campus;
+        public string pontos;
     }
 }
