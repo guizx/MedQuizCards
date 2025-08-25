@@ -36,7 +36,7 @@ namespace MedQuizCards
             }
 
             UniversityRanking = university;
-            RankingPositionText.SetText($"{position + 1}.");
+            RankingPositionText.SetText($"{position}.");
             string name = $"{university.IES} {university.Campus}";
             UniversityNameText.SetText(name);
             if (QuizManager.Instance.ShowInUppercase)

@@ -2893,7 +2893,7 @@
             "municipio": "Ribeirão Preto",
             "ies": "CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ",
             "campus": "Campus Ribeirão Preto",
-            "pontos": "5"
+            "pontos": "0"
         },
         {
             "id": "362",
@@ -2901,7 +2901,7 @@
             "municipio": "Campo Limpo Paulista",
             "ies": "CENTRO UNIVERSITÁRIO CAMPO LIMPO PAULISTA",
             "campus": "Campus Campo Limpo Paulista",
-            "pontos": "1"
+            "pontos": "0"
         },
         {
             "id": "363",
@@ -3589,22 +3589,6 @@
             "municipio": "Palmas",
             "ies": "UNIVERSIDADE LUTERANA DO BRASIL",
             "campus": "Campus Palmas",
-            "pontos": "0"
-        },
-        {
-            "id": "449",
-            "uf": "SP",
-            "municipio": "",
-            "ies": "teste",
-            "campus": "teste",
-            "pontos": "2"
-        },
-        {
-            "id": "450",
-            "uf": "AC",
-            "municipio": "",
-            "ies": "Aleatorio",
-            "campus": "Campus aleatorio",
             "pontos": "0"
         }
     ]

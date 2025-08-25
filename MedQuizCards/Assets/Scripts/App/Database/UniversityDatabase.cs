@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace MedQuizCards
 {
@@ -71,6 +72,15 @@ namespace MedQuizCards
                 university.pontos = "0";
             }
             SaveDatabase();
+        }
+
+
+        private void Update()
+        {
+            if(Keyboard.current != null && Keyboard.current.f1Key.wasPressedThisFrame)
+            {
+                ResetAllScores();
+            }
         }
     }
 
