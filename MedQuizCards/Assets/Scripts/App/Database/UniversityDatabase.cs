@@ -1,48 +1,70 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Networking;
 
 namespace MedQuizCards
 {
     public class UniversityDatabase : MonoBehaviour
     {
         public string fileName = "save.json";
-        private string filePath;
+
+        private string persistentFilePath => Path.Combine(Application.persistentDataPath, fileName);
+        private string streamingFilePath => Path.Combine(Application.streamingAssetsPath, fileName);
 
         public List<UniversityDTO> Universities = new List<UniversityDTO>();
 
         private void Awake()
         {
-            filePath = Path.Combine(Application.streamingAssetsPath, fileName);
-            LoadDatabase();
+            StartCoroutine(LoadDatabase());
         }
 
         // ------------------ CARREGAR ------------------
-        public void LoadDatabase()
+        public IEnumerator LoadDatabase()
         {
-            if (File.Exists(filePath))
+            // Se não existir em persistentDataPath, copia de StreamingAssets
+            if (!File.Exists(persistentFilePath))
             {
-                string json = File.ReadAllText(filePath);
+#if UNITY_ANDROID && !UNITY_EDITOR
+            UnityWebRequest www = UnityWebRequest.Get(streamingFilePath);
+            yield return www.SendWebRequest();
 
-                // A Unity não desserializa arrays direto em List, então criamos um wrapper
-                Universities = JsonUtilityWrapper.FromJson<UniversityDTO>(json);
-            }
-            else
+            if (www.result != UnityWebRequest.Result.Success)
             {
-                Debug.LogWarning($"Arquivo não encontrado em {filePath}, criando novo...");
-                Universities = new List<UniversityDTO>();
-                SaveDatabase();
+                Debug.LogError("Erro ao copiar arquivo: " + www.error);
+                yield break;
             }
+
+            File.WriteAllText(persistentFilePath, www.downloadHandler.text);
+#else
+                if (File.Exists(streamingFilePath))
+                    File.Copy(streamingFilePath, persistentFilePath, true);
+                else
+                {
+                    Debug.LogWarning($"Arquivo não encontrado em StreamingAssets: {streamingFilePath}");
+                    //Universities = new List<UniversityDTO>();
+                    //SaveDatabase();
+                    yield break;
+                }
+#endif
+            }
+
+            // Agora lê do persistentDataPath
+            string json = File.ReadAllText(persistentFilePath);
+            Universities = JsonUtilityWrapper.FromJson<UniversityDTO>(json);
+            QuizManager.OnDatabaseReload?.Invoke();
+            yield break;
         }
 
         // ------------------ SALVAR ------------------
         public void SaveDatabase()
         {
             string json = JsonUtilityWrapper.ToJson(Universities, true);
-            File.WriteAllText(filePath, json);
-            Debug.Log("Banco salvo em: " + filePath);
+            File.WriteAllText(persistentFilePath, json);
+            Debug.Log("Banco salvo em: " + persistentFilePath);
         }
 
         // ------------------ ADICIONAR ------------------
